@@ -15,7 +15,7 @@ I've led reps while carrying a quota. At Nuve, I was the founding SDR and took o
 
 My own numbers are why reps listened. At Nuve I ran 85+ touches a day on Nooks, ZoomInfo, Sales Navigator and HubSpot. I booked 3–5 qualified meetings a day when the team averaged 1–4 a week. I finished at 162% of quota and sourced $842.4K in closed-won revenue.
 
-On systems, I implemented Salesforce NPSP from scratch at CROP, including a 12-stage pipeline, objects, reports and dashboards. I've also rolled out dialer, enrichment and scheduling tools to whole sales teams.
+On systems, I implemented Salesforce NPSP from scratch at CROP, including a 12-stage pipeline, objects, reports and dashboards. At Nuve I ran the tech-stack evaluation, including demos and a 3-week Salesloft pilot. I won our CRO's sign-off on ZoomInfo and Nooks, then rolled them out to our 14-rep SDR team with a 30/60/90-day training plan.
 
 I haven't held an SDR Manager title yet, but I have done most of the job: sourcing hires, onboarding, 1:1 coaching, KPI reporting and team training, while staying a top producer. I'm ready to do it full time for a team whose job is to find and help as many service contractors as possible.
 
@@ -26,25 +26,23 @@ Johnny Scott Jorgenson
 
 ---
 
-## 2. Referral Request DM to Arman Aroustamian
+## 2. Referral Request Text to Arman Aroustamian (casual, by text)
 
-> Hey Arman, hope things are going well at ServiceTitan. I'm applying for Manager, Sales Development I (Req ID JR116181): https://servicetitan.wd1.myworkdayjobs.com/en-US/ServiceTitan/job/US-Remote/Manager--Sales-Development-I_JR116181
+> Hey man! Hope Colorado's treating you and your girl well. I've got a bit of a favor to ask. I saw ServiceTitan is hiring a Manager, Sales Development I (remote), and it lines up really well with what I've been doing. At Intaker I've been building out the Home Services vertical, so I've spent the year going after HVAC, plumbing and electrical companies.
 >
-> I've spent this year building Intaker's Home Services outbound to HVAC, plumbing and electrical contractors, so it feels like the right next step.
+> Would you be cool referring me? And do you happen to know who the hiring manager is or who runs the SDR team?
 >
-> Two quick asks:
-> 1. Would you be open to submitting a referral?
-> 2. Do you know who the hiring manager or SDR leadership is for this team?
+> Here's the posting: https://servicetitan.wd1.myworkdayjobs.com/en-US/ServiceTitan/job/US-Remote/Manager--Sales-Development-I_JR116181 (Req JR116181)
 >
-> I can send you my resume and a 3-line blurb you can paste straight into the form. Thanks again for the recommendation you wrote. It meant a lot.
->
-> Johnny
+> I can send you my resume and a quick blurb you can paste into the referral form so it's no extra work for you. No pressure at all. Either way we're overdue for a catch-up call!
+
+**Optional opener:** If you haven't texted in a while, send a quick catch-up text first ("Yo, been a minute! How's remote life treating you?"). Send the ask once he replies.
 
 ### 3-line blurb for Arman's referral form
 
 > Johnny Scott Jorgenson is a former teammate. I watched him help teammates grow and roll out new tools to our whole sales team on his own initiative.
 > Since April he has been building Intaker's Home Services GTM (HVAC, plumbing, electrical): ICP, scripts, multi-channel cadences, and training for the full SDR team.
-> As a player-coach at Nuve he hit 162% of quota and sourced $842.4K in closed-won revenue, while running 1:1s and 30/60/90 evaluations and sourcing top SDR/AE hires.
+> As a player-coach at Nuve he hit 162% of quota and sourced $842.4K in closed-won revenue, while coaching a 14-rep SDR team, running 30/60/90 evaluations, and leading the ZoomInfo/Nooks rollout.
 
 ---
 

@@ -16,7 +16,7 @@ SDR Management (Player-Coach) | Outbound Pipeline Generation | Cold Calling | Co
 
 - Formally supervised 2 Procurement Technicians at the State of California: trained them and quality-checked their work (2019 to 2023).
 - Promoted to Lead Sales Rep at Big Bus Tours: trained new reps, tracked daily performance, reassigned territories, and delivered a weekly rep-metrics report and a sales forecast to the sales leader (2023 to 2024).
-- Player-coach with SDR team-lead duties at Nuve: ran 1:1 coaching, group training and 30/60/90-day evaluations, sourced SDR and AE hires, and set up the KPI dashboards and reports used by the SDR manager and sales leader, all while hitting 162% of quota (2025 to 2026).
+- Player-coach with SDR team-lead duties at Nuve: ran 1:1 coaching, group training and 30/60/90-day evaluations for a 14-rep SDR team, sourced SDR and AE hires, and set up the KPI dashboards and reports used by the SDR manager and sales leader, all while hitting 162% of quota (2025 to 2026).
 - Owned the Home Services vertical go-to-market build at Intaker and trained the entire SDR team on it (2026 to present).
 
 ## Professional Experience
@@ -28,7 +28,7 @@ B2B LegalTech AI SaaS | Los Angeles, CA (Hybrid) | Apr 2026 to Present
 - Wrote the vertical's cold call scripts, email templates and multi-step outbound cadences across phone, email, SMS and LinkedIn DM.
 - Trained the entire SDR team ([add #] reps) on the Home Services vertical and built a click-through enablement dashboard with the scripts, cadences, ICP and objection handling each rep needed to ramp.
 - Sources $220K in monthly mid-market pipeline ($25K to $100K ACV) through targeted outbound prospecting and account research.
-- Hit 130% of monthly meeting quota and maintained an 85% meeting-to-opportunity conversion rate for AEs by qualifying tightly and handling objections about replacing traditional intake services.
+- Averaged 130% of monthly closed-won revenue quota (SDRs measured solely on closed-won revenue, not meetings) and maintained an 85% meeting-to-opportunity conversion rate for AEs by qualifying tightly and handling objections about replacing traditional intake services.
 - Standardized outbound execution across the SDR pod by introducing sequencing logic, MEDDPICC qualification and shared sales tooling; evaluated and rolled out new technologies, including AI-assisted research and messaging, to raise rep efficiency.
 
 ### Founding SDR (Team Lead Duties) / Enablement | Nuve
@@ -40,7 +40,8 @@ Hardware-Enabled PropTech SaaS (VSB & SMB) | Irvine, CA (On-site) | May 2025 to 
 - Coached SDRs through 1:1 sessions and ran group training for the full SDR team on a weekly training cadence; designed onboarding modules and ran 30/60/90-day training plans and performance evaluations.
 - Sourced [add #] SDR and AE hires, including several of the team's top performers, through targeted recruiting outreach and personal LinkedIn network.
 - Advised the SDR manager on which KPI reports to deliver to the sales leader and set up HubSpot dashboards tracking rep activity and conversion KPIs.
-- Identified gaps in the tech stack, then evaluated and rolled out sales enablement technologies (Nooks parallel dialer, ZoomInfo, Chili Piper, Sales Navigator, HubSpot) and outside training bootcamps to shorten ramp time.
+- Led the sales tech-stack evaluation: ran vendor demos and a 3-week Salesloft pilot, built the business case, and won CRO sign-off for ZoomInfo and the Nooks parallel dialer (choosing native HubSpot sequences over Salesloft to avoid redundant spend).
+- Rolled out ZoomInfo and Nooks to the 14-rep SDR team with a 30/60/90-day training and adoption plan; also added Chili Piper and outside training bootcamps to shorten ramp time.
 - Sourced 40+ live demos in 3 days at the Pantheon trade show, more than the rest of the sales team combined, by running booth prospecting and real-time AE meeting routing.
 
 ### GTM Enablement Specialist | CROP Organization
@@ -78,7 +79,7 @@ Sacramento, CA | Feb 2014 to Apr 2019
 ## Tools & Technology
 
 CRM: Salesforce.com (Admin, NPSP implementation, pipeline and dashboard build), HubSpot CRM (dashboards, KPI reporting)
-Sales Engagement: Salesloft/Outreach-style sequencing, Nooks parallel dialer, Apollo.io, Chili Piper
+Sales Engagement: Salesloft (3-week pilot evaluation), HubSpot Sequences, Nooks parallel dialer, Apollo.io, Chili Piper
 Data & Prospecting: ZoomInfo, LinkedIn Sales Navigator, Clay
 Productivity & AI: ChatGPT Enterprise, Claude, Slack, Google Workspace, Loom
 
@@ -99,13 +100,13 @@ HubSpot Inbound, HubSpot Academy
 Placeholders to fill:
 - [Phone] and [Email] in the header.
 - Intaker: [add #] = number of SDRs trained on the Home Services vertical. If available, also add pipeline or meetings sourced from the Home Services vertical. That would be the strongest bullet for ServiceTitan.
-- Nuve: [add #] = number of SDR and AE hires sourced. Also consider adding SDR team size (for example "a [add #]-rep SDR team") to the Nuve team-lead bullets.
+- Nuve: [add #] = number of SDR and AE hires sourced. SDR team size (14 reps) has been added.
 - Big Bus: the number of reps trained or led as Lead Sales Rep is not in the sources. Add it if known (for example "trained [add #] new reps").
 
 Judgment calls:
 - Titles. As instructed, I first used "Founding SDR & Acting SDR Team Lead / Enablement" (Nuve) and "Lead Sales Rep (promoted)" (Big Bus). [Hiring-manager review: changed to the fallback "Founding SDR (Team Lead Duties) / Enablement" and to "Lead Sales Rep (promoted from Street Sales Rep)" on the resume AND LinkedIn, because Nuve had a named SDR manager and "Acting" implies a formal designation HR would not confirm.] Neither matches the current LinkedIn titles ("Founding SDR | Enablement" and "Street Sales Rep"). Update LinkedIn to match before applying, and confirm the titles hold up in a reference or background check. If Nuve would not confirm "Acting SDR Team Lead," fall back to "Founding SDR (Team Lead duties) / Enablement."
 - Nuve manager wording. The interview says he "taught the SDR manager what to do." On the resume I phrased this as "Advised the SDR manager..." so it doesn't read as undercutting a former boss. Be ready to explain the dynamic diplomatically in interviews.
-- Salesloft. I originally listed "Salesloft / Outreach (sales engagement)". [Hiring-manager review: changed to "Salesloft/Outreach-style sequencing", the interview's approved wording, until he confirms Salesloft by name.] The interview notes caution against naming Salesloft unless it's confirmed. Confirm which platform(s) he has actually used and remove any he hasn't. Expect a screening question on it, since the JD lists it as "strongly preferred."
+- Salesloft. I originally listed "Salesloft / Outreach (sales engagement)". [Hiring-manager review: changed to "Salesloft/Outreach-style sequencing", the interview's approved wording, until he confirms Salesloft by name.] The interview notes caution against naming Salesloft unless it's confirmed. [Update Oct 7: Johnny confirmed a 3-week Salesloft pilot at Nuve; now listed honestly as a pilot evaluation. Be ready to explain why HubSpot sequences won.] Expect a screening question on it, since the JD lists it as "strongly preferred."
 - AI and automation are deliberately minimized: OmniBase, the custom scraper, the Hermes agent, the React app and LLM reply drafting are cut or folded into "evaluated and rolled out new technologies." The Intaker $220K pipeline bullet no longer credits the custom crawler. That's accurate, but be ready to discuss how it was sourced.
 - "PDR" is expanded to "Partnership Development Representative." Verify that is the correct expansion. This role is cut to 2 bullets that lead with the Salesforce admin build.
 - Dropped as off-target or hard to defend: the "4,900% CSAT" figure (kept the 184 five-star reviews record), the $340K tech donations, the $87K/yr savings, the $1.1M placement compensation, the procurement "enterprise buyer" stretch language, the State of CA stockout and delay percentages, and the GOCO Oregon Measure 92 and development-approval bullets.
@@ -114,7 +115,7 @@ Judgment calls:
 Candidate must verify:
 - All dates, especially whether the Big Bus promotion date should be shown (for example "Lead Sales Rep, [month/year] to Mar 2024").
 - That the Intaker Home Services vertical work (ICP, scripts, SMS, LinkedIn, email and phone cadences, enablement dashboard, full-team training) is described accurately and is not confidential.
-- That the Intaker metrics ($220K monthly pipeline, 130% meeting quota, 85% meeting-to-opportunity) are still current, since the role is ongoing.
+- That the Intaker metrics ($220K monthly pipeline, 130% of closed-won revenue quota, 85% meeting-to-opportunity) are still current, since the role is ongoing.
 - Graduation years for CSULB and LBCC (left off on purpose; add if comfortable). Also confirm the degree name; LinkedIn shows only a broad business category.
 - Certifications. Both HubSpot certs expire Oct 2026 (this month). Renew them or remove them. LinkedIn Sales Navigator: Essentials expired Sep 2026 and was removed.
 - Name consistency. The resume uses "Johnny Scott Jorgenson." LinkedIn shows "Johnny Scott," and recommendations misspell the last name. Consider updating the LinkedIn display name so ATS and recruiter searches match.

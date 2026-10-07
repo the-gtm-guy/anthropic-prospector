@@ -4,7 +4,7 @@
 **Sources:** job-description.md, linkedin-profile-2026-10-06.md, candidate-interview.md. Every metric below comes from those files. `[add #]` marks a number only Johnny can supply.
 
 > **Guardrails before pasting**
-> - **Salesloft:** not confirmed in the interview. Don't name it anywhere until Johnny confirms hands-on use. Until then, use "Salesloft/Outreach-style sequencing (Apollo, Nooks)", the same wording as the resume.
+> - **Salesloft:** confirmed Oct 7. Johnny ran a 3-week Salesloft pilot at Nuve and chose HubSpot sequences instead. Describe it as a pilot or evaluation, never as daily use.
 > - **Nuve "shadow manager" framing:** Branden and Nuve colleagues can see the profile. On LinkedIn, describe it as *"partnered with the SDR Manager on…"*. Save the fuller "I taught the manager what to report" story for interviews.
 > - **Recruiter keywords this rewrite targets:** SDR Manager, Sales Development Manager, BDR Manager, Sales Development, Outbound, Cold Calling, Pipeline Generation, Coaching, Hiring, Onboarding, 1:1s, KPIs, Salesforce, HubSpot, Home Services, Trades, HVAC, Plumbing, Electrical.
 
@@ -48,7 +48,7 @@ What I've produced on the phones myself:
 • 162% quota attainment and $842.4K in sourced closed-won revenue (Nuve), hitting quota every month
 • 3–5 qualified meetings a day at a 76% show rate
 • 40+ demos sourced in 3 days at a trade show, more than the rest of the team combined
-• 130% of meeting quota and $220K monthly pipeline (Intaker)
+• 130% of monthly closed-won revenue quota and $220K monthly pipeline (Intaker)
 
 Home Services is where I'm focused now. At Intaker I built the whole vertical playbook for HVAC, plumbing, electrical and other trades: market fit, competitor map, ICP, call scripts, and multi-step cadences across phone, SMS, email and LinkedIn. Contractors pick up the phone, and they can tell when you haven't done your homework. I train reps to be ready for that.
 
@@ -71,7 +71,7 @@ Looking for my first full-time Sales Development Manager role, ideally helping c
 
 - **Trained the entire SDR team** (`[add #]` reps) on the new Home Services vertical and built a click-through enablement dashboard with the scripts, cadences, ICP and objection handling each rep needed in one place.
 - **Owned the end-to-end GTM build-out** for Home Services: market-fit assessment, competitor analysis, ICP definition, cold-call scripts, email templates, and multi-step outbound cadences across phone, SMS, LinkedIn and email.
-- **Hit 130% of monthly meeting quota** and sourced **$220K in mid-market pipeline per month** ($25K–$100K ACV) through targeted outbound prospecting and account research.
+- **Averaged 130% of monthly closed-won revenue quota** (SDRs measured on closed-won revenue, not meetings) and sourced **$220K in mid-market pipeline per month** ($25K–$100K ACV) through targeted outbound prospecting and account research.
 - **Maintained an 85% meeting-to-opportunity conversion rate** for AEs through tight qualification and objection handling.
 - Standardized outbound execution across the SDR pod with sequencing logic, MEDDPICC qualification and shared sales tooling, including custom lead enrichment for account research.
 
@@ -87,7 +87,7 @@ Looking for my first full-time Sales Development Manager role, ideally helping c
 
 - **Partnered with the SDR Manager to build the team:** sourced multiple top **SDR and AE hires** through recruiting and my LinkedIn network, and designed and ran **30/60/90-day training and performance evaluations** for new reps.
 - **Coached the SDR team through 1:1 sessions and group trainings**, and built the company's first structured enablement program and weekly training cadence. Team output rose **20%**, adding **60 demos and $126K in closed-won revenue per month**.
-- **Built HubSpot rep-KPI dashboards and leadership reporting.** Defined which activity, conversion and pipeline metrics went to the sales leader, flagged tech-stack gaps, and rolled out new tools (Nooks, ZoomInfo, Chili Piper, Sales Navigator) and outside training programs.
+- **Built HubSpot rep-KPI dashboards and leadership reporting.** Defined which activity, conversion and pipeline metrics went to the sales leader, and led the tech-stack evaluation: ran vendor demos and a 3-week Salesloft pilot, won **CRO sign-off for ZoomInfo and Nooks**, and rolled them out to the **14-rep SDR team** with a 30/60/90-day adoption plan.
 - **Delivered 162% of quota and $842.4K in sourced closed-won revenue** ($15K average deal size) and hit **100%+ of target every month**, booking 3–5 qualified meetings a day (team average: 1–4 a week) at a **76% show rate**.
 - **Sourced 40+ live demos in 3 days at the Pantheon trade show**, more than the rest of the sales team combined, with real-time AE meeting routing.
 
@@ -182,7 +182,7 @@ Keep this role, but trim the "closed-won / enterprise selling" language. Retitle
 | Mentoring | Sales Navigator (LinkedIn Sales Navigator) | Sales Forecasting |
 | | Home Services | Territory Management |
 
-*Add **Salesloft** only after Johnny confirms hands-on use.*
+*Add **Salesloft** as a skill. Johnny confirmed a 3-week hands-on pilot at Nuve; tag it on the Nuve role.*
 
 ### Remove or deprioritize
 | Skill | Action | Why |

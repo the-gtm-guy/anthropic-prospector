@@ -24,3 +24,8 @@ Target role: **ServiceTitan — Manager, Sales Development I (JR116181), US Remo
 1. Tailored ATS-optimized resume (.md)
 2. LinkedIn rewrite (headline, About, experience bullets)
 3. Cover letter + referral request message to Arman
+
+## Follow-up answers (Oct 7, 2026)
+- **Salesloft:** At Nuve he ran a 3-week Salesloft trial as part of a tool evaluation and passed on it because HubSpot covered most of what it does. He also ran demos for ZoomInfo and Nooks, pitched them to the CRO, and got sign-off. He then ran the 30/60/90-day training for the SDR team, which had **about 14 SDRs**.
+- **Intaker quota:** SDRs are measured **only on closed-won revenue** (a monthly quota of $2,000 in closed-won revenue), not on meetings booked or held. He averages **130% of that quota**. The earlier "meeting quota" wording was wrong and has been corrected everywhere.
+- **Arman:** They're friends who text occasionally. Arman now works remotely from Colorado. A casual text works better than a formal DM.
