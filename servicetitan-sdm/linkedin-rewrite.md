@@ -4,7 +4,7 @@
 **Sources:** job-description.md, linkedin-profile-2026-10-06.md, candidate-interview.md. Every metric below comes from those files. `[add #]` marks a number only Johnny can supply.
 
 > **Guardrails before pasting**
-> - **Salesloft:** not confirmed in the interview. Don't name it anywhere until Johnny confirms hands-on use. Until then, use "sales engagement / sequencing platforms (Apollo, Nooks, HubSpot Sequences)".
+> - **Salesloft:** not confirmed in the interview. Don't name it anywhere until Johnny confirms hands-on use. Until then, use "Salesloft/Outreach-style sequencing (Apollo, Nooks)", the same wording as the resume.
 > - **Nuve "shadow manager" framing:** Branden and Nuve colleagues can see the profile. On LinkedIn, describe it as *"partnered with the SDR Manager on…"*. Save the fuller "I taught the manager what to report" story for interviews.
 > - **Recruiter keywords this rewrite targets:** SDR Manager, Sales Development Manager, BDR Manager, Sales Development, Outbound, Cold Calling, Pipeline Generation, Coaching, Hiring, Onboarding, 1:1s, KPIs, Salesforce, HubSpot, Home Services, Trades, HVAC, Plumbing, Electrical.
 
@@ -18,30 +18,30 @@ SDR Leader | Outbound Pipeline Generation | Coaching, Hiring & Onboarding SDRs |
 ```
 *Why:* it leads with the exact title recruiters search for, carries five keyword clusters, names ServiceTitan's vertical and backs it up with a number.
 
-**Option B (manager-title search weighting), 180 characters**
+**Option B (manager-title search weighting), 182 characters**
 ```
-Sales Development Leader | SDR/BDR Coaching, 1:1s & 30/60/90 Ramp | Cold Calling & Outbound Strategy | $842K Closed-Won Sourced | Salesforce, HubSpot, ZoomInfo | Home Services SaaS
+Sales Development Leader | SDR/BDR Coaching, 1:1s & 30/60/90 Ramp | Cold Calling & Outbound Strategy | $842.4K Closed-Won Sourced | Salesforce, HubSpot, ZoomInfo | Home Services SaaS
 ```
 
-**Option C (story-led, still keyword-first), 184 characters**
+**Option C (story-led, still keyword-first), 172 characters**
 ```
-SDR Team Lead & Player-Coach | From Street Sales to Building Outbound Teams | Trained 30+ SDRs | Hiring, Coaching & KPI Reporting | Outbound to HVAC, Plumbing & Electrical | Salesforce
+SDR Player-Coach | From Street Sales to Building Outbound Teams | Trained 30+ SDRs | Hiring, Coaching & KPI Reporting | Outbound to HVAC, Plumbing & Electrical | Salesforce
 ```
 
 > Avoid "Open to Work" or "Seeking" in the headline. Use the recruiter-only setting instead (Section 6).
 
 ---
 
-## 2. About (2,183 characters)
+## 2. About (2,241 characters)
 
 ```
 I learned to sell on Fisherman's Wharf. No CRM, no warm leads: just a sidewalk, a crowd of strangers from every country, and about ten seconds to earn a "yes." That's still how I think about outbound. Every cold call is a stranger on the sidewalk, and the job of an SDR leader is to make sure every rep on the team knows how to win those ten seconds.
 
-I'm a player-coach. I've carried a full cold-outbound quota while building and coaching the teams around me:
+I'm a player-coach. In most of my roles I've carried a full quota while training and coaching the reps around me:
 
-• Big Bus Tours: promoted to Lead Sales Rep. Trained new reps, tracked daily performance, moved reps between territories to lift results, and sent the sales leader weekly rep-metrics and forecast reports.
+• Big Bus Tours: promoted to Lead Sales Rep. Trained new reps, tracked daily performance, moved reps between territories to lift results, and sent the sales leader a weekly rep-metrics report and a sales forecast.
 • CROP: ran outbound training for 30+ SDR fellows across 3 cohorts. Cut ramp time 28%, raised cold email reply rates from 1.8% to 5.2%, and graduated 93% of fellows.
-• Nuve: Founding SDR who partnered with our SDR Manager to build the team. I sourced top SDR and AE hires, ran 1:1 coaching and group trainings, built HubSpot KPI dashboards for leadership, and ran 30/60/90-day ramp evaluations. Team output rose 20% (60 more demos a month).
+• Nuve: Founding SDR who partnered with our SDR Manager to build the team. I sourced top SDR and AE hires, ran 1:1 coaching and group trainings, built HubSpot KPI dashboards for leadership, and ran 30/60/90-day ramp evaluations. The enablement program I built lifted team output 20% (60 more demos a month).
 • Intaker: Sr. SDR who owns the Home Services vertical GTM build-out and trained the full SDR team on it.
 
 What I've produced on the phones myself:
@@ -54,9 +54,9 @@ Home Services is where I'm focused now. At Intaker I built the whole vertical pl
 
 I also build the systems. Salesforce (implemented from scratch), HubSpot, ZoomInfo, Nooks, Apollo, Clay. Reps should spend their time selling, not doing admin.
 
-Looking for my next Sales Development Manager role, ideally helping contractors grow. DMs are open.
+Looking for my first full-time Sales Development Manager role, ideally helping contractors grow. DMs are open.
 ```
-*Character count: 2,183 including spaces. LinkedIn's limit is 2,600.*
+*Character count: 2,241 including spaces. LinkedIn's limit is 2,600.*
 
 ---
 
@@ -65,28 +65,28 @@ Looking for my next Sales Development Manager role, ideally helping contractors 
 > Format: one keyword-rich title, a one-line summary, then 3–5 bullets with leadership first. For each role, add the **Skills** tags listed underneath. LinkedIn's role-level skill tags feed Recruiter search.
 
 ### Intaker
-**Title:** `Senior SDR & Home Services Vertical GTM Lead | B2B AI SaaS`
+**Title:** `Senior Sales Development Representative (SMB & Mid-Market) | Home Services GTM`
 **Dates/Location:** Apr 2026 – Present · Los Angeles, CA · Hybrid
-**Summary line:** Selected to build and lead outbound into the Home Services vertical (HVAC, plumbing, electrical and other trades) while carrying a full Sr. SDR quota.
+**Summary line:** Given ownership of the go-to-market build-out for the Home Services vertical (HVAC, plumbing, electrical and other trades) while carrying a full Sr. SDR quota.
 
-- **Trained the entire SDR team** (`[add #]` reps) on the new Home Services vertical and built a click-through enablement dashboard with scripts, cadences, ICP, objection handling and competitor talk tracks in one place.
+- **Trained the entire SDR team** (`[add #]` reps) on the new Home Services vertical and built a click-through enablement dashboard with the scripts, cadences, ICP and objection handling each rep needed in one place.
 - **Owned the end-to-end GTM build-out** for Home Services: market-fit assessment, competitor analysis, ICP definition, cold-call scripts, email templates, and multi-step outbound cadences across phone, SMS, LinkedIn and email.
-- **Exceeded monthly meeting quota by 130%** and sourced **$220K in mid-market pipeline per month** ($25K–$100K ACV) through cold calling and signal-based outbound.
+- **Hit 130% of monthly meeting quota** and sourced **$220K in mid-market pipeline per month** ($25K–$100K ACV) through targeted outbound prospecting and account research.
 - **Maintained an 85% meeting-to-opportunity conversion rate** for AEs through tight qualification and objection handling.
-- Standardized outbound execution across the SDR pod with sequencing logic, MEDDPICC qualification and custom lead-enrichment tooling that reduced manual research time.
+- Standardized outbound execution across the SDR pod with sequencing logic, MEDDPICC qualification and shared sales tooling, including custom lead enrichment for account research.
 
 **Skills to tag:** Sales Development, Outbound Sales, Cold Calling, Sales Coaching, Sales Enablement, Go-to-Market Strategy, Home Services, Ideal Customer Profile
 
 ---
 
 ### Nuve
-**Title:** `Founding SDR & SDR Team Lead | Hardware-Enabled PropTech SaaS`
-*(If "Team Lead" feels like a stretch to Nuve colleagues, use `Founding SDR | SDR Coaching, Hiring & Enablement Lead`.)*
+**Title:** `Founding SDR (Team Lead Duties) / Enablement | Hardware-Enabled PropTech SaaS`
+*(Matches the resume exactly. Do not use "SDR Team Lead" or "Acting Team Lead": Nuve had a named SDR Manager, and a reference call would not confirm it.)*
 **Dates/Location:** May 2025 – Apr 2026 · Irvine, CA · On-site
 **Summary line:** Player-coach on the founding sales team. Partnered with the SDR Manager to hire, onboard, coach and report on the SDR team while finishing as a top outbound rep.
 
 - **Partnered with the SDR Manager to build the team:** sourced multiple top **SDR and AE hires** through recruiting and my LinkedIn network, and designed and ran **30/60/90-day training and performance evaluations** for new reps.
-- **Coached the SDR team through weekly 1:1s and group training sessions** on cold calling, objection handling and qualification. Team output rose **20%**, adding **60 demos and $126K in closed-won revenue per month**.
+- **Coached the SDR team through 1:1 sessions and group trainings**, and built the company's first structured enablement program and weekly training cadence. Team output rose **20%**, adding **60 demos and $126K in closed-won revenue per month**.
 - **Built HubSpot rep-KPI dashboards and leadership reporting.** Defined which activity, conversion and pipeline metrics went to the sales leader, flagged tech-stack gaps, and rolled out new tools (Nooks, ZoomInfo, Chili Piper, Sales Navigator) and outside training programs.
 - **Delivered 162% of quota and $842.4K in sourced closed-won revenue** ($15K average deal size) and hit **100%+ of target every month**, booking 3–5 qualified meetings a day (team average: 1–4 a week) at a **76% show rate**.
 - **Sourced 40+ live demos in 3 days at the Pantheon trade show**, more than the rest of the sales team combined, with real-time AE meeting routing.
@@ -98,7 +98,7 @@ Looking for my next Sales Development Manager role, ideally helping contractors 
 ### CROP Organization (two roles under one company)
 
 #### Role 1
-**Title:** `SDR Program Lead & Outbound Coach | B2B Tech Sales Accelerator`
+**Title:** `GTM Enablement Specialist | B2B EdTech Sales Accelerator`
 **Dates/Location:** Sep 2024 – May 2025 · Los Angeles Metro · Hybrid
 **Summary line:** Led outbound sales training and performance tracking for 30+ SDR fellows across 3 program cohorts.
 
@@ -111,7 +111,7 @@ Looking for my next Sales Development Manager role, ideally helping contractors 
 **Skills to tag:** Sales Training, Sales Coaching, SDR Onboarding, Sales Playbooks, KPI Dashboards, HubSpot CRM, Apollo.io
 
 #### Role 2
-**Title:** `Partnership Development Rep (Mid-Market & Enterprise) | Salesforce Implementation`
+**Title:** `Partnership Development Representative (Mid-Market & Enterprise) | B2B EdTech Sales Accelerator`
 **Dates/Location:** Mar 2024 – Sep 2024 · San Francisco, CA
 **Summary line:** Ran full-cycle partnership development and built the organization's Salesforce pipeline from scratch.
 
@@ -125,7 +125,7 @@ Looking for my next Sales Development Manager role, ideally helping contractors 
 ---
 
 ### Big Bus Tours
-**Title:** `Lead Sales Rep (Outbound, High-Velocity)`
+**Title:** `Lead Sales Rep (promoted from Street Sales Rep) | High-Velocity Outbound`
 **Dates/Location:** Jan 2023 – Mar 2024 · San Francisco, CA · On-site
 **Summary line:** Promoted to Lead Sales Rep on a high-volume, face-to-face outbound team, and trained, deployed and reported on the rep team while carrying my own number.
 
@@ -140,7 +140,7 @@ Looking for my next Sales Development Manager role, ideally helping contractors 
 ---
 
 ### State of California
-**Title:** `Procurement Specialist & Team Supervisor | Metal Fabrication & Industrial Manufacturing`
+**Title:** `Procurement Specialist | Metal Fabrication & Industrial Manufacturing`
 **Dates/Location:** Apr 2019 – Jan 2023 · Folsom, CA · On-site
 **Summary line:** Supervised procurement technicians and ran purchasing operations for an industrial manufacturing program.
 
@@ -245,7 +245,7 @@ Hook: *"A plumber answers your cold call from under a sink. You have 8 seconds. 
 Body: lessons from building the Home Services playbook at Intaker. Call between jobs (early morning and late afternoon). Lead with booked jobs or missed calls, not "software". Use SMS as a real channel for trades. Learn the language (dispatch, tech, truck, service agreement). Tie it back to Fisherman's Wharf: you earn the next 30 seconds in the first 8. End with: "Anyone selling into the trades: what's your best opener?" *(This positions him squarely in ServiceTitan's market. Keep Intaker-confidential specifics out.)*
 
 **Post 3: "The SDR dashboard I wish every manager had" (Day 10–12)**
-Hook: *"My first week as a founding SDR, nobody could tell me my show rate. So I built the dashboard."*
-Body: the 5–6 KPIs he set up in HubSpot at Nuve and reported to the sales leader (dials, connects, meetings booked, show rate, meeting-to-opp, pipeline sourced), and how the team used them in 1:1s. Add one screenshot with sample data. Mention his own 76% show rate and 162% quota as context, plus the team's 20% output lift. End with: "What's one KPI you track that most SDR teams ignore?"
+Hook: *"At Nuve I helped set up the HubSpot dashboards our SDR team ran on. Here are the KPIs that actually changed behavior in 1:1s."*
+Body: the 5–6 KPIs he set up in HubSpot at Nuve and reported to the sales leader (for example dials, connects, meetings booked, show rate, meeting-to-opp, pipeline sourced; list only the ones he actually built), and how the team used them in 1:1s. Add one screenshot with sample data. Mention his own 76% show rate and 162% quota as context, plus the team's 20% output lift. End with: "What's one KPI you track that most SDR teams ignore?"
 
 > **Engagement tip:** in the same two weeks, leave 3–5 substantive comments a week on posts from ServiceTitan sales leaders and SDR managers. Find them through Arman's network once he agrees to refer. Ask Arman to like or reshare Post 2.

@@ -11,13 +11,13 @@ Dear ServiceTitan Sales Development Hiring Team,
 
 I've spent this year building outbound into your market. When Intaker hired me as a Sr. SDR in April, they gave me the Home Services go-to-market build. I assessed market fit, ran the competitor analysis, defined the ICP, and wrote the call scripts and multi-step cadences (phone, email, SMS, LinkedIn) for HVAC, plumbing and electrical contractors. Then I trained the entire SDR team on the vertical and built the enablement dashboard they work from. That's why I'm applying for Manager, Sales Development I.
 
-I've led reps while carrying a quota. At Nuve, I was the founding SDR and the team's shadow SDR manager. I showed our SDR manager which reports leadership needed, built the HubSpot dashboards for rep KPIs, sourced several of our top SDR and AE hires, ran 1:1 coaching and group training, and ran 30/60/90-day training and performance evaluations. At Big Bus Tours, I was promoted to lead rep. I trained new reps, tracked their daily numbers, reassigned reps to territories where they would produce more, and sent our sales leader a weekly forecast and rep-metrics report. At the State of California, I formally supervised two procurement technicians.
+I've led reps while carrying a quota. At Nuve, I was the founding SDR and took on team-lead duties. I partnered with our SDR manager on the reports leadership needed, built the HubSpot dashboards for rep KPIs, sourced several of our top SDR and AE hires, ran 1:1 coaching and group training, and ran 30/60/90-day training and performance evaluations. At Big Bus Tours, I was promoted to lead rep. I trained new reps, tracked their daily numbers, reassigned reps to territories where they would produce more, and sent our sales leader a weekly rep-metrics report and a sales forecast. At the State of California, I formally supervised two procurement technicians.
 
 My own numbers are why reps listened. At Nuve I ran 85+ touches a day on Nooks, ZoomInfo, Sales Navigator and HubSpot. I booked 3–5 qualified meetings a day when the team averaged 1–4 a week. I finished at 162% of quota and sourced $842.4K in closed-won revenue.
 
 On systems, I implemented Salesforce NPSP from scratch at CROP, including a 12-stage pipeline, objects, reports and dashboards. I've also rolled out dialer, enrichment and scheduling tools to whole sales teams.
 
-I haven't held the SDR Manager title for two years. I have done the job: recruiting, onboarding, 1:1s, KPI reporting to leadership and coaching, across three teams, while staying a top producer. I'm ready to do it full time for a team whose job is to find and help as many service contractors as possible.
+I haven't held an SDR Manager title yet, but I have done most of the job: sourcing hires, onboarding, 1:1 coaching, KPI reporting and team training, while staying a top producer. I'm ready to do it full time for a team whose job is to find and help as many service contractors as possible.
 
 I'd welcome 20 minutes to walk you through how I'd run my first 90 days.
 
@@ -42,8 +42,8 @@ Johnny Scott Jorgenson
 
 ### 3-line blurb for Arman's referral form
 
-> Johnny Scott Jorgenson is a former teammate. I watched him coach reps and roll out new tools to our whole sales team on his own initiative.
-> He built Intaker's Home Services GTM (HVAC, plumbing, electrical): ICP, scripts, multi-channel cadences, and training for the full SDR team.
+> Johnny Scott Jorgenson is a former teammate. I watched him help teammates grow and roll out new tools to our whole sales team on his own initiative.
+> Since April he has been building Intaker's Home Services GTM (HVAC, plumbing, electrical): ICP, scripts, multi-channel cadences, and training for the full SDR team.
 > As a player-coach at Nuve he hit 162% of quota and sourced $842.4K in closed-won revenue, while running 1:1s and 30/60/90 evaluations and sourcing top SDR/AE hires.
 
 ---
@@ -64,7 +64,7 @@ Johnny Scott Jorgenson
 >
 > This year I owned Intaker's Home Services GTM build. I defined the ICP for HVAC, plumbing and electrical contractors, wrote the scripts and phone/email/SMS/LinkedIn cadences, and trained the full SDR team on the vertical.
 >
-> Before that, at Nuve, I was the founding SDR and the team's shadow SDR manager. I built the HubSpot rep-KPI dashboards, sourced top SDR and AE hires, and ran 1:1s and 30/60/90-day evaluations. I did that while hitting 162% of quota on 85+ daily touches and sourcing $842.4K in closed-won revenue. I've also implemented Salesforce from scratch.
+> Before that, at Nuve, I was the founding SDR with team-lead duties. I built the HubSpot rep-KPI dashboards, sourced top SDR and AE hires, and ran 1:1s and 30/60/90-day evaluations. I did that while hitting 162% of quota on 85+ daily touches and sourcing $842.4K in closed-won revenue. I've also implemented Salesforce from scratch.
 >
 > I'd value 15 minutes to hear what you need most from this hire and share how I'd approach the first 90 days.
 >
@@ -88,4 +88,6 @@ Johnny Scott Jorgenson
 - **Salesloft is not claimed anywhere.** Per the interview notes, name it only after Johnny confirms hands-on use. If he does, add "Salesloft" to the Nooks/ZoomInfo/Sales Navigator/HubSpot tool list in the cover letter.
 - **Hiring wording:** The interview notes say he *sourced* top SDR and AE hires at Nuve, so the letter says "sourced." It doesn't say he made the hiring decisions.
 - **Arman's company:** The recommendation says only "worked on the same team," so the DM and blurb don't name the shared employer.
-- The cover letter is about 340 words, inside the 250–350 target.
+- The cover letter is about 340 words (body), inside the 250–350 target.
+- **Nuve framing (hiring-manager review):** "shadow SDR manager" and "I showed our SDR manager" were removed from the letter and InMail. Branden is a likely reference, and the resume and LinkedIn both say "partnered with"/"advised." Keep the fuller story for the interview.
+- **Referral line:** once Arman confirms he has submitted the referral, add one sentence to the first paragraph: "Arman Aroustamian on your sales team, a former teammate, referred me." Don't add it before he agrees.
