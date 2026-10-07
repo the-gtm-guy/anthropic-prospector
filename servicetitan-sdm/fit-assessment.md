@@ -10,7 +10,7 @@ Your interview answers closed most of the "no management experience" gap. You ha
 
 | JD requirement | Match | Evidence |
 |---|---|---|
-| Direct SDR/BDR experience | ✅ Strong | Founding SDR at Nuve (162% of quota, $842.4K closed-won sourced). Sr. SDR at Intaker (130% of monthly closed-won quota, about 23 opportunities a month). Top-3 producer on a 14+ rep team at Nuve |
+| Direct SDR/BDR experience | ✅ Strong | Founding SDR at Nuve (162% of quota, $842.4K closed-won sourced). Sr. SDR at Intaker (about 185% of monthly closed-won quota from about 23 opportunities a month). Top-3 producer on a 14+ rep team at Nuve |
 | Team lead or team management experience | 🟡 Good | Lead Sales Rep at Big Bus. SDR team-lead duties at Nuve. Supervised 2 people at the State of CA |
 | 2+ years of SDR *management* (strong preference) | 🔴 Gap | Leadership was informal or in non-SDR roles. This is the main objection to prepare for |
 | Outbound cold calling | ✅ Strong | 85+ daily touches on the Nooks dialer, street and convention sales |

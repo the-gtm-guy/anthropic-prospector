@@ -33,3 +33,9 @@ Target role: **ServiceTitan — Manager, Sales Development I (JR116181), US Remo
 ## Metric corrections (Oct 7, 2026, second follow-up)
 - **Intaker:** monthly quota $2,000 in closed-won MRR. Averaged 130% (about $2,600). Average opportunity about $600 MRR. 27% of opportunities closed-won. Derived: about 4.3 deals and about 16 opportunities a month (about $9.6K pipeline). The earlier $220K pipeline, "$25K-$100K ACV" and "85% meeting-to-opportunity" claims were removed.
 - **Nuve:** quota of 15 demos held and 3 closed-won a month. Actual: 30-35 demos booked (76% show rate, about 23-27 held), 4-5 closed deals a month on average (7-9 in best months), $15K average ACV. This is consistent with $842.4K at 162% of quota. The earlier "3-5 meetings a day" claim was removed.
+
+## Third follow-up (Oct 7, 2026)
+- **Intaker:** about 23 opportunities created a month. After seeing that 23 x 27% x $600 is about $3,700 against a $2,000 quota, he chose to use **about 185% attainment** (replacing the earlier 130%). Trained **4 SDRs and 4 AEs**, and handed the playbook to the **Sales Enablement Director** so he could fold it into company knowledge and build training on top.
+- **Nuve:** sourced **4 SDRs and 1 AE** who were hired. Says he is usually top 1-3 on 15-20 person SDR teams (the documents use "top 3 of a 14+ rep team" for Nuve only).
+- **Big Bus:** trained **8 or more** new reps as Lead Sales Rep.
+- Contact details were provided and added to the resume header.

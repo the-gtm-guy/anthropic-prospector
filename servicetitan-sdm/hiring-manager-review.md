@@ -3,7 +3,7 @@
 **Reviewer lens:** Director of Sales Development, vertical SaaS. I've screened hundreds of SDR-to-manager candidates.
 **Reviewed:** resume-servicetitan-sdm.md, linkedin-rewrite.md, cover-letter-and-referral.md, checked against job-description.md, linkedin-profile-2026-10-06.md and candidate-interview.md. Date: Oct 7, 2026.
 
-> **Update, Oct 7 (after later corrections):** the metrics changed after this review. Current figures: Intaker is 130% of a monthly closed-won MRR quota with about 23 opportunities a month (the $220K pipeline, 27%, $600 and 85% claims were dropped). Nuve is 30-35 demos booked a month against a quota of 15 held, 4-5 closed deals a month against a quota of 3, 162% of quota, and a top-3 rank on a 14+ rep team. Contact info and the hire and training counts are filled in. The fix table below describes the original drafts.
+> **Update, Oct 7 (after later corrections):** the metrics changed after this review. Current figures: Intaker is about 185% of a monthly closed-won MRR quota from about 23 opportunities a month at a 27% close rate (the $220K pipeline, $25K-$100K ACV and 85% claims were dropped). Nuve is 30-35 demos booked a month against a quota of 15 held, 4-5 closed deals a month against a quota of 3, 162% of quota, and a top-3 rank on a 14+ rep team. Contact info and the hire and training counts are filled in. The fix table below describes the original drafts.
 
 ---
 
@@ -88,7 +88,7 @@
 
 ## 4. Before you hit submit (checklist)
 
-1. ~~**Confirm the Intaker meeting metric.**~~ **Resolved Oct 7:** the quota is closed-won revenue only, and he averages 130% of it. All documents now say "130% of monthly closed-won revenue quota." Original note: Was it 130% *of* quota or quota exceeded *by* 130%? Every document now says "130% of monthly meeting quota." Change it everywhere only if the larger number is true and provable.
+1. ~~**Confirm the Intaker meeting metric.**~~ **Resolved Oct 7:** the quota is closed-won revenue only, and he later settled on about 185% of it (23 opportunities a month, 27% close rate, about $600 average). All documents now say "about 185%." Original note: Was it 130% *of* quota or quota exceeded *by* 130%? Every document now says "130% of monthly meeting quota." Change it everywhere only if the larger number is true and provable.
 2. ~~**Fill every `[add #]`**~~ **Mostly done Oct 7:** Intaker training counts, Nuve hires, phone and email are in. Still open: the number of reps trained at Big Bus (LinkedIn only). Then delete both "Writer's Notes" sections from anything you send.
 3. **Update the live LinkedIn titles before applying** so they match the resume exactly: Nuve "Founding SDR (Team Lead Duties) / Enablement", Big Bus "Lead Sales Rep (promoted from Street Sales Rep)", Intaker "Senior Sales Development Representative (SMB & Mid-Market)".
 4. ~~**Salesloft:**~~ **Resolved Oct 7:** he ran a 3-week Salesloft pilot at Nuve. It is listed as a pilot evaluation, and the ZoomInfo/Nooks CRO sign-off and rollout to 14 SDRs were added. Original note: confirm yes or no. If yes, add it by name to the resume Tools, the LinkedIn skills and the cover-letter tool list. If no, leave "Salesloft/Outreach-style sequencing" as it is.

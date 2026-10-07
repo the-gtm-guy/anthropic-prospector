@@ -32,14 +32,14 @@ SDR Player-Coach | From Street Sales to Building Outbound Teams | Trained 30+ SD
 
 ---
 
-## 2. About (2,495 characters)
+## 2. About (2,512 characters)
 
 ```
 I learned to sell on Fisherman's Wharf. No CRM, no warm leads: just a sidewalk, a crowd of strangers from every country, and about ten seconds to earn a "yes." That's still how I think about outbound. Every cold call is a stranger on the sidewalk, and the job of an SDR leader is to make sure every rep on the team knows how to win those ten seconds.
 
 I'm a player-coach. In most of my roles I've carried a full quota while training and coaching the reps around me:
 
-• Big Bus Tours: promoted to Lead Sales Rep. Trained new reps, tracked daily performance, moved reps between territories to lift results, and sent the sales leader a weekly rep-metrics report and a sales forecast.
+• Big Bus Tours: promoted to Lead Sales Rep. Trained 8+ new reps, tracked daily performance, moved reps between territories to lift results, and sent the sales leader a weekly rep-metrics report and a sales forecast.
 • CROP: ran outbound training for 30+ SDR fellows across 3 cohorts. Cut ramp time 28%, raised cold email reply rates from 1.8% to 5.2%, and graduated 93% of fellows.
 • Nuve: Founding SDR who partnered with our SDR Manager to build the team. I sourced 5 hires (4 SDRs and an AE), ran 1:1 coaching and group trainings, built HubSpot KPI dashboards for leadership, and ran 30/60/90-day ramp evaluations. The enablement program I built lifted team output 20% (60 more demos a month).
 • Intaker: Sr. SDR who owns the Home Services vertical GTM build-out. Trained 4 SDRs and 4 AEs on it and handed the playbook to our Sales Enablement Director to build into company training.
@@ -49,7 +49,7 @@ What I've produced on the phones myself:
 • Consistently a top-3 producer on a 14+ rep SDR team (Nuve)
 • 30–35 demos booked a month (76% show rate) against a quota of 15 held, with 4–5 closed deals a month against a quota of 3
 • 40+ demos sourced in 3 days at a trade show, more than the rest of the team combined
-• 130% of monthly closed-won MRR quota, creating about 23 opportunities a month (Intaker)
+• About 185% of monthly closed-won MRR quota from about 23 opportunities a month, closing 27% (Intaker)
 
 Home Services is where I'm focused now. At Intaker I built the whole vertical playbook for HVAC, plumbing, electrical and other trades: market fit, competitor map, ICP, call scripts, and multi-step cadences across phone, SMS, email and LinkedIn. Contractors pick up the phone, and they can tell when you haven't done your homework. I train reps to be ready for that.
 
@@ -57,7 +57,7 @@ I also build the systems. Salesforce (implemented from scratch), HubSpot, ZoomIn
 
 Looking for my first full-time Sales Development Manager role, ideally helping contractors grow. DMs are open.
 ```
-*Character count: 2,495 including spaces. LinkedIn's limit is 2,600.*
+*Character count: 2,512 including spaces. LinkedIn's limit is 2,600.*
 
 ---
 
@@ -72,8 +72,8 @@ Looking for my first full-time Sales Development Manager role, ideally helping c
 
 - **Trained 4 SDRs and 4 AEs** on the new Home Services vertical with a click-through enablement dashboard (scripts, cadences, ICP and objection handling), then **handed the playbook to the Sales Enablement Director** to build into company training.
 - **Owned the end-to-end GTM build-out** for Home Services: market-fit assessment, competitor analysis, ICP definition, cold-call scripts, email templates, and multi-step outbound cadences across phone, SMS, LinkedIn and email.
-- **Averaged 130% of monthly closed-won MRR quota** (SDRs measured on closed-won revenue, not meetings), creating about **23 opportunities a month** through targeted outbound prospecting and account research.
-- **Qualified tightly and handled objections** about replacing traditional intake services with AI intake agents.
+- **Averaged about 185% of monthly closed-won MRR quota** (SDRs measured on closed-won revenue, not meetings) by creating about **23 opportunities a month** through targeted outbound prospecting and account research.
+- **Closed 27% of the opportunities I created** through tight qualification and objection handling about replacing traditional intake services with AI intake agents.
 - Standardized outbound execution across the SDR pod with sequencing logic, MEDDPICC qualification and shared sales tooling, including custom lead enrichment for account research.
 
 **Skills to tag:** Sales Development, Outbound Sales, Cold Calling, Sales Coaching, Sales Enablement, Go-to-Market Strategy, Home Services, Ideal Customer Profile
@@ -130,7 +130,7 @@ Looking for my first full-time Sales Development Manager role, ideally helping c
 **Dates/Location:** Jan 2023 – Mar 2024 · San Francisco, CA · On-site
 **Summary line:** Promoted to Lead Sales Rep on a high-volume, face-to-face outbound team, and trained, deployed and reported on the rep team while carrying my own number.
 
-- **Trained new sales reps** (`[add #]` reps) on the pitch, qualification and objection handling, and **tracked each rep's daily performance**.
+- **Trained 8+ new sales reps** on the pitch, qualification and objection handling, and **tracked each rep's daily performance**.
 - **Reassigned reps across territories** based on performance data to improve team results, and submitted a **weekly rep-metrics report and sales forecast** to the sales leader, who used them for scheduling and placement decisions.
 - **Averaged 130% of quota** through high-volume, face-to-face outbound selling in a saturated, highly competitive market.
 - **Closed 65% of monthly revenue at premium pricing** by reframing buyer priorities and beating lower-priced competitors without discounting.

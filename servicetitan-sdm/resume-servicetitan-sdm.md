@@ -15,7 +15,7 @@ SDR Management (Player-Coach) | Outbound Pipeline Generation | Cold Calling | Co
 ## Leadership Experience
 
 - Formally supervised 2 Procurement Technicians at the State of California: trained them and quality-checked their work (2019 to 2023).
-- Promoted to Lead Sales Rep at Big Bus Tours: trained new reps, tracked daily performance, reassigned territories, and delivered a weekly rep-metrics report and a sales forecast to the sales leader (2023 to 2024).
+- Promoted to Lead Sales Rep at Big Bus Tours: trained 8+ new reps, tracked daily performance, reassigned territories, and delivered a weekly rep-metrics report and a sales forecast to the sales leader (2023 to 2024).
 - Player-coach with SDR team-lead duties at Nuve: ran 1:1 coaching, group training and 30/60/90-day evaluations for a 14-rep SDR team, sourced 5 SDR and AE hires, and set up the KPI dashboards and reports used by the SDR manager and sales leader, all while hitting 162% of quota (2025 to 2026).
 - Owned the Home Services vertical go-to-market build at Intaker and trained 4 SDRs and 4 AEs on it (2026 to present).
 
@@ -27,7 +27,7 @@ B2B LegalTech AI SaaS | Los Angeles, CA (Hybrid) | Apr 2026 to Present
 - Built and launched the Home Services vertical go-to-market motion (HVAC, plumbing, electrical and other trades) from scratch: assessed market fit, ran the competitor analysis and TAM sizing, and defined the ICP while carrying a full personal quota.
 - Wrote the vertical's cold call scripts, email templates and multi-step outbound cadences across phone, email, SMS and LinkedIn DM.
 - Trained 4 SDRs and 4 AEs on the Home Services vertical using a click-through enablement dashboard (scripts, cadences, ICP and objection handling), then handed the playbook to the Sales Enablement Director to build into company training.
-- Averaged 130% of monthly closed-won MRR quota (SDRs measured solely on closed-won revenue, not meetings), creating about 23 opportunities a month through targeted outbound prospecting and account research.
+- Averaged about 185% of monthly closed-won MRR quota (SDRs measured solely on closed-won revenue, not meetings) by creating about 23 opportunities a month through targeted outbound prospecting and account research, closing 27% of them.
 - Qualified tightly and handled objections about replacing traditional intake services with AI intake agents.
 - Standardized outbound execution across the SDR pod by introducing sequencing logic, MEDDPICC qualification and shared sales tooling; evaluated and rolled out new technologies, including AI-assisted research and messaging, to raise rep efficiency.
 
@@ -61,7 +61,7 @@ B2B EdTech Sales Accelerator | San Francisco, CA | Mar 2024 to Sep 2024
 ### Lead Sales Rep (promoted from Street Sales Rep) | Big Bus Tours
 High-Velocity Outbound Sales | San Francisco, CA | Jan 2023 to Mar 2024
 
-- As Lead Sales Rep, trained new sales reps, tracked their daily performance, and reassigned reps to territories to improve results.
+- As Lead Sales Rep, trained 8+ new sales reps, tracked their daily performance, and reassigned reps to territories to improve results.
 - Submitted a weekly rep-metrics report and a sales forecast to the sales leader, who used them for scheduling and placement decisions.
 - Averaged 130% of quota through high-volume, face-to-face outbound selling, closing 65% of monthly revenue at premium pricing tiers without discounting.
 - Grew net-new customer acquisition by 20% with localized outreach campaigns, and set an all-time company record of 184 five-star reviews in a single month.
@@ -101,7 +101,7 @@ Placeholders to fill:
 - Phone and email added to the header (Oct 7).
 - Intaker: Johnny trained 4 SDRs and 4 AEs and handed the playbook to the Sales Enablement Director (Oct 7). Do not say "entire SDR team" unless the Intaker SDR team really is just those 4 reps.
 - Nuve: Johnny sourced 5 hires (4 SDRs, 1 AE), all hired (Oct 7). Confirm "multiple top performers" is accurate. SDR team size: 14 reps in one answer, "15 to 20" in another, so the rank claim says "14+".
-- Big Bus: the number of reps trained or led as Lead Sales Rep is not in the sources. Add it if known (for example "trained [add #] new reps").
+- Big Bus: Johnny trained 8 or more new reps as Lead Sales Rep (Oct 7), so the resume says "8+".
 
 Judgment calls:
 - Titles. As instructed, I first used "Founding SDR & Acting SDR Team Lead / Enablement" (Nuve) and "Lead Sales Rep (promoted)" (Big Bus). [Hiring-manager review: changed to the fallback "Founding SDR (Team Lead Duties) / Enablement" and to "Lead Sales Rep (promoted from Street Sales Rep)" on the resume AND LinkedIn, because Nuve had a named SDR manager and "Acting" implies a formal designation HR would not confirm.] Neither matches the current LinkedIn titles ("Founding SDR | Enablement" and "Street Sales Rep"). Update LinkedIn to match before applying, and confirm the titles hold up in a reference or background check. If Nuve would not confirm "Acting SDR Team Lead," fall back to "Founding SDR (Team Lead duties) / Enablement."
@@ -115,7 +115,7 @@ Judgment calls:
 Candidate must verify:
 - All dates, especially whether the Big Bus promotion date should be shown (for example "Lead Sales Rep, [month/year] to Mar 2024").
 - That the Intaker Home Services vertical work (ICP, scripts, SMS, LinkedIn, email and phone cadences, enablement dashboard, full-team training) is described accurately and is not confidential.
-- Intaker: 130% of quota and about 23 opportunities a month are Johnny's own figures. The earlier 27% close rate and $600 average opportunity were dropped because they do not reconcile with 23 opportunities (23 x 27% x $600 = about $3,700, or 186% of a $2,000 quota, not 130%). Restoring either one means another number has to change. The 85% meeting-to-opportunity stat was cut because Intaker did not measure it. Nuve: 30 to 35 demos booked, 4 to 5 closed deals on average (7 to 9 in best months), $15K ACV, quota of 15 held and 3 closed. The top-3 rank claim is Johnny's own statement: be ready to name who can confirm it (leaderboard, manager).
+- Intaker: the figure of about 185% of quota comes from Johnny's own inputs: about 23 opportunities a month x a 27% close rate x about $600 average MRR = about $3,700, against a $2,000 monthly quota. He first said 130%, then chose 185% on Oct 7 because it is the figure consistent with his other three numbers. Be ready to walk through that math out loud. The $600 is intentionally not on the resume. The 85% meeting-to-opportunity stat was cut because Intaker did not measure it. Nuve: 30 to 35 demos booked, 4 to 5 closed deals on average (7 to 9 in best months), $15K ACV, quota of 15 held and 3 closed. The top-3 rank claim is Johnny's own statement: be ready to name who can confirm it (leaderboard, manager).
 - Graduation years for CSULB and LBCC (left off on purpose; add if comfortable). Also confirm the degree name; LinkedIn shows only a broad business category.
 - Certifications. Both HubSpot certs expire Oct 2026 (this month). Renew them or remove them. LinkedIn Sales Navigator: Essentials expired Sep 2026 and was removed.
 - Name consistency. The resume uses "Johnny Scott Jorgenson." LinkedIn shows "Johnny Scott," and recommendations misspell the last name. Consider updating the LinkedIn display name so ATS and recruiter searches match.

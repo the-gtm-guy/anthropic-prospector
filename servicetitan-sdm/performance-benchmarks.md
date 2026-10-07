@@ -8,7 +8,7 @@ Only the Bridge Group is a primary survey. The other figures come from vendor bl
 
 | Metric | Typical | Your number | How to use it |
 |---|---|---|---|
-| **SDRs at quota** | Only **60%** of SDRs hit quota in 2025, the lowest the Bridge Group has recorded ([Bridge Group 2025](https://www.bridgegroupinc.com/research/2025-sdr-models-metrics-report-the-bridge-group)) | **162%** (Nuve), **130%** (Intaker) | "Only about six in ten SDRs hit quota in the latest industry survey. I cleared it by 30 to 60%." |
+| **SDRs at quota** | Only **60%** of SDRs hit quota in 2025, the lowest the Bridge Group has recorded ([Bridge Group 2025](https://www.bridgegroupinc.com/research/2025-sdr-models-metrics-report-the-bridge-group)) | **162%** (Nuve), about **185%** (Intaker) | "Only about six in ten SDRs hit quota in the latest industry survey. I cleared it by 60 to 85%." |
 | **New-SDR ramp time** | About **3 months** (Bridge Group 2025) | Cut ramp time **28%** at CROP | "Industry ramp is roughly three months. Shortening it is the lever I'd pull as a manager, and at CROP I cut it 28%." |
 | **SDR tenure and turnover** | Average tenure about **1.9 years**. Median turnover **40%**, which includes 16 points of promotions (Bridge Group 2025) | n/a | Manager-level point: retention and promotion are part of the job, not just hitting numbers. |
 | **Meetings booked per month** (outbound B2B SaaS) | About **12 to 15** typical, 18 to 20 good, 25+ top performers ([Prospeo](https://prospeo.io/s/sdr-performance-metrics), citing Operatix; [FullEnrich](https://www.fullenrich.com/content/sdr-metrics-faq) says 8 to 15 for many SMB and mid-market programs) | **30 to 35 booked** at Nuve (about 23 to 27 held) | "Published benchmarks put top performers at 25+ booked. I was running 30 to 35." |
@@ -18,7 +18,7 @@ Only the Bridge Group is a primary survey. The other figures come from vendor bl
 
 ## Where the benchmarks help and where they don't
 - **They help most at Nuve.** Booking 30 to 35 demos a month and closing 4 to 5 deals puts you well above the typical ranges.
-- **They don't help at Intaker.** About 23 opportunities a month at a small average deal size is fine but not a headline. Lead with the 130% and the Home Services build-out.
+- **At Intaker, lead with the percentage.** The quota was small ($2,000 a month), so about 185% of it plus the Home Services build-out tells the story better than dollar amounts.
 - **Definitions vary.** "Meeting," "opportunity," and "quota" mean different things at different companies. When you quote a benchmark in an interview, state your own definition too.
 
 ## Caveats on the sources
