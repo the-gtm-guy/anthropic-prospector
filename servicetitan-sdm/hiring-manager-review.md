@@ -16,7 +16,7 @@
 **Why not Advance outright:**
 - **Zero formal SDR direct reports.** The JD "strongly prefers 2+ years SDR management." His only formal reports were 2 procurement technicians at the State of California, a non-sales role.
 - **Tenure.** Intaker is 6 months and he is already looking. Nuve was 11 months, Big Bus 15 months and CROP 15 months across two roles. That is four employers in under three years. I will ask, "Will he stay 18 months?"
-- **Salesforce depth.** The JD calls Salesforce "a must." His Salesforce work is one NPSP nonprofit implementation in 2024. His daily selling CRM has been HubSpot. Salesloft is unconfirmed.
+- **Salesforce depth.** The JD calls Salesforce "a must." His Salesforce work is one NPSP nonprofit implementation in 2024. His daily selling CRM has been HubSpot. He ran a 3-week Salesloft pilot at Nuve (not daily use), so prepare to explain why HubSpot sequences won.
 - **The package, as first written, had reference-check exposure.** Examples: an "Acting SDR Team Lead" title at a company with a named SDR manager, "shadow SDR manager" in the cover letter, retitled CROP and State of CA roles, and "weekly 1:1s" that the sources don't support. I've fixed those below. If they had gone out, I'd have marked this Reject after the reference call.
 
 **What moves it to Advance:** Arman's referral, a Nuve reference (ideally Branden or an SDR he coached) who confirms the coaching and hiring work, and a clean, specific answer on Salesforce reporting.
@@ -86,10 +86,10 @@
 
 ## 4. Before you hit submit (checklist)
 
-1. **Confirm the Intaker meeting metric.** Was it 130% *of* quota or quota exceeded *by* 130%? Every document now says "130% of monthly meeting quota." Change it everywhere only if the larger number is true and provable.
+1. ~~**Confirm the Intaker meeting metric.**~~ **Resolved Oct 7:** the quota is closed-won revenue only, and he averages 130% of it. All documents now say "130% of monthly closed-won revenue quota." Original note: Was it 130% *of* quota or quota exceeded *by* 130%? Every document now says "130% of monthly meeting quota." Change it everywhere only if the larger number is true and provable.
 2. **Fill every `[add #]`** (Intaker SDRs trained, Nuve hires sourced), plus [Phone] and [Email]. Then delete both "Writer's Notes" sections from anything you send.
 3. **Update the live LinkedIn titles before applying** so they match the resume exactly: Nuve "Founding SDR (Team Lead Duties) / Enablement", Big Bus "Lead Sales Rep (promoted from Street Sales Rep)", Intaker "Senior Sales Development Representative (SMB & Mid-Market)".
-4. **Salesloft:** confirm yes or no. If yes, add it by name to the resume Tools, the LinkedIn skills and the cover-letter tool list. If no, leave "Salesloft/Outreach-style sequencing" as it is.
+4. ~~**Salesloft:**~~ **Resolved Oct 7:** he ran a 3-week Salesloft pilot at Nuve. It is listed as a pilot evaluation, and the ZoomInfo/Nooks CRO sign-off and rollout to 14 SDRs were added. Original note: confirm yes or no. If yes, add it by name to the resume Tools, the LinkedIn skills and the cover-letter tool list. If no, leave "Salesloft/Outreach-style sequencing" as it is.
 5. **Line up your references before you're asked:** Branden (Nuve SDR manager), one Nuve SDR you coached, and your Big Bus sales leader. Tell each what the resume says about your role so their stories match.
 6. **Get Arman's referral submitted first**, then add the one-line referral sentence to the cover letter.
 7. **Name and URL:** change the LinkedIn display name to Jorgenson, and make the resume header's LinkedIn URL match the custom URL you end up with.
