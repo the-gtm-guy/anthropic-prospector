@@ -1,12 +1,12 @@
 # Johnny Scott Jorgenson
 
-Los Angeles, CA (Open to Remote) | [Phone] | [Email] | linkedin.com/in/johnny-b-scott
+Los Angeles, CA (Open to Remote) | 562-449-7609 | jorgenllc@gmail.com | linkedin.com/in/johnny-b-scott
 
 Sales Development Leader | Outbound SDR Coaching, Hiring & Pipeline Generation
 
 ## Summary
 
-Player-coach sales development leader who has coached, onboarded and recruited SDRs while carrying a full cold-calling quota. Generated $842.4K in net-new closed-won revenue at 162% of quota as a founding SDR, and built the enablement program that lifted team-wide output by 20%. Built the Home Services (HVAC, plumbing, electrical) outbound go-to-market motion and trained the full SDR team to run it. Has run 1:1 coaching and 30/60/90-day evaluations, delivered weekly rep-metrics reports to sales leadership, and evaluated and rolled out new sales enablement technologies, backed by hands-on Salesforce.com admin experience.
+Player-coach sales development leader who has coached, onboarded and recruited SDRs while carrying a full cold-calling quota. Generated $842.4K in net-new closed-won revenue at 162% of quota as a founding SDR, and built the enablement program that lifted team-wide output by 20%. Built the Home Services (HVAC, plumbing, electrical) outbound go-to-market motion and trained 4 SDRs and 4 AEs to run it. Has run 1:1 coaching and 30/60/90-day evaluations, delivered weekly rep-metrics reports to sales leadership, and evaluated and rolled out new sales enablement technologies, backed by hands-on Salesforce.com admin experience.
 
 ## Core Competencies
 
@@ -16,8 +16,8 @@ SDR Management (Player-Coach) | Outbound Pipeline Generation | Cold Calling | Co
 
 - Formally supervised 2 Procurement Technicians at the State of California: trained them and quality-checked their work (2019 to 2023).
 - Promoted to Lead Sales Rep at Big Bus Tours: trained new reps, tracked daily performance, reassigned territories, and delivered a weekly rep-metrics report and a sales forecast to the sales leader (2023 to 2024).
-- Player-coach with SDR team-lead duties at Nuve: ran 1:1 coaching, group training and 30/60/90-day evaluations for a 14-rep SDR team, sourced SDR and AE hires, and set up the KPI dashboards and reports used by the SDR manager and sales leader, all while hitting 162% of quota (2025 to 2026).
-- Owned the Home Services vertical go-to-market build at Intaker and trained the entire SDR team on it (2026 to present).
+- Player-coach with SDR team-lead duties at Nuve: ran 1:1 coaching, group training and 30/60/90-day evaluations for a 14-rep SDR team, sourced 5 SDR and AE hires, and set up the KPI dashboards and reports used by the SDR manager and sales leader, all while hitting 162% of quota (2025 to 2026).
+- Owned the Home Services vertical go-to-market build at Intaker and trained 4 SDRs and 4 AEs on it (2026 to present).
 
 ## Professional Experience
 
@@ -26,19 +26,19 @@ B2B LegalTech AI SaaS | Los Angeles, CA (Hybrid) | Apr 2026 to Present
 
 - Built and launched the Home Services vertical go-to-market motion (HVAC, plumbing, electrical and other trades) from scratch: assessed market fit, ran the competitor analysis and TAM sizing, and defined the ICP while carrying a full personal quota.
 - Wrote the vertical's cold call scripts, email templates and multi-step outbound cadences across phone, email, SMS and LinkedIn DM.
-- Trained the entire SDR team ([add #] reps) on the Home Services vertical and built a click-through enablement dashboard with the scripts, cadences, ICP and objection handling each rep needed to ramp.
-- Sourced small-business opportunities averaging $600 in MRR through targeted outbound prospecting and account research.
-- Averaged 130% of monthly closed-won MRR quota (SDRs measured solely on closed-won revenue, not meetings), creating roughly 16 opportunities a month that closed at a 27% rate, by qualifying tightly and handling objections about replacing traditional intake services.
+- Trained 4 SDRs and 4 AEs on the Home Services vertical using a click-through enablement dashboard (scripts, cadences, ICP and objection handling), then handed the playbook to the Sales Enablement Director to build into company training.
+- Averaged 130% of monthly closed-won MRR quota (SDRs measured solely on closed-won revenue, not meetings), creating about 23 opportunities a month through targeted outbound prospecting and account research.
+- Qualified tightly and handled objections about replacing traditional intake services with AI intake agents.
 - Standardized outbound execution across the SDR pod by introducing sequencing logic, MEDDPICC qualification and shared sales tooling; evaluated and rolled out new technologies, including AI-assisted research and messaging, to raise rep efficiency.
 
 ### Founding SDR (Team Lead Duties) / Enablement | Nuve
 Hardware-Enabled PropTech SaaS (VSB & SMB) | Irvine, CA (On-site) | May 2025 to Apr 2026
 
-- Generated $842.4K in net-new closed-won revenue ($15K average ACV), reaching 162% of quota and exceeding target every month while leading the team's coaching and enablement.
+- Generated $842.4K in net-new closed-won revenue ($15K average ACV), reaching 162% of quota and exceeding target every month while leading the team's coaching and enablement. Consistently ranked in the top 3 of a 14+ rep SDR team.
 - Booked 30 to 35 demos a month (76% show rate, about 23 to 27 held) against a quota of 15 held, and closed 4 to 5 deals a month on average (up to 9 in a single month) against a quota of 3, scaling to 85+ daily cold-calling and multi-channel touches.
 - Lifted team-wide output by 20%, adding 60 demos and $126K in incremental closed-won revenue per month, by building the company's first structured enablement program, standardized playbooks and weekly training cadence.
 - Coached SDRs through 1:1 sessions and ran group training for the full SDR team on a weekly training cadence; designed onboarding modules and ran 30/60/90-day training plans and performance evaluations.
-- Sourced [add #] SDR and AE hires, including several of the team's top performers, through targeted recruiting outreach and personal LinkedIn network.
+- Sourced 5 hires (4 SDRs and 1 AE) through a personal LinkedIn network and recruiting outreach, including multiple top performers.
 - Advised the SDR manager on which KPI reports to deliver to the sales leader and set up HubSpot dashboards tracking rep activity and conversion KPIs.
 - Led the sales tech-stack evaluation: ran vendor demos and a 3-week Salesloft pilot, built the business case, and won CRO sign-off for ZoomInfo and the Nooks parallel dialer (choosing native HubSpot sequences over Salesloft to avoid redundant spend).
 - Rolled out ZoomInfo and Nooks to the 14-rep SDR team with a 30/60/90-day training and adoption plan; also added Chili Piper and outside training bootcamps to shorten ramp time.
@@ -98,9 +98,9 @@ HubSpot Inbound, HubSpot Academy
 ## Writer's Notes (delete before sending)
 
 Placeholders to fill:
-- [Phone] and [Email] in the header.
-- Intaker: [add #] = number of SDRs trained on the Home Services vertical. If available, also add pipeline or meetings sourced from the Home Services vertical. That would be the strongest bullet for ServiceTitan.
-- Nuve: [add #] = number of SDR and AE hires sourced. SDR team size (14 reps) has been added.
+- Phone and email added to the header (Oct 7).
+- Intaker: Johnny trained 4 SDRs and 4 AEs and handed the playbook to the Sales Enablement Director (Oct 7). Do not say "entire SDR team" unless the Intaker SDR team really is just those 4 reps.
+- Nuve: Johnny sourced 5 hires (4 SDRs, 1 AE), all hired (Oct 7). Confirm "multiple top performers" is accurate. SDR team size: 14 reps in one answer, "15 to 20" in another, so the rank claim says "14+".
 - Big Bus: the number of reps trained or led as Lead Sales Rep is not in the sources. Add it if known (for example "trained [add #] new reps").
 
 Judgment calls:
@@ -115,7 +115,7 @@ Judgment calls:
 Candidate must verify:
 - All dates, especially whether the Big Bus promotion date should be shown (for example "Lead Sales Rep, [month/year] to Mar 2024").
 - That the Intaker Home Services vertical work (ICP, scripts, SMS, LinkedIn, email and phone cadences, enablement dashboard, full-team training) is described accurately and is not confidential.
-- Intaker: the roughly 16 opportunities a month is derived from his numbers (130% of a $2,000 MRR quota = $2,600; $600 average; 27% conversion), so check it against HubSpot. The 85% meeting-to-opportunity stat was cut because it could not be verified. Nuve: 30 to 35 demos booked, 4 to 5 closed deals on average (7 to 9 in best months), $15K ACV, quota of 15 held and 3 closed.
+- Intaker: 130% of quota and about 23 opportunities a month are Johnny's own figures. The earlier 27% close rate and $600 average opportunity were dropped because they do not reconcile with 23 opportunities (23 x 27% x $600 = about $3,700, or 186% of a $2,000 quota, not 130%). Restoring either one means another number has to change. The 85% meeting-to-opportunity stat was cut because Intaker did not measure it. Nuve: 30 to 35 demos booked, 4 to 5 closed deals on average (7 to 9 in best months), $15K ACV, quota of 15 held and 3 closed. The top-3 rank claim is Johnny's own statement: be ready to name who can confirm it (leaderboard, manager).
 - Graduation years for CSULB and LBCC (left off on purpose; add if comfortable). Also confirm the degree name; LinkedIn shows only a broad business category.
 - Certifications. Both HubSpot certs expire Oct 2026 (this month). Renew them or remove them. LinkedIn Sales Navigator: Essentials expired Sep 2026 and was removed.
 - Name consistency. The resume uses "Johnny Scott Jorgenson." LinkedIn shows "Johnny Scott," and recommendations misspell the last name. Consider updating the LinkedIn display name so ATS and recruiter searches match.

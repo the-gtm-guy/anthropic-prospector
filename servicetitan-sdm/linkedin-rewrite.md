@@ -32,7 +32,7 @@ SDR Player-Coach | From Street Sales to Building Outbound Teams | Trained 30+ SD
 
 ---
 
-## 2. About (2,241 characters)
+## 2. About (2,495 characters)
 
 ```
 I learned to sell on Fisherman's Wharf. No CRM, no warm leads: just a sidewalk, a crowd of strangers from every country, and about ten seconds to earn a "yes." That's still how I think about outbound. Every cold call is a stranger on the sidewalk, and the job of an SDR leader is to make sure every rep on the team knows how to win those ten seconds.
@@ -41,14 +41,15 @@ I'm a player-coach. In most of my roles I've carried a full quota while training
 
 • Big Bus Tours: promoted to Lead Sales Rep. Trained new reps, tracked daily performance, moved reps between territories to lift results, and sent the sales leader a weekly rep-metrics report and a sales forecast.
 • CROP: ran outbound training for 30+ SDR fellows across 3 cohorts. Cut ramp time 28%, raised cold email reply rates from 1.8% to 5.2%, and graduated 93% of fellows.
-• Nuve: Founding SDR who partnered with our SDR Manager to build the team. I sourced top SDR and AE hires, ran 1:1 coaching and group trainings, built HubSpot KPI dashboards for leadership, and ran 30/60/90-day ramp evaluations. The enablement program I built lifted team output 20% (60 more demos a month).
-• Intaker: Sr. SDR who owns the Home Services vertical GTM build-out and trained the full SDR team on it.
+• Nuve: Founding SDR who partnered with our SDR Manager to build the team. I sourced 5 hires (4 SDRs and an AE), ran 1:1 coaching and group trainings, built HubSpot KPI dashboards for leadership, and ran 30/60/90-day ramp evaluations. The enablement program I built lifted team output 20% (60 more demos a month).
+• Intaker: Sr. SDR who owns the Home Services vertical GTM build-out. Trained 4 SDRs and 4 AEs on it and handed the playbook to our Sales Enablement Director to build into company training.
 
 What I've produced on the phones myself:
 • 162% quota attainment and $842.4K in sourced closed-won revenue (Nuve), hitting quota every month
+• Consistently a top-3 producer on a 14+ rep SDR team (Nuve)
 • 30–35 demos booked a month (76% show rate) against a quota of 15 held, with 4–5 closed deals a month against a quota of 3
 • 40+ demos sourced in 3 days at a trade show, more than the rest of the team combined
-• 130% of monthly closed-won MRR quota, with a 27% opportunity-to-close rate (Intaker)
+• 130% of monthly closed-won MRR quota, creating about 23 opportunities a month (Intaker)
 
 Home Services is where I'm focused now. At Intaker I built the whole vertical playbook for HVAC, plumbing, electrical and other trades: market fit, competitor map, ICP, call scripts, and multi-step cadences across phone, SMS, email and LinkedIn. Contractors pick up the phone, and they can tell when you haven't done your homework. I train reps to be ready for that.
 
@@ -56,7 +57,7 @@ I also build the systems. Salesforce (implemented from scratch), HubSpot, ZoomIn
 
 Looking for my first full-time Sales Development Manager role, ideally helping contractors grow. DMs are open.
 ```
-*Character count: 2,241 including spaces. LinkedIn's limit is 2,600.*
+*Character count: 2,495 including spaces. LinkedIn's limit is 2,600.*
 
 ---
 
@@ -69,10 +70,10 @@ Looking for my first full-time Sales Development Manager role, ideally helping c
 **Dates/Location:** Apr 2026 – Present · Los Angeles, CA · Hybrid
 **Summary line:** Given ownership of the go-to-market build-out for the Home Services vertical (HVAC, plumbing, electrical and other trades) while carrying a full Sr. SDR quota.
 
-- **Trained the entire SDR team** (`[add #]` reps) on the new Home Services vertical and built a click-through enablement dashboard with the scripts, cadences, ICP and objection handling each rep needed in one place.
+- **Trained 4 SDRs and 4 AEs** on the new Home Services vertical with a click-through enablement dashboard (scripts, cadences, ICP and objection handling), then **handed the playbook to the Sales Enablement Director** to build into company training.
 - **Owned the end-to-end GTM build-out** for Home Services: market-fit assessment, competitor analysis, ICP definition, cold-call scripts, email templates, and multi-step outbound cadences across phone, SMS, LinkedIn and email.
-- **Averaged 130% of monthly closed-won MRR quota** (SDRs measured on closed-won revenue, not meetings), creating roughly 16 opportunities a month through targeted outbound prospecting and account research.
-- **Closed 27% of the opportunities I created** (about $600 average MRR) through tight qualification and objection handling.
+- **Averaged 130% of monthly closed-won MRR quota** (SDRs measured on closed-won revenue, not meetings), creating about **23 opportunities a month** through targeted outbound prospecting and account research.
+- **Qualified tightly and handled objections** about replacing traditional intake services with AI intake agents.
 - Standardized outbound execution across the SDR pod with sequencing logic, MEDDPICC qualification and shared sales tooling, including custom lead enrichment for account research.
 
 **Skills to tag:** Sales Development, Outbound Sales, Cold Calling, Sales Coaching, Sales Enablement, Go-to-Market Strategy, Home Services, Ideal Customer Profile
@@ -85,10 +86,10 @@ Looking for my first full-time Sales Development Manager role, ideally helping c
 **Dates/Location:** May 2025 – Apr 2026 · Irvine, CA · On-site
 **Summary line:** Player-coach on the founding sales team. Partnered with the SDR Manager to hire, onboard, coach and report on the SDR team while finishing as a top outbound rep.
 
-- **Partnered with the SDR Manager to build the team:** sourced multiple top **SDR and AE hires** through recruiting and my LinkedIn network, and designed and ran **30/60/90-day training and performance evaluations** for new reps.
+- **Partnered with the SDR Manager to build the team:** sourced **5 hires (4 SDRs and 1 AE)** through recruiting and my LinkedIn network, and designed and ran **30/60/90-day training and performance evaluations** for new reps.
 - **Coached the SDR team through 1:1 sessions and group trainings**, and built the company's first structured enablement program and weekly training cadence. Team output rose **20%**, adding **60 demos and $126K in closed-won revenue per month**.
 - **Built HubSpot rep-KPI dashboards and leadership reporting.** Defined which activity, conversion and pipeline metrics went to the sales leader, and led the tech-stack evaluation: ran vendor demos and a 3-week Salesloft pilot, won **CRO sign-off for ZoomInfo and Nooks**, and rolled them out to the **14-rep SDR team** with a 30/60/90-day adoption plan.
-- **Delivered 162% of quota and $842.4K in sourced closed-won revenue** ($15K average ACV) and hit **100%+ of target every month**. Booked **30–35 demos a month** (76% show rate) against a quota of 15 held, and closed **4–5 deals a month** against a quota of 3.
+- **Delivered 162% of quota and $842.4K in sourced closed-won revenue** ($15K average ACV) and hit **100%+ of target every month**. Booked **30–35 demos a month** (76% show rate) against a quota of 15 held, and closed **4–5 deals a month** against a quota of 3. Consistently ranked in the **top 3** of a 14+ rep SDR team.
 - **Sourced 40+ live demos in 3 days at the Pantheon trade show**, more than the rest of the sales team combined, with real-time AE meeting routing.
 
 **Skills to tag:** Sales Development, Team Leadership, Sales Coaching, Recruiting, Onboarding, Cold Calling, HubSpot CRM, Sales Performance Management

@@ -3,13 +3,15 @@
 **Reviewer lens:** Director of Sales Development, vertical SaaS. I've screened hundreds of SDR-to-manager candidates.
 **Reviewed:** resume-servicetitan-sdm.md, linkedin-rewrite.md, cover-letter-and-referral.md, checked against job-description.md, linkedin-profile-2026-10-06.md and candidate-interview.md. Date: Oct 7, 2026.
 
+> **Update, Oct 7 (after later corrections):** the metrics changed after this review. Current figures: Intaker is 130% of a monthly closed-won MRR quota with about 23 opportunities a month (the $220K pipeline, 27%, $600 and 85% claims were dropped). Nuve is 30-35 demos booked a month against a quota of 15 held, 4-5 closed deals a month against a quota of 3, 162% of quota, and a top-3 rank on a 14+ rep team. Contact info and the hire and training counts are filled in. The fix table below describes the original drafts.
+
 ---
 
 ## 1. Screen decision: **MAYBE** (advance to a recruiter screen if Arman's referral lands)
 
 **Why not Reject:**
 - **Vertical fit is unusually strong.** He is building outbound to HVAC, plumbing and electrical contractors right now (the Intaker Home Services build: ICP, scripts, phone/SMS/email/LinkedIn cadences, full-team training). Most SDR-manager applicants have never cold-called a contractor.
-- **Real producer.** 162% of quota and $842.4K closed-won sourced at Nuve, 3–5 meetings a day against a 1–4 a week team average. Reps follow a manager who can do the job.
+- **Real producer.** 162% of quota and $842.4K closed-won sourced at Nuve, 30–35 demos booked a month against a quota of 15 held, and a top-3 rank on a 14+ rep team. Reps follow a manager who can do the job.
 - **Many leader behaviors are present:** 30/60/90 evaluations, 1:1 coaching, group training, sourcing hires, KPI dashboards, a weekly rep-metrics report to a sales leader (Big Bus), and tool rollouts. Two recommendations (Chris Meyer, Arman Aroustamian) independently describe him as a leader or coach.
 - **"Manager I"** is the level where we promote strong player-coaches.
 
@@ -65,7 +67,7 @@
 > **Coaching:** Pick one real Nuve SDR (or a Big Bus rep he reassigned to a new territory). Structure it as diagnosis (activity vs conversion vs skill), the plan (call reviews, role-plays, a 30/60/90 checkpoint), the metric that moved, and the outcome. If the outcome was that they didn't make it, say so and describe how he documented it and escalated to the manager. That shows judgment.
 
 **3. "You built HubSpot KPI dashboards at Nuve. Which five numbers would you look at every Monday for a 10-SDR team here, and what would make you intervene?"** *(running a team on metrics)*
-> **Coaching:** Name a funnel: dials, connects, conversations, meetings set, show rate, meeting-to-opp, pipeline sourced. Give thresholds ("connect rate under X for two weeks means a list or timing problem, not a rep problem"). Use his own benchmarks: 76% show rate, 85% meeting-to-opp, 85+ touches a day. Tie it to the weekly rep-metrics report he sent the Big Bus sales leader.
+> **Coaching:** Name a funnel: dials, connects, conversations, meetings set, show rate, meeting-to-opp, pipeline sourced. Give thresholds ("connect rate under X for two weeks means a list or timing problem, not a rep problem"). Use his own benchmarks: 76% show rate (Nuve), 85+ touches a day, and the Intaker funnel (about 23 opportunities a month). Tie it to the weekly rep-metrics report he sent the Big Bus sales leader.
 
 **4. "Salesforce is a must here. Tell me about the last Salesforce report you built for a sales leader. How would you build an SDR leaderboard and a meeting-to-opp conversion report in Sales Cloud?"** *(Salesforce depth)*
 > **Coaching:** Lead with the CROP NPSP build: a 12-stage pipeline, custom objects, reports and dashboards tracking $2.8M. Then be candid that his recent daily CRM is HubSpot, and walk through the Sales Cloud equivalents (report types, Activities, Opportunities by Lead Source, dashboard filters). Do 2–3 hours of Trailhead first so the vocabulary is current.
@@ -87,7 +89,7 @@
 ## 4. Before you hit submit (checklist)
 
 1. ~~**Confirm the Intaker meeting metric.**~~ **Resolved Oct 7:** the quota is closed-won revenue only, and he averages 130% of it. All documents now say "130% of monthly closed-won revenue quota." Original note: Was it 130% *of* quota or quota exceeded *by* 130%? Every document now says "130% of monthly meeting quota." Change it everywhere only if the larger number is true and provable.
-2. **Fill every `[add #]`** (Intaker SDRs trained, Nuve hires sourced), plus [Phone] and [Email]. Then delete both "Writer's Notes" sections from anything you send.
+2. ~~**Fill every `[add #]`**~~ **Mostly done Oct 7:** Intaker training counts, Nuve hires, phone and email are in. Still open: the number of reps trained at Big Bus (LinkedIn only). Then delete both "Writer's Notes" sections from anything you send.
 3. **Update the live LinkedIn titles before applying** so they match the resume exactly: Nuve "Founding SDR (Team Lead Duties) / Enablement", Big Bus "Lead Sales Rep (promoted from Street Sales Rep)", Intaker "Senior Sales Development Representative (SMB & Mid-Market)".
 4. ~~**Salesloft:**~~ **Resolved Oct 7:** he ran a 3-week Salesloft pilot at Nuve. It is listed as a pilot evaluation, and the ZoomInfo/Nooks CRO sign-off and rollout to 14 SDRs were added. Original note: confirm yes or no. If yes, add it by name to the resume Tools, the LinkedIn skills and the cover-letter tool list. If no, leave "Salesloft/Outreach-style sequencing" as it is.
 5. **Line up your references before you're asked:** Branden (Nuve SDR manager), one Nuve SDR you coached, and your Big Bus sales leader. Tell each what the resume says about your role so their stories match.
