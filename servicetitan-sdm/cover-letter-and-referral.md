@@ -13,7 +13,7 @@ I've spent this year building outbound into your market. When Intaker hired me a
 
 I've led reps while carrying a quota. At Nuve, I was the founding SDR and took on team-lead duties. I partnered with our SDR manager on the reports leadership needed, built the HubSpot dashboards for rep KPIs, sourced several of our top SDR and AE hires, ran 1:1 coaching and group training, and ran 30/60/90-day training and performance evaluations. At Big Bus Tours, I was promoted to lead rep. I trained new reps, tracked their daily numbers, reassigned reps to territories where they would produce more, and sent our sales leader a weekly rep-metrics report and a sales forecast. At the State of California, I formally supervised two procurement technicians.
 
-My own numbers are why reps listened. At Nuve I ran 85+ touches a day on Nooks, ZoomInfo, Sales Navigator and HubSpot. I booked 3–5 qualified meetings a day when the team averaged 1–4 a week. I finished at 162% of quota and sourced $842.4K in closed-won revenue.
+My own numbers are why reps listened. At Nuve I ran 85+ touches a day on Nooks, ZoomInfo, Sales Navigator and HubSpot. I booked 30–35 demos a month against a quota of 15 held, and closed 4–5 deals a month against a quota of 3. I finished at 162% of quota and sourced $842.4K in closed-won revenue.
 
 On systems, I implemented Salesforce NPSP from scratch at CROP, including a 12-stage pipeline, objects, reports and dashboards. At Nuve I ran the tech-stack evaluation, including demos and a 3-week Salesloft pilot. I won our CRO's sign-off on ZoomInfo and Nooks, then rolled them out to our 14-rep SDR team with a 30/60/90-day training plan.
 

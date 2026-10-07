@@ -29,3 +29,7 @@ Target role: **ServiceTitan — Manager, Sales Development I (JR116181), US Remo
 - **Salesloft:** At Nuve he ran a 3-week Salesloft trial as part of a tool evaluation and passed on it because HubSpot covered most of what it does. He also ran demos for ZoomInfo and Nooks, pitched them to the CRO, and got sign-off. He then ran the 30/60/90-day training for the SDR team, which had **about 14 SDRs**.
 - **Intaker quota:** SDRs are measured **only on closed-won revenue** (a monthly quota of $2,000 in closed-won revenue), not on meetings booked or held. He averages **130% of that quota**. The earlier "meeting quota" wording was wrong and has been corrected everywhere.
 - **Arman:** They're friends who text occasionally. Arman now works remotely from Colorado. A casual text works better than a formal DM.
+
+## Metric corrections (Oct 7, 2026, second follow-up)
+- **Intaker:** monthly quota $2,000 in closed-won MRR. Averaged 130% (about $2,600). Average opportunity about $600 MRR. 27% of opportunities closed-won. Derived: about 4.3 deals and about 16 opportunities a month (about $9.6K pipeline). The earlier $220K pipeline, "$25K-$100K ACV" and "85% meeting-to-opportunity" claims were removed.
+- **Nuve:** quota of 15 demos held and 3 closed-won a month. Actual: 30-35 demos booked (76% show rate, about 23-27 held), 4-5 closed deals a month on average (7-9 in best months), $15K average ACV. This is consistent with $842.4K at 162% of quota. The earlier "3-5 meetings a day" claim was removed.
