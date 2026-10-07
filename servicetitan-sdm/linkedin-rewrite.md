@@ -12,18 +12,18 @@
 
 ## 1. Headline (max 220 characters)
 
-**Option A (RECOMMENDED), 197 characters**
+**Option A (RECOMMENDED), 196 characters**
 ```
 SDR Leader | Outbound Pipeline Generation | Coaching, Hiring & Onboarding SDRs | Home Services & Trades GTM | Salesforce & HubSpot | 162% Quota | Player-Coach Who Builds the Playbooks & Dashboards
 ```
 *Why:* it leads with the exact title recruiters search for, carries five keyword clusters, names ServiceTitan's vertical and backs it up with a number.
 
-**Option B (manager-title search weighting), 183 characters**
+**Option B (manager-title search weighting), 180 characters**
 ```
 Sales Development Leader | SDR/BDR Coaching, 1:1s & 30/60/90 Ramp | Cold Calling & Outbound Strategy | $842K Closed-Won Sourced | Salesforce, HubSpot, ZoomInfo | Home Services SaaS
 ```
 
-**Option C (story-led, still keyword-first), 186 characters**
+**Option C (story-led, still keyword-first), 184 characters**
 ```
 SDR Team Lead & Player-Coach | From Street Sales to Building Outbound Teams | Trained 30+ SDRs | Hiring, Coaching & KPI Reporting | Outbound to HVAC, Plumbing & Electrical | Salesforce
 ```
@@ -32,7 +32,7 @@ SDR Team Lead & Player-Coach | From Street Sales to Building Outbound Teams | Tr
 
 ---
 
-## 2. About (about 2,200 characters)
+## 2. About (2,183 characters)
 
 ```
 I learned to sell on Fisherman's Wharf. No CRM, no warm leads: just a sidewalk, a crowd of strangers from every country, and about ten seconds to earn a "yes." That's still how I think about outbound. Every cold call is a stranger on the sidewalk, and the job of an SDR leader is to make sure every rep on the team knows how to win those ten seconds.
@@ -56,7 +56,7 @@ I also build the systems. Salesforce (implemented from scratch), HubSpot, ZoomIn
 
 Looking for my next Sales Development Manager role, ideally helping contractors grow. DMs are open.
 ```
-*Character count: about 2,200 including spaces. LinkedIn's limit is 2,600.*
+*Character count: 2,183 including spaces. LinkedIn's limit is 2,600.*
 
 ---
 
