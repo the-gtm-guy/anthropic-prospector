@@ -39,3 +39,9 @@ Target role: **ServiceTitan — Manager, Sales Development I (JR116181), US Remo
 - **Nuve:** sourced **4 SDRs and 1 AE** who were hired. Says he is usually top 1-3 on 15-20 person SDR teams (the documents use "top 3 of a 14+ rep team" for Nuve only).
 - **Big Bus:** trained **8 or more** new reps as Lead Sales Rep.
 - Contact details were provided and added to the resume header.
+
+## Intaker pricing tiers (Oct 8, 2026)
+- About **$300 MRR**: the smallest businesses (SMB).
+- **$600 to $1,500 MRR**: the mid-market range. His roughly $600 average sits at the low end of this band, so the title "(SMB & Mid-Market)" is accurate.
+- **$2,000 to $5,000 MRR**: enterprise accounts. He has **not closed any enterprise accounts**. Reps who have usually work them for over a year. Do not claim enterprise closings anywhere.
+- **Unit note:** quota and deal sizes are MRR, but pipeline is usually reported as annual contract value (MRR x 12). 23 opportunities x $600 MRR x 12 = about $166K a month annualized. The original $220K claim would imply roughly $800 MRR per opportunity created (bigger opportunities close less often, so created opportunities can average higher than closed deals). The old "$25K-$100K ACV" matches the enterprise tier ($24K-$60K a year), not mid-market ($7K-$18K a year). Open question: whether he wants an annualized pipeline figure back.
