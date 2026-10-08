@@ -23,6 +23,7 @@ Job link: https://servicetitan.wd1.myworkdayjobs.com/en-US/ServiceTitan/job/US-R
 |---|---|
 | `fit-assessment.md` | Whether to apply, the requirements scorecard, risks, backup plan |
 | `linkedin-paste-in-checklist.md` | Step-by-step profile update with paste-ready text |
+| `linkedin-2026-standards.md` | The 2026 LinkedIn character limits, word targets and formatting rules every LinkedIn draft must meet |
 | `send-ready/` | Final resume (`.docx`, `.pdf`, `.md`), cover letter, and outreach messages. No working notes in these |
 | `hiring-manager-review.md` | Hiring-manager screen of the drafts, interview questions, submit checklist |
 | `performance-benchmarks.md` | Industry benchmarks as interview talk tracks (not resume claims) |
@@ -30,6 +31,10 @@ Job link: https://servicetitan.wd1.myworkdayjobs.com/en-US/ServiceTitan/job/US-R
 | `linkedin-rewrite.md` | Working LinkedIn rewrite with the reasoning behind each choice |
 | `cover-letter-and-referral.md` | Working cover letter and outreach kit with notes |
 | `source/` | Job description, LinkedIn snapshot (Oct 6), and interview notes |
+
+## Editing LinkedIn copy
+
+Edit the paste blocks in `linkedin-rewrite.md`, then run `python3 tools/build_linkedin_checklist.py`. It checks everything against `linkedin-2026-standards.md`, refreshes the compliance table at the top of the rewrite file, and rebuilds the paste blocks in `linkedin-paste-in-checklist.md`. It exits with an error if a hard limit or format rule is broken.
 
 ## Editing the resume
 

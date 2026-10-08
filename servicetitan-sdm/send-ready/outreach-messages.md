@@ -26,11 +26,17 @@ Replace `[Name]` before sending. Send the Arman text first. Apply once he confir
 
 ## 3. Hiring-Manager Outreach
 
-### LinkedIn connection note
+### LinkedIn connection note (200 characters or fewer, works on any account)
+
+> Hi [Name], I applied for your Manager, Sales Development I role (JR116181). I'm a player-coach SDR (162% of quota at Nuve) who built Intaker's Home Services outbound. Would value connecting.
+
+### Longer connection note (300 characters max, only if your account allows it)
 
 > Hi [Name], I applied for your Manager, Sales Development I role (JR116181). I built Intaker's Home Services outbound to HVAC, plumbing and electrical contractors and ran 1:1s and 30/60/90s as a player-coach at 162% of quota. I'd value connecting.
 
 ### Follow-up InMail
+
+InMail is a Premium or Sales Navigator feature (200-character subject, about 1,900-character body). If you don't have it, wait for the connection to be accepted and send this as a regular message.
 
 > **Subject:** JR116181: player-coach who has prospected the trades
 >
