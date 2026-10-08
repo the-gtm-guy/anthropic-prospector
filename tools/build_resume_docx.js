@@ -3,6 +3,7 @@
 // Usage:  node tools/build_resume_docx.js <input.md> <output.docx> [bodyHalfPoints=20]
 // PDF:    soffice --headless --convert-to pdf --outdir <dir> <output.docx>   (LibreOffice)
 // Layout is tuned for 2 US Letter pages at 10pt Calibri. If it spills to a third page, trim content or lower the margins.
+const fs = require('fs');
 const {
   Document, Packer, Paragraph, TextRun, AlignmentType, LevelFormat, BorderStyle, HeadingLevel,
 } = require('docx');
