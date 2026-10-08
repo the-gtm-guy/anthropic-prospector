@@ -23,6 +23,7 @@ Job link: https://servicetitan.wd1.myworkdayjobs.com/en-US/ServiceTitan/job/US-R
 |---|---|
 | `fit-assessment.md` | Whether to apply, the requirements scorecard, risks, backup plan |
 | `linkedin-paste-in-checklist.md` | Step-by-step profile update with paste-ready text |
+| `linkedin-framework-crosscheck.md` | Claim-by-claim check of the Gemini LinkedIn framework against verified research, with what was adopted, adapted or skipped |
 | `linkedin-2026-standards.md` | The 2026 LinkedIn character limits, word targets and formatting rules every LinkedIn draft must meet |
 | `send-ready/` | Final resume (`.docx`, `.pdf`, `.md`), cover letter, and outreach messages. No working notes in these |
 | `hiring-manager-review.md` | Hiring-manager screen of the drafts, interview questions, submit checklist |

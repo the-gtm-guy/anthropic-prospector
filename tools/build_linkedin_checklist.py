@@ -115,8 +115,8 @@ def check_about(aid, tag, text):
     lo = 1500 if recommended else 1200
     if n < lo or n > 2200:
         warns.append('outside %s-2,200 characters' % format(lo, ','))
-    if w < 200 or w > 400:
-        warns.append('outside 200-400 words')
+    if w < 200 or w > 350:
+        warns.append('outside 200-350 words')
     first200 = text[:200]
     if not re.search(r'\d', first200):
         warns.append('no number in first 200 characters')
@@ -131,7 +131,7 @@ def check_about(aid, tag, text):
         if not has_bullets and len(para) > 350:
             warns.append('prose paragraph over 350 characters')
     fails += format_issues(text)
-    rule = '1,500-2,200 chars, 200-400 words' if recommended else '1,200-2,200 chars, 200-400 words'
+    rule = '1,500-2,200 chars, 200-350 words' if recommended else '1,200-2,200 chars, 200-350 words'
     record('About ' + aid, text, rule, fails, warns, 'first 200 chars checked')
 
 
@@ -139,26 +139,42 @@ def check_role(role):
     fails, warns = [], []
     desc = role['desc']
     n = len(desc)
-    lines = [l for l in desc.split('\n') if l.strip()]
-    bullets = [l[2:] for l in lines if l.startswith('• ')]
-    if len(bullets) != len(lines):
-        fails.append("every line must start with '• '")
+    words = len(desc.split())
+    paras = [p for p in desc.split('\n\n') if p.strip()]
+    context = None
+    if paras and not paras[0].startswith('• '):
+        context = paras[0].strip()
+        rest = paras[1:]
+    else:
+        rest = paras
+    body_lines = [l for p in rest for l in p.split('\n') if l.strip()]
+    bullets = [l[2:] for l in body_lines if l.startswith('• ')]
+    if len(bullets) != len(body_lines):
+        fails.append("every line after the context statement must start with '• '")
+    if context and '\n' in context:
+        fails.append('context statement must be one line')
     if len(role['title']) > 100:
         fails.append('title over 100 characters')
     if n > 2000:
         fails.append('description over 2,000')
     if role['kind'] == 'core':
-        rule = 'core: 400-1,000 chars, 3-6 bullets'
+        rule = 'core: context + 3-5 bullets, <=150 words, 400-1,000 chars'
+        if not context:
+            warns.append('no context statement')
         if n < 400 or n > 1000:
             warns.append('outside 400-1,000 characters')
-        if not 3 <= len(bullets) <= 6:
-            warns.append('bullet count outside 3-6')
+        if not 3 <= len(bullets) <= 5:
+            warns.append('bullet count outside 3-5')
     else:
-        rule = 'supporting: <=600 chars, 1-3 bullets'
+        rule = 'supporting: 1-3 bullets, <=150 words, <=600 chars'
         if n > 600:
             warns.append('over 600 characters')
         if not 1 <= len(bullets) <= 3:
             warns.append('bullet count outside 1-3')
+    if words > 150:
+        warns.append('over 150 words')
+    if context and len(context.split()) > 40:
+        warns.append('context statement over 40 words')
     longest = max((len(b.split()) for b in bullets), default=0)
     if any(len(b.split()) > 35 or len(b) > 230 for b in bullets):
         warns.append('a bullet is over 35 words or 230 characters')
@@ -169,7 +185,34 @@ def check_role(role):
         warns.append('fewer than half the bullets have a number')
     fails += format_issues(desc)
     record('Role: ' + role['heading'], desc, rule, fails, warns,
-           '%d bullets, longest %d words, %d with numbers' % (len(bullets), longest, with_digits))
+           '%s%d bullets, longest %d words, %d with numbers' % ('context + ' if context else '', len(bullets), longest, with_digits))
+
+
+GENERIC_SKILLS = {'communication', 'leadership', 'teamwork', 'microsoft word', 'microsoft office', 'microsoft powerpoint',
+                  'problem solving', 'time management', 'hard working'}
+
+
+def parse_list_block(md, heading):
+    m = re.search(r'### %s[^\n]*\n```text\n(.*?)\n```' % re.escape(heading), md, re.S)
+    return [l.strip() for l in m.group(1).split('\n') if l.strip()] if m else []
+
+
+def check_skills(skills, delete):
+    fails, warns = [], []
+    lowered = [x.lower() for x in skills]
+    if len(skills) > 100:
+        fails.append('over 100 skills')
+    if not 25 <= len(skills) <= 30:
+        warns.append('%d skills (target 25-30)' % len(skills))
+    if len(set(lowered)) != len(lowered):
+        fails.append('duplicate skills')
+    generic = [x for x in skills if x.lower() in GENERIC_SKILLS]
+    if generic:
+        warns.append('generic skills: ' + ', '.join(generic))
+    clash = [x for x in skills if x.lower() in {d.lower() for d in delete}]
+    if clash:
+        fails.append('in both keep and delete lists: ' + ', '.join(clash))
+    record('Skills list', '\n'.join(skills), '25-30 skills, no generic traits', fails, warns, '%d skills; first three: %s' % (len(skills), ', '.join(skills[:3])))
 
 
 def check_posts(md):
@@ -241,11 +284,18 @@ def roles_region(roles):
         out += ['### ' + r['heading'], '',
                 '- [ ] **Title** (replace the current one):', fence(r['title']),
                 '- [ ] **Dates:** %s. **Location:** %s. (Leave these as they are if they already match.)' % (r['dates'], r['location']),
-                '- [ ] **Description** (replace everything in the box, %d characters):' % len(r['desc']), fence(r['desc']),
+                '- [ ] **Description** (replace everything in the box; %d characters, %d words):' % (len(r['desc']), len(r['desc'].split())), fence(r['desc']),
                 '- [ ] **Skills to tag:** ' + r['skills']]
         out += ['- [ ] **Note:** ' + n for n in r['notes']]
         out.append('')
     return '\n'.join(out).rstrip()
+
+
+def skills_region(skills, delete):
+    out = ["- [ ] **Make your Skills list match this list** (%d skills). Add the ones you're missing and delete everything that isn't on it. LinkedIn allows 100, but a focused list ranks better in recruiters' skill-based search. Put them in this order and pin the first five. If your account only pins three, the first three are the ones that matter most." % len(skills),
+           '', fence('\n'.join(skills)), '',
+           "- [ ] **Delete these.** They signal an engineering profile, or they're phrases recruiters don't search for: " + '; '.join(delete) + '.']
+    return '\n'.join(out)
 
 
 def replace_region(text, name, content):
@@ -269,6 +319,11 @@ def main():
         check_about(*a)
     for r in roles:
         check_role(r)
+    skills = parse_list_block(rewrite, 'Final skills list')
+    delete = parse_list_block(rewrite, 'Delete these')
+    if not skills:
+        raise SystemExit('could not parse the final skills list from linkedin-rewrite.md')
+    check_skills(skills, delete)
     check_posts(rewrite)
     if OUTREACH.exists():
         check_outreach(OUTREACH.read_text())
@@ -283,6 +338,7 @@ def main():
         cl = replace_region(cl, 'headline', headline_region(headlines))
         cl = replace_region(cl, 'about', about_region(abouts))
         cl = replace_region(cl, 'roles', roles_region(roles))
+        cl = replace_region(cl, 'skills', skills_region(skills, delete))
         CHECKLIST.write_text(cl)
         print('updated linkedin-rewrite.md and linkedin-paste-in-checklist.md')
     sys.exit(1 if failed else 0)
