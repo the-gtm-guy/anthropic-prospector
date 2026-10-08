@@ -63,7 +63,7 @@ So: the headline opens with the job title and the top keyword. The About opens w
 | Identity verification | Free. CLEAR in the US. Do it after the name matches your ID. | LinkedIn reports about 60% more profile views and 50% more engagement for verified members. |
 | Recommendations | 3 to 5 recent ones, with at least one from a sales leader who can vouch for quota and coaching. Offer to send a draft. | Standard practice. |
 | Open to Work | "Recruiters only" if employed. LinkedIn tries to hide it from recruiters at your company but doesn't guarantee it. | LinkedIn behavior. |
-| Dates, titles, employment type | Match payroll records and offer letters. Never stretch a date. | Background checks verify dates, often to the month. |
+| Dates, titles, employment type | Know the month and year you started and left each job, and use the title a former manager would confirm if called. Never stretch a date. | Background-check services verify dates, often to the month, after an offer. |
 | Education | Your actual major, not a category label. | Practitioner advice. |
 | Activity | About 10 minutes a day of 2 to 3 sentence comments while searching, and follow the accounts you want to be associated with. | Plausible and cheap. LinkedIn hasn't confirmed a ranking effect. |
 

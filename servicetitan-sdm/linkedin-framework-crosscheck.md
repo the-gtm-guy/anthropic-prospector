@@ -49,6 +49,6 @@ The framework is written for a SaaS **Account Executive** in Southern California
 ## Still needs your input
 
 1. **Your major and concentration** at CSULB and LBCC, so I can write the education line.
-2. **Your official job titles** from offer letters or HR records, especially Nuve and Big Bus. The titles in the copy add descriptors that a background check might not match.
+2. **Titles (done).** Nuve and Big Bus now use plain titles a former manager would confirm. Still worth a check: that "PDR" at CROP stands for Partnership Development Representative.
 3. **Confirm the new context lines** for Big Bus ("sold sightseeing tours face to face to tourists in San Francisco") and CROP ("trains and places new SDRs into SaaS roles").
 4. **A photo and a banner.** I can build the banner if you want one.

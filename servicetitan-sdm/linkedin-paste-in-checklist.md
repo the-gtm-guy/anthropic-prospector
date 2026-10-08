@@ -150,12 +150,12 @@ Sr. SDR at a B2B LegalTech AI SaaS company, selling to SMB and mid-market accoun
 
 - [ ] **Title** (replace the current one):
 ```text
-Founding SDR (Team Lead Duties) / Enablement | Hardware-Enabled PropTech SaaS
+Founding SDR | Enablement | Hardware-Enabled PropTech SaaS
 ```
 - [ ] **Dates:** May 2025 – Apr 2026. **Location:** Irvine, CA · On-site. (Leave these as they are if they already match.)
-- [ ] **Description** (replace everything in the box; 746 characters, 132 words):
+- [ ] **Description** (replace everything in the box; 841 characters, 143 words):
 ```text
-Founding SDR at a hardware-enabled PropTech SaaS company, selling to very small and small businesses at a $15K average ACV.
+Founding SDR at a hardware-enabled PropTech SaaS company (very small and small business buyers, $15K average ACV), taking on team-lead work alongside the SDR Manager: coaching, recruiting, onboarding and KPI reporting.
 
 • Delivered 162% of quota and $842.4K in closed-won revenue, ranking top 3 on a 14+ rep SDR team.
 • Booked 30–35 demos a month (76% show rate) against a quota of 15 held, and closed 4–5 deals a month against a quota of 3.
@@ -164,7 +164,7 @@ Founding SDR at a hardware-enabled PropTech SaaS company, selling to very small 
 • Led the tech-stack evaluation (3-week Salesloft pilot) and won CRO sign-off for ZoomInfo and Nooks, rolled out to 14 SDRs.
 ```
 - [ ] **Skills to tag:** Sales Development, Team Leadership, Sales Coaching, Recruiting, Onboarding, Cold Calling, HubSpot CRM, Sales Performance Management
-- [ ] **Note:** Matches the resume exactly. Do not use "SDR Team Lead" or "Acting Team Lead": Nuve had a named SDR Manager, and a reference call would not confirm it. Make sure the part before the "|" matches your official title on your offer letter or HR record.
+- [ ] **Note:** Matches the resume and your current LinkedIn title. The team-lead and coaching work shows in the first line and the bullets, not the title. Do not use "SDR Team Lead" or "Acting Team Lead": Nuve had a named SDR Manager.
 
 ### CROP Organization, role 1
 
@@ -203,12 +203,12 @@ Partnership Development Representative (Mid-Market & Enterprise) | B2B EdTech Sa
 
 - [ ] **Title** (replace the current one):
 ```text
-Lead Sales Rep (promoted from Street Sales Rep) | High-Velocity Outbound
+Lead Sales Rep | High-Velocity Outbound Sales
 ```
 - [ ] **Dates:** Jan 2023 – Mar 2024. **Location:** San Francisco, CA · On-site. (Leave these as they are if they already match.)
-- [ ] **Description** (replace everything in the box; 475 characters, 75 words):
+- [ ] **Description** (replace everything in the box; 528 characters, 84 words):
 ```text
-Sold sightseeing tours face to face to tourists in San Francisco, a high-volume, competitive market.
+Promoted from Street Sales Rep to Lead Sales Rep, selling sightseeing tours face to face to tourists in San Francisco, a high-volume, competitive market.
 
 • Trained 8+ new sales reps, tracked daily performance, and reassigned territories; sent the sales leader a weekly rep-metrics report and forecast used for scheduling and placement.
 • Averaged 130% of quota and closed 65% of monthly revenue at premium pricing without discounting.
@@ -379,7 +379,7 @@ On your profile, click Open to, then Finding a new job.
 
 **Never say:** "Acting SDR Team Lead," "managed the SDR team," "entire SDR team" (for Intaker), any enterprise closing, "$220K pipeline," "130% at Intaker," or "3 to 5 meetings a day."
 
-- [ ] **Dates, titles and employment type must match your records.** Background-check services verify employment dates, often to the month, and sometimes titles. Match every start and end date to your payroll records or offer letters, keep "Contract" on the roles that were contract work, and make sure the part of each title before any "|" is your official title. Never stretch a date to cover a gap. Keep the older non-sales roles (compressed, as they are here) so there are no unexplained gaps.
+- [ ] **Dates and titles should be what a former employer would confirm.** Nobody asks to see paperwork in interviews. Dates and titles only get checked after an offer, when a background-check service or a reference call confirms employer, dates (often to the month) and sometimes the title. So know the month and year you started and left each job, keep "Contract" on the roles that were contract work, and make the part of each title before any "|" the one a former manager would give if a recruiter called. Never stretch a date to cover a gap. Keep the older non-sales roles (compressed, as they are here) so there are no unexplained gaps.
 - [ ] Read the finished profile top to bottom once, on your phone. Recruiters mostly look at it there.
 - [ ] Paste the updated profile text back to me (as you did on Oct 6) and I'll cross-check it against the resume.
 

@@ -14,7 +14,7 @@ Job link: https://servicetitan.wd1.myworkdayjobs.com/en-US/ServiceTitan/job/US-R
 
 - [ ] Renew both HubSpot certifications (they expire in Oct 2026) or remove them from the resume and LinkedIn.
 - [ ] Be ready to say the Intaker math out loud: about 23 opportunities a month x 27% closed x about $600 MRR is roughly $3,700 against a $2,000 quota, or about 185%.
-- [ ] Confirm the Nuve and Big Bus titles on the resume would hold up in a reference check.
+- [ ] Confirm that "PDR" at CROP stands for Partnership Development Representative (the resume spells it out that way).
 - [ ] Fill in `[Name]` in the hiring-manager messages.
 
 ## What's in this folder

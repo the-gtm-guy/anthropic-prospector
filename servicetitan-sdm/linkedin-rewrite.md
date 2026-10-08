@@ -23,10 +23,10 @@
 | About A | 1,858 | 345 | 1,500-2,200 chars, 200-350 words | OK | first 200 chars checked |
 | About B | 1,307 | 232 | 1,200-2,200 chars, 200-350 words | OK | first 200 chars checked |
 | Role: Intaker | 803 | 123 | core: context + 3-5 bullets, <=150 words, 400-1,000 chars | OK | context + 4 bullets, longest 28 words, 3 with numbers |
-| Role: Nuve | 746 | 132 | core: context + 3-5 bullets, <=150 words, 400-1,000 chars | OK | context + 5 bullets, longest 25 words, 5 with numbers |
+| Role: Nuve | 841 | 143 | core: context + 3-5 bullets, <=150 words, 400-1,000 chars | OK | context + 5 bullets, longest 25 words, 5 with numbers |
 | Role: CROP Organization, role 1 | 582 | 93 | core: context + 3-5 bullets, <=150 words, 400-1,000 chars | OK | context + 4 bullets, longest 23 words, 4 with numbers |
 | Role: CROP Organization, role 2 | 318 | 49 | supporting: 1-3 bullets, <=150 words, <=600 chars | OK | 3 bullets, longest 20 words, 3 with numbers |
-| Role: Big Bus Tours | 475 | 75 | supporting: 1-3 bullets, <=150 words, <=600 chars | OK | context + 3 bullets, longest 26 words, 3 with numbers |
+| Role: Big Bus Tours | 528 | 84 | supporting: 1-3 bullets, <=150 words, <=600 chars | OK | context + 3 bullets, longest 26 words, 3 with numbers |
 | Role: State of California | 246 | 37 | supporting: 1-3 bullets, <=150 words, <=600 chars | OK | 2 bullets, longest 25 words, 2 with numbers |
 | Role: GOCO Consulting (optional) | 148 | 19 | supporting: 1-3 bullets, <=150 words, <=600 chars | OK | 1 bullets, longest 18 words, 1 with numbers |
 | Skills list | 450 | 52 | 25-30 skills, no generic traits | OK | 30 skills; first three: Sales Development, Team Leadership, Sales Coaching |
@@ -137,13 +137,13 @@ Sr. SDR at a B2B LegalTech AI SaaS company, selling to SMB and mid-market accoun
 ---
 
 ### Nuve
-**Title:** `Founding SDR (Team Lead Duties) / Enablement | Hardware-Enabled PropTech SaaS`
-*(Matches the resume exactly. Do not use "SDR Team Lead" or "Acting Team Lead": Nuve had a named SDR Manager, and a reference call would not confirm it. Make sure the part before the "|" matches your official title on your offer letter or HR record.)*
+**Title:** `Founding SDR | Enablement | Hardware-Enabled PropTech SaaS`
+*(Matches the resume and your current LinkedIn title. The team-lead and coaching work shows in the first line and the bullets, not the title. Do not use "SDR Team Lead" or "Acting Team Lead": Nuve had a named SDR Manager.)*
 **Company:** Nuve
 **Dates/Location:** May 2025 – Apr 2026 · Irvine, CA · On-site
 **Role type:** core
 ```text
-Founding SDR at a hardware-enabled PropTech SaaS company, selling to very small and small businesses at a $15K average ACV.
+Founding SDR at a hardware-enabled PropTech SaaS company (very small and small business buyers, $15K average ACV), taking on team-lead work alongside the SDR Manager: coaching, recruiting, onboarding and KPI reporting.
 
 • Delivered 162% of quota and $842.4K in closed-won revenue, ranking top 3 on a 14+ rep SDR team.
 • Booked 30–35 demos a month (76% show rate) against a quota of 15 held, and closed 4–5 deals a month against a quota of 3.
@@ -187,12 +187,12 @@ GTM enablement for a B2B EdTech sales accelerator that trains and places new SDR
 ---
 
 ### Big Bus Tours
-**Title:** `Lead Sales Rep (promoted from Street Sales Rep) | High-Velocity Outbound`
+**Title:** `Lead Sales Rep | High-Velocity Outbound Sales`
 **Company:** Big Bus Tours
 **Dates/Location:** Jan 2023 – Mar 2024 · San Francisco, CA · On-site
 **Role type:** supporting
 ```text
-Sold sightseeing tours face to face to tourists in San Francisco, a high-volume, competitive market.
+Promoted from Street Sales Rep to Lead Sales Rep, selling sightseeing tours face to face to tourists in San Francisco, a high-volume, competitive market.
 
 • Trained 8+ new sales reps, tracked daily performance, and reassigned territories; sent the sales leader a weekly rep-metrics report and forecast used for scheduling and placement.
 • Averaged 130% of quota and closed 65% of monthly revenue at premium pricing without discounting.

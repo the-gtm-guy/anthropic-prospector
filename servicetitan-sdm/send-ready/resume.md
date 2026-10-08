@@ -31,7 +31,7 @@ B2B LegalTech AI SaaS | Los Angeles, CA (Hybrid) | Apr 2026 to Present
 - Qualified tightly and handled objections about replacing traditional intake services with AI intake agents.
 - Standardized outbound execution across the SDR pod by introducing sequencing logic, MEDDPICC qualification and shared sales tooling; evaluated and rolled out new technologies, including AI-assisted research and messaging, to raise rep efficiency.
 
-### Founding SDR (Team Lead Duties) / Enablement | Nuve
+### Founding SDR | Enablement | Nuve
 Hardware-Enabled PropTech SaaS (VSB & SMB) | Irvine, CA (On-site) | May 2025 to Apr 2026
 
 - Generated $842.4K in net-new closed-won revenue ($15K average ACV), reaching 162% of quota and exceeding target every month while leading the team's coaching and enablement. Consistently ranked in the top 3 of a 14+ rep SDR team.
@@ -58,10 +58,10 @@ B2B EdTech Sales Accelerator | San Francisco, CA | Mar 2024 to Sep 2024
 - Implemented Salesforce Nonprofit Success Pack (NPSP) from scratch as admin, building a 12-stage pipeline, custom objects, reports and dashboards that tracked $2.8M in active partnership opportunities.
 - Managed a $1.2M corporate grant portfolio across 5 enterprise foundations with a 100% renewal rate, and placed 17 candidates into SaaS SDR roles at 8 Bay Area SaaS companies.
 
-### Lead Sales Rep (promoted from Street Sales Rep) | Big Bus Tours
+### Lead Sales Rep | Big Bus Tours
 High-Velocity Outbound Sales | San Francisco, CA | Jan 2023 to Mar 2024
 
-- As Lead Sales Rep, trained 8+ new sales reps, tracked their daily performance, and reassigned reps to territories to improve results.
+- Promoted from Street Sales Rep to Lead Sales Rep: trained 8+ new sales reps, tracked their daily performance, and reassigned reps to territories to improve results.
 - Submitted a weekly rep-metrics report and a sales forecast to the sales leader, who used them for scheduling and placement decisions.
 - Averaged 130% of quota through high-volume, face-to-face outbound selling, closing 65% of monthly revenue at premium pricing tiers without discounting.
 - Grew net-new customer acquisition by 20% with localized outreach campaigns, and set an all-time company record of 184 five-star reviews in a single month.
