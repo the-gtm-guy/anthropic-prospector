@@ -2,23 +2,25 @@
 """Check LinkedIn copy against the 2026 standards and rebuild the paste-in checklist.
 
 Usage:
-    python3 tools/build_linkedin_checklist.py          # check, then update the files
-    python3 tools/build_linkedin_checklist.py --check  # check only, write nothing
+    python3 tools/build_linkedin_checklist.py                       # check, then update the files
+    python3 tools/build_linkedin_checklist.py --check               # check only, write nothing
+    python3 tools/build_linkedin_checklist.py --dir servicetitan-sdm  # a different application folder
 
-Reads:   servicetitan-sdm/linkedin-rewrite.md, servicetitan-sdm/send-ready/outreach-messages.md
+The folder defaults to servicetitan-sdr (the active application).
+
+Reads:   <folder>/linkedin-rewrite.md, <folder>/send-ready/outreach-messages.md
 Writes:  the compliance table in linkedin-rewrite.md and the generated regions of
          linkedin-paste-in-checklist.md (between the BEGIN/END comment markers).
 Exits 1 if any hard limit or format rule is broken. Rules live in
-servicetitan-sdm/linkedin-2026-standards.md.
+servicetitan-sdm/linkedin-2026-standards.md (shared by every application folder).
 """
 import pathlib
 import re
 import sys
 
-ROOT = pathlib.Path(__file__).resolve().parent.parent / 'servicetitan-sdm'
-REWRITE = ROOT / 'linkedin-rewrite.md'
-CHECKLIST = ROOT / 'linkedin-paste-in-checklist.md'
-OUTREACH = ROOT / 'send-ready' / 'outreach-messages.md'
+REPO = pathlib.Path(__file__).resolve().parent.parent
+DEFAULT_DIR = 'servicetitan-sdr'
+STANDARDS = 'servicetitan-sdm/linkedin-2026-standards.md'
 
 HYPE = ['passionate', 'results-driven', 'rockstar', 'ninja', 'guru', 'synergy', 'thought leader', 'visionary']
 EMOJI = re.compile('[\U0001F300-\U0001FAFF☀-➿⭐✅❌]')
@@ -251,8 +253,8 @@ def compliance_table():
     for item, c, w, rule, status, notes in results:
         rows.append('| %s | %s | %s | %s | %s | %s |' % (item, format(c, ','), w, rule, status, notes.replace('|', '\\|')))
     counts = {s: sum(1 for r in results if r[4] == s) for s in ('OK', 'WARN', 'FAIL')}
-    summary = '%d checks: %d OK, %d WARN, %d FAIL. Rules: `linkedin-2026-standards.md`. Rerun `python3 tools/build_linkedin_checklist.py` after any edit.' % (
-        len(results), counts['OK'], counts['WARN'], counts['FAIL'])
+    summary = '%d checks: %d OK, %d WARN, %d FAIL. Rules: `%s`. Rerun `python3 tools/build_linkedin_checklist.py` after any edit.' % (
+        len(results), counts['OK'], counts['WARN'], counts['FAIL'], STANDARDS)
     return summary + '\n\n' + '\n'.join(rows)
 
 
@@ -306,8 +308,22 @@ def replace_region(text, name, content):
 
 
 def main():
-    check_only = '--check' in sys.argv
-    rewrite = REWRITE.read_text()
+    args = sys.argv[1:]
+    check_only = '--check' in args
+    folder = DEFAULT_DIR
+    if '--dir' in args:
+        i = args.index('--dir')
+        if i + 1 >= len(args):
+            raise SystemExit('--dir needs a folder name')
+        folder = args[i + 1]
+    root = REPO / folder
+    if not root.is_dir():
+        raise SystemExit('no such folder: %s' % root)
+    rewrite_path = root / 'linkedin-rewrite.md'
+    checklist_path = root / 'linkedin-paste-in-checklist.md'
+    outreach_path = root / 'send-ready' / 'outreach-messages.md'
+    print('folder: %s' % folder)
+    rewrite = rewrite_path.read_text()
     headlines = parse_blocks(rewrite, 'Headline')
     abouts = parse_blocks(rewrite, 'About')
     roles = parse_roles(rewrite)
@@ -325,22 +341,22 @@ def main():
         raise SystemExit('could not parse the final skills list from linkedin-rewrite.md')
     check_skills(skills, delete)
     check_posts(rewrite)
-    if OUTREACH.exists():
-        check_outreach(OUTREACH.read_text())
+    if outreach_path.exists():
+        check_outreach(outreach_path.read_text())
 
     for item, c, w, rule, status, notes in results:
         print('%-4s %-34s %5d chars %4d words  %s' % (status, item, c, w, notes))
     failed = any(r[4] == 'FAIL' for r in results)
 
     if not check_only:
-        REWRITE.write_text(replace_region(rewrite, 'compliance', compliance_table()))
-        cl = CHECKLIST.read_text()
+        rewrite_path.write_text(replace_region(rewrite, 'compliance', compliance_table()))
+        cl = checklist_path.read_text()
         cl = replace_region(cl, 'headline', headline_region(headlines))
         cl = replace_region(cl, 'about', about_region(abouts))
         cl = replace_region(cl, 'roles', roles_region(roles))
         cl = replace_region(cl, 'skills', skills_region(skills, delete))
-        CHECKLIST.write_text(cl)
-        print('updated linkedin-rewrite.md and linkedin-paste-in-checklist.md')
+        checklist_path.write_text(cl)
+        print('updated %s/linkedin-rewrite.md and %s/linkedin-paste-in-checklist.md' % (folder, folder))
     sys.exit(1 if failed else 0)
 
 

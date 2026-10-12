@@ -1,0 +1,394 @@
+# LinkedIn Paste-In Checklist
+
+**Goal:** make your live profile match the resume and read as a high-producing SDR before you apply to ServiceTitan (Sales Development Representative, JR115835).
+**Time:** about 90 minutes in total. **Do Part 1 (about 30 minutes) before you apply, then apply and text Arman at the same time (see `README.md`). Finish Part 2 within a day or two.**
+**Part 1, before you apply:** Before You Start, Step 1 (name and headline), Step 2 (About), Step 3 (Intaker and Nuve only), Step 8 (Open to Work). That covers what a recruiter sees first.
+**Part 2, after you apply:** Steps 1b, 1c, the rest of 3, 4, 5, 5b, 6, 7, 9 and 10.
+**How to use it:** every gray box below is plain text, so you can copy it as is. There are no asterisks or other markdown in them. LinkedIn moves its menus around from time to time. If a label here doesn't match, use the pencil icon next to the section.
+**Order matters:** finish Part 1 before you submit the application and before you message anyone at ServiceTitan. Recruiters and Arman's team will look at your profile within a day of seeing your resume.
+**Standards:** every block below meets the 2026 limits and length targets in `../servicetitan-sdm/linkedin-2026-standards.md`. The paste blocks are rebuilt from `linkedin-rewrite.md` by `tools/build_linkedin_checklist.py`, so edit the rewrite file (not these blocks) if you want to change the wording.
+
+---
+
+## Before you start (5 minutes)
+
+- [ ] **Save a backup of your current profile.** Open your profile, then Resources (or More), then Save to PDF.
+- [ ] **Turn off profile-update sharing** so a dozen edits don't broadcast to your network (and to your coworkers at Intaker). In Settings, search for "profile updates" and switch off the toggle that shares profile updates with your network. Turn it back on later if you like.
+- [ ] **Paste as plain text** and preview each section on your phone after saving. The boxes below contain no markdown. Don't add Unicode "bold" lettering or emojis to headline, About or role text.
+- [ ] Keep `send-ready/resume.md` (or the PDF) open next to you. Every title, date and number here is meant to match it exactly.
+
+---
+
+## Step 1. Name, headline, location, industry (10 minutes)
+
+Open your profile and click the pencil next to your name ("Edit intro").
+
+- [ ] **Name.** Your resume, application and referral all use **Johnny Scott Jorgenson**, so "Jorgenson" has to be searchable on LinkedIn. Either set First name = Johnny and Last name = Jorgenson, or keep "Johnny Scott" and put Jorgenson in the additional-name field. Your call. Do this before the identity check in Step 1c, because the name on your ID has to match your profile name.
+<!-- BEGIN:headline -->
+- [ ] **Headline.** Paste option A. B and C are alternatives if you want a different angle. Only the first ~60 characters show in search and comments, so each one opens with the job title and the top keyword.
+
+**Option A (recommended)** · 190 of 220 characters, 28 words. Shows in search and comments: "Sales Development Representative | Outbound Cold Calling & D"
+```text
+Sales Development Representative | Outbound Cold Calling & Demo Booking | 162% of Quota, $842K Closed-Won | HVAC, Plumbing & Electrical Prospecting | Salesforce, Nooks, ZoomInfo, Chili Piper
+```
+
+**Option B (SDR-title weighting)** · 172 of 220 characters, 33 words. Shows in search and comments: "SDR | Cold Calling, Discovery & Demo Booking | 30–35 Demos B"
+```text
+SDR | Cold Calling, Discovery & Demo Booking | 30–35 Demos Booked a Month | 162% of Quota, Top 3 of 14+ Reps | Home Services & Trades | Salesforce, HubSpot, ZoomInfo, Nooks
+```
+
+**Option C (trades-vertical angle)** · 182 of 220 characters, 30 words. Shows in search and comments: "Sales Development Representative | 162% of Quota & $842K Clo"
+```text
+Sales Development Representative | 162% of Quota & $842K Closed-Won | Built Home Services Outbound, Trained 4 SDRs & 4 AEs | Cold Calling, Discovery, Demo Booking | Salesforce, Nooks
+```
+<!-- END:headline -->
+- [ ] **Location:** Los Angeles, California. ("Remote" goes in the Open to Work preferences in Step 8, not here.)
+- [ ] **Industry:** Software Development (or Technology, Information and Internet).
+- [ ] **Custom URL:** skip this for now. Your resume uses linkedin.com/in/johnny-b-scott. If you change the URL, tell me and I'll rebuild the resume files with the new link.
+
+---
+
+## Step 1b. Photo and banner (15 minutes)
+
+- [ ] **Profile photo.** Square, at least 400 × 400 pixels, cropped from just below the shoulders to just above the head, with your face filling about 60% of the frame. Look straight at the camera, use even bright light and a plain or softly blurred background, no filters. For a Los Angeles SaaS audience, "elevated casual" works: a blazer over a plain tee, or a button-down without a tie, in navy, charcoal or deep green. A missing photo is worse than an average one. (The 60% and attire advice is practitioner guidance, not a LinkedIn rule.)
+- [ ] **Banner.** 1584 × 396 pixels (design at 3168 × 792 for sharpness), PNG or JPG under 8 MB. A phone shows roughly the center 60% to 75% of the width, and your photo covers the bottom-left, so keep any text in the center band and nothing in the bottom-left corner. Use a clean, modern design with at most one short line, such as "SDR for the trades: cold calling, discovery and demo booking." Skip stock handshakes, chess pieces and bullseyes. I can build one for you if you want.
+- [ ] Preview both on your phone after saving.
+
+---
+
+## Step 1c. Verify your identity (10 minutes)
+
+- [ ] **Finish the name fix in Step 1 first.** The name on your government ID has to match your profile name.
+- [ ] **Verify on your phone.** In the LinkedIn mobile app, open your profile and look for the Verify prompt (menu names change, so use LinkedIn's Help Center if you can't find it). In the US it runs through CLEAR: you photograph a valid, unexpired government ID (driver's license or passport) and take a live selfie. It's free and takes a few minutes. A shield badge then shows next to your name.
+- [ ] **Why bother.** LinkedIn says verified members get about 60% more profile views and 50% more engagement. One framework you shared also claims 30% more recruiter messages, but LinkedIn's own 30% figure was for connection requests, so treat the messages claim as unconfirmed.
+
+---
+
+## Step 2. About (5 minutes)
+
+<!-- BEGIN:about -->
+Open the About section with its pencil icon, select everything, and paste **About A**. About B is a shorter alternative if you would rather lead with metrics.
+
+**About A (recommended, story plus proof)** · 1,535 of 2,600 characters, 292 words. A phone shows roughly the first 200 characters before "see more":
+> I'm an SDR who books demos and closes deals: 162% of quota and $842.4K in closed-won revenue at Nuve, and about 185% of quota at Intaker.  I learned to sell on Fisherman's Wharf: no CRM, no warm leads...
+
+```text
+I'm an SDR who books demos and closes deals: 162% of quota and $842.4K in closed-won revenue at Nuve, and about 185% of quota at Intaker.
+
+I learned to sell on Fisherman's Wharf: no CRM, no warm leads, about ten seconds to earn a "yes." Every cold call starts the same way, and I still treat those first ten seconds as the whole job.
+
+How I work:
+• 85+ calls and multi-channel touches a day at Nuve
+• Salesforce, HubSpot, Nooks, ZoomInfo and Chili Piper, and I pick up new tools fast
+• Qualify with MEDDPICC and discovery questions, then book the demo
+• Research the account before I dial, because contractors can tell when you haven't
+
+What it has produced:
+• Nuve: 30–35 demos booked a month against a quota of 15 held, 4–5 closed deals a month against a quota of 3, top 3 on a 14+ rep team
+• Intaker: about 23 opportunities a month, 27% closed
+• Pantheon trade show: 40+ demos in 3 days, more than the rest of the sales team combined
+
+Why the trades: this year I built Intaker's Home Services outbound (ICP, call scripts, and phone, SMS, email and LinkedIn cadences) and trained 4 SDRs and 4 AEs on it. HVAC, plumbing and electrical companies pick up the phone, and I like that.
+
+I also help the people around me ramp: at Nuve I partnered with the SDR Manager on 1:1s and 30/60/90 plans and sourced 5 hires, and at CROP I trained 30+ SDR fellows.
+
+Looking for my next SDR role, hybrid in Los Angeles or Glendale, or US remote. If you lead an SDR team in the trades, I'd like to hear what a great first year looks like. DMs are open.
+```
+
+**About B (short, metrics first)** · 1,242 of 2,600 characters, 237 words. A phone shows roughly the first 200 characters before "see more":
+> SDR with a quota-carrying track record: 162% of quota and $842.4K closed-won at Nuve, with 30–35 demos booked a month, and about 185% of quota at Intaker. I sell by phone, email, SMS and LinkedIn.  Th...
+
+```text
+SDR with a quota-carrying track record: 162% of quota and $842.4K closed-won at Nuve, with 30–35 demos booked a month, and about 185% of quota at Intaker. I sell by phone, email, SMS and LinkedIn.
+
+The proof:
+• Nuve: top 3 on a 14+ rep SDR team, 4–5 closed deals a month against a quota of 3, 85+ calls and multi-channel touches a day
+• Intaker: about 23 opportunities a month at a 27% close rate, selling AI intake agents to SMB and mid-market buyers
+• Pantheon trade show: 40+ demos in 3 days, more than the rest of the sales team combined
+• Built Intaker's Home Services outbound (HVAC, plumbing, electrical) and trained 4 SDRs and 4 AEs on it
+• Ran a 3-week Salesloft pilot at Nuve, then won CRO sign-off for ZoomInfo and Nooks and rolled them out to 14 SDRs
+
+I learned to sell on Fisherman's Wharf, with about ten seconds to earn a "yes." Contractors pick up the phone and can tell when you haven't done your homework, so I research the account before I dial.
+
+I've also trained 30+ SDR fellows at CROP and sourced 5 hires at Nuve, and I want to keep learning from the best reps on the team.
+
+Looking for my next SDR role, hybrid in Los Angeles or Glendale, or US remote. If you lead an SDR team, I'd like to compare notes. DMs are open.
+```
+<!-- END:about -->
+
+- [ ] Read it once out loud. If anything is not true for you, tell me before you publish it.
+- [ ] **Last paragraph:** it says you're looking for your next SDR role, hybrid in Los Angeles or Glendale, or US remote. It doesn't name ServiceTitan. Your current About already says you're "open to exploring opportunities," so this isn't a big change. If you'd rather keep the search quiet at Intaker, swap the last paragraph for this one:
+```text
+Always happy to compare notes with SDRs, AEs and anyone selling into the trades. DMs are open.
+```
+
+---
+
+## Step 3. Experience (25 minutes)
+
+Open each role with its pencil icon. Replace the title and the description, then add the skills. LinkedIn caps how many skills it lets you tag per role (about five). If it stops you, keep the first ones in the list.
+
+<!-- BEGIN:roles -->
+### Intaker
+
+- [ ] **Title** (replace the current one):
+```text
+Senior Sales Development Representative (SMB & Mid-Market) | Home Services GTM
+```
+- [ ] **Dates:** Apr 2026 – Present. **Location:** Los Angeles, CA · Hybrid. (Leave these as they are if they already match.)
+- [ ] **Description** (replace everything in the box; 760 characters, 117 words):
+```text
+Sr. SDR at a B2B LegalTech AI SaaS company, selling AI intake agents to SMB and mid-market accounts ($300–$1,500 MRR) and building the Home Services vertical.
+
+• Averaged about 185% of monthly closed-won MRR quota (SDRs measured on revenue, not meetings), creating about 23 opportunities a month and closing 27% of them.
+• Qualified buyers with MEDDPICC and handled objections about replacing traditional intake services with AI intake agents.
+• Built the Home Services (HVAC, plumbing, electrical) outbound motion from scratch: market fit, ICP, call scripts and four-channel cadences (phone, SMS, email, LinkedIn).
+• Trained 4 SDRs and 4 AEs on the vertical with a click-through enablement dashboard, then handed the playbook to the Sales Enablement Director.
+```
+- [ ] **Skills to tag:** Sales Development, Outbound Sales, Cold Calling, Lead Qualification, Go-to-Market Strategy, MEDDPICC, Home Services, Sales Enablement
+
+### Nuve
+
+- [ ] **Title** (replace the current one):
+```text
+Founding SDR | Enablement | Hardware-Enabled PropTech SaaS
+```
+- [ ] **Dates:** May 2025 – Apr 2026. **Location:** Irvine, CA · On-site. (Leave these as they are if they already match.)
+- [ ] **Description** (replace everything in the box; 694 characters, 130 words):
+```text
+Founding SDR at a hardware-enabled PropTech SaaS company selling to very small and small businesses ($15K average ACV), also coaching and onboarding the SDR team.
+
+• Delivered 162% of quota and $842.4K in closed-won revenue, ranking top 3 on a 14+ rep SDR team.
+• Booked 30–35 demos a month (76% show rate) against a quota of 15 held, and closed 4–5 deals a month against a quota of 3.
+• Sourced 40+ live demos in 3 days at the Pantheon trade show, more than the rest of the sales team combined.
+• Ran a 3-week Salesloft pilot, won CRO sign-off for ZoomInfo and Nooks, and rolled them out to 14 SDRs.
+• Built the first enablement program (team output up 20%) and sourced 5 hires (4 SDRs, 1 AE).
+```
+- [ ] **Skills to tag:** Sales Development, Cold Calling, Appointment Setting, Prospecting, HubSpot CRM, ZoomInfo, Sales Enablement, Recruiting
+- [ ] **Note:** Matches the resume and your current LinkedIn title. Do not use "SDR Team Lead" or "Acting Team Lead": Nuve had a named SDR Manager.
+
+### CROP Organization, role 1
+
+- [ ] **Title** (replace the current one):
+```text
+GTM Enablement Specialist | B2B EdTech Sales Accelerator
+```
+- [ ] **Dates:** Sep 2024 – May 2025. **Location:** Los Angeles Metro · Hybrid. (Leave these as they are if they already match.)
+- [ ] **Description** (replace everything in the box; 582 characters, 93 words):
+```text
+GTM enablement for a B2B EdTech sales accelerator that trains and places new SDRs into SaaS roles.
+
+• Coached and trained 30+ SDR fellows across 3 cohorts on cold outreach, discovery, HubSpot, Apollo and Sales Navigator, with a 93% graduation rate.
+• Cut average SDR ramp time 28% and time-to-first-meeting by 12 days with a standardized outbound playbook.
+• Raised cold email reply rates from 1.8% to 5.2% by building activity-KPI dashboards and running message-quality workshops.
+• Lifted daily outbound activity 40% in the first two weeks of each cycle through hands-on training.
+```
+- [ ] **Skills to tag:** Sales Training, Cold Email, SDR Onboarding, Sales Playbooks, HubSpot CRM, Apollo.io, LinkedIn Sales Navigator
+
+### CROP Organization, role 2
+
+- [ ] **Title** (replace the current one):
+```text
+Partnership Development Representative | B2B EdTech Sales Accelerator
+```
+- [ ] **Dates:** Mar 2024 – Sep 2024. **Location:** San Francisco, CA. (Leave these as they are if they already match.)
+- [ ] **Description** (replace everything in the box; 318 characters, 49 words):
+```text
+• Implemented Salesforce NPSP from scratch: a 12-stage pipeline with custom objects, reports and dashboards tracking $2.8M in active partnership opportunities.
+• Placed 17 candidates into SaaS SDR roles at 8 Bay Area companies.
+• Managed a $1.2M corporate grant portfolio across 5 foundations with a 100% renewal rate.
+```
+- [ ] **Skills to tag:** Salesforce.com, Salesforce Administration, Pipeline Management, Partnership Development, Sales Reporting
+
+### Big Bus Tours
+
+- [ ] **Title** (replace the current one):
+```text
+Lead Sales Rep | High-Velocity Outbound Sales
+```
+- [ ] **Dates:** Jan 2023 – Mar 2024. **Location:** San Francisco, CA · On-site. (Leave these as they are if they already match.)
+- [ ] **Description** (replace everything in the box; 442 characters, 74 words):
+```text
+Promoted from Street Sales Rep to Lead Sales Rep, selling sightseeing tours face to face to tourists in San Francisco, a high-volume, competitive market.
+
+• Averaged 130% of quota and closed 65% of monthly revenue at premium pricing without discounting.
+• Set a company record of 184 five-star reviews in one month and grew net-new customers 20%.
+• Trained 8+ new sales reps and sent the sales leader a weekly rep-metrics report and forecast.
+```
+- [ ] **Skills to tag:** Cold Outreach, Objection Handling, Sales Training, Territory Management, Sales Forecasting, Team Leadership
+
+### State of California
+
+- [ ] **Title** (replace the current one):
+```text
+Procurement Specialist | Metal Fabrication & Industrial Manufacturing
+```
+- [ ] **Dates:** Apr 2019 – Jan 2023. **Location:** Folsom, CA · On-site. (Leave these as they are if they already match.)
+- [ ] **Description** (replace everything in the box; 246 characters, 37 words):
+```text
+• Supervised 2 Procurement Technicians: trained them and quality-checked their work.
+• Cut procurement cycle times 20% and data-entry errors 30% running MRP runs and orders in Infor LX, and cut production delays 25% through supplier negotiations.
+```
+- [ ] **Skills to tag:** Team Supervision, Training, Vendor Negotiation, Process Improvement, ERP Systems
+- [ ] **Note:** Keep the dates exact and keep "Contract" as the employment type if that is how you were engaged. Remove the "reverse-engineered buyer knowledge / enterprise SaaS buying committees" paragraph and the "RevOps-style" and "MCP" tags from this role.
+
+### GOCO Consulting (optional)
+
+- [ ] **Title** (replace the current one):
+```text
+Campaign Representative | Field Outreach & Volunteer Team Coordination
+```
+- [ ] **Dates:** Feb 2014 – Apr 2019. **Location:** Sacramento, CA · Hybrid. (Leave these as they are if they already match.)
+- [ ] **Description** (replace everything in the box; 148 characters, 19 words):
+```text
+• Mobilized large-scale volunteer networks across 6+ election and legislative initiatives, presenting to City Councils and handling live objections.
+```
+- [ ] **Skills to tag:** Objection Handling, Public Speaking, Volunteer Management, Territory Management
+- [ ] **Note:** Keep the dates exact. Don't delete this role: removing it leaves an unexplained gap from 2014 to 2019.
+<!-- END:roles -->
+
+---
+
+## Step 4. Skills (10 minutes)
+
+<!-- BEGIN:skills -->
+- [ ] **Make your Skills list match this list** (30 skills). Add the ones you're missing and delete everything that isn't on it. LinkedIn allows 100, but a focused list ranks better in recruiters' skill-based search. Put them in this order and pin the first five. If your account only pins three, the first three are the ones that matter most.
+
+```text
+Sales Development
+Cold Calling
+Outbound Sales
+Lead Generation
+Prospecting
+Salesforce.com
+Lead Qualification
+Appointment Setting
+Objection Handling
+Cold Email
+Pipeline Generation
+Inside Sales
+B2B Sales
+Software as a Service (SaaS)
+LinkedIn Sales Navigator
+HubSpot CRM
+ZoomInfo
+Apollo.io
+Salesloft
+Sales Enablement
+Sales Coaching
+Sales Training
+Team Leadership
+Recruiting
+MEDDPICC
+Go-to-Market Strategy
+Home Services
+Clay
+Workflow Automation
+Pipeline Management
+```
+
+- [ ] **Delete these.** They signal an engineering profile, or they're phrases recruiters don't search for: Model Context Protocol (MCP); API Integrations & OAuth 2.0; Python (Programming Language); Agentic Workflow Orchestration; GitHub; React.js; n8n; Large Language Models; Prompt Engineering; Data Enrichment; Pipeline Analytics; Revenue Architecture; Sales System Architecture; Data Governance; Lead Routing; Inbound; Instructional Design.
+<!-- END:skills -->
+- [ ] **Endorsements.** Ask 3 to 5 former teammates to endorse your top 5 skills. About 10 endorsements on each is a common target (a practitioner rule of thumb, not a LinkedIn threshold). Endorse them back only for skills you've seen them use.
+
+Note: LinkedIn retired its skill assessments and the verified-skill badges, so there is nothing to take there. Skills are now backed up by the roles, certifications and projects they're tagged to.
+
+---
+
+## Step 5. Licenses and certifications (5 minutes)
+
+- [ ] **HubSpot Inbound Sales** and **HubSpot Inbound** both expire this month (Oct 2026). The SDR resume leaves them off, so renewing is optional. Renew them at HubSpot Academy if you want them on LinkedIn (and tell me to add them back to the resume), or remove them from LinkedIn.
+- [ ] **LinkedIn Sales Navigator: Essentials** expired in Sep 2026. Renew it or remove it.
+- [ ] On each certification, untag the skills "API Integrations & OAuth 2.0" and "Agentic Workflow Orchestration".
+
+---
+
+## Step 5b. Education (5 minutes)
+
+- [ ] **Set the field of study to your actual major** on both schools. LinkedIn currently shows a category label ("Business, Management, Marketing, and Related Support Services") instead of a major. Tell me your major and concentration at each school and I'll write a one-line description that ties it to sales development.
+- [ ] **Untag the skills attached to your education entries** (Revenue Architecture, Lead Routing, Python, GitHub and the others on the delete list in Step 4).
+
+---
+
+## Step 6. Featured (5 minutes)
+
+- [ ] Remove the two certifications that are currently featured.
+- [ ] Feature your first post once it is published (Step 10). Later, add the "Home Services Outbound Playbook (excerpt)" PDF and a one-page trade-show demo routine. Remove all Intaker- and Nuve-confidential details and client names first.
+
+---
+
+## Step 7. Recommendations (10 minutes)
+
+- [ ] **Fix the name spelling.** Jeffery Warner wrote "Jorgensen" and Alejandra Vila wrote "Jergenson." Message each and ask them to edit it to "Jorgenson". It takes them 30 seconds.
+- [ ] **Get to 3 to 5 recent recommendations, including one from a sales leader.** All six you have now are from teammates, mentors and peers. For an SDR role, the most valuable one is from a former sales leader or CRO who can vouch for your quota attainment, for example at Nuve. Ask in this order: a former sales leader, then a Nuve SDR or AE you worked with or Branden, then a Big Bus rep you trained. Phrase the ask to Branden as "help building the team," not "I taught you."
+- [ ] **Offer a draft.** It removes the friction and keeps the recommendation specific. Send this:
+```text
+Hey [Name], I'm applying for SDR roles and would love a short LinkedIn recommendation from you. Happy to send a draft to make it easy: 3 to 5 sentences on what it was like working with me, ideally the quota results. I can write one for you too.
+```
+- [ ] **If they say yes, send a draft they can edit** (Nuve version; they should change anything that doesn't match what they saw):
+```text
+I worked with Johnny at Nuve, where he was a founding SDR. He finished at 162% of quota, booked 30–35 demos a month against a quota of 15, and closed 4–5 deals a month against a quota of 3. He also ran our tech-stack evaluation, helped train the team on the new tools, and sourced several of our hires. I'd work with him again.
+```
+
+---
+
+## Step 8. Open to Work, recruiters only (5 minutes)
+
+On your profile, click Open to, then Finding a new job.
+
+- [ ] **Job titles (up to 5):** Sales Development Representative, Senior Sales Development Representative, Business Development Representative, Inside Sales Representative, Account Executive. (Both doors open: the Account Executive title keeps you in AE searches. To stay visible for manager searches too, swap "Inside Sales Representative" for "Sales Development Manager".)
+- [ ] **Location types:** Hybrid and Remote. **Locations:** Los Angeles Metro (covers Glendale) and United States (Remote).
+- [ ] **Start date:** Immediately. **Employment type:** Full-time.
+- [ ] **Who sees it:** Recruiters only (no green photo frame). LinkedIn tries to hide this from recruiters at your current company, but it doesn't guarantee it.
+- [ ] Hide the Connected apps section (Wispr Flow, Base44) if LinkedIn lets you. It's low priority.
+
+---
+
+## Step 9. Final check (10 minutes)
+
+**Replace these claims.** They are on your live profile today:
+
+| Currently on your profile | Replace with |
+|---|---|
+| Headline: "Sales Enablement & GTM Expansion \| Rep Ramp & Tooling \| AI & Automation \| HubSpot/Salesforce Admin." | The new headline in Step 1 |
+| Top skills: Agentic Workflow Orchestration, MCP, API Integrations & OAuth 2.0, Revenue Architecture, Python | The five pinned skills in Step 4 |
+| Intaker: "$220K in mid-market pipeline ($25K to $100K ACV) monthly" | About 185% of monthly closed-won MRR quota from about 23 opportunities a month |
+| Intaker: "Exceeded monthly meeting quota by 130%" | Removed. Intaker measured closed-won revenue, not meetings |
+| Intaker: "85% meeting-to-opportunity conversion rate for AEs" | "Closed 27% of the opportunities I created" |
+| Nuve: "3 to 5 qualified meetings daily (vs. 1 to 4 weekly team average)" | "30 to 35 demos a month (76% show rate) against a quota of 15 held" |
+| Nuve title: "Founding SDR (VSB & SMB) \| Enablement (Hardware-Enabled PropTech SaaS)" | "Founding SDR \| Enablement \| Hardware-Enabled PropTech SaaS" (plain title; no "Team Lead") |
+| Big Bus title: "Street Sales Rep (High-Velocity Full-Cycle)" | "Lead Sales Rep \| High-Velocity Outbound Sales" (the context line says promoted from Street Sales Rep) |
+| State of California: the "reverse-engineered buyer knowledge" paragraph | Supervised 2 Procurement Technicians, plus the process results |
+
+**Numbers that must match everywhere** (resume, LinkedIn, cover letter, and what you say in interviews):
+
+| Fact | Exact wording |
+|---|---|
+| Nuve closed-won | $842.4K at 162% of quota, $15K average ACV |
+| Nuve demos | 30 to 35 booked a month, 76% show rate, quota of 15 held |
+| Nuve deals | 4 to 5 closed a month on average (up to 9 in a best month), quota of 3 |
+| Nuve rank | Top 3 of a 14+ rep SDR team |
+| Nuve hires | 5 sourced (4 SDRs, 1 AE) |
+| Nuve team impact | Output up 20% (60 more demos and $126K more closed-won a month) |
+| Nuve tools | 3-week Salesloft pilot. CRO sign-off on ZoomInfo and Nooks, rolled out to the 14-rep SDR team |
+| Nuve trade show | 40+ demos in 3 days at the Pantheon show, more than the rest of the sales team combined |
+| Intaker quota | About 185% of monthly closed-won MRR quota |
+| Intaker funnel | About 23 opportunities a month, 27% closed |
+| Intaker training | 4 SDRs and 4 AEs, plus a playbook handoff to the Sales Enablement Director |
+| Big Bus | Lead Sales Rep, trained 8+ reps, averaged 130% of quota |
+| State of California | Formally supervised 2 Procurement Technicians |
+| CROP | 30+ SDR fellows, 93% graduation, ramp time down 28%, cold email replies from 1.8% to 5.2% |
+
+**Never say:** "Acting SDR Team Lead," "managed the SDR team," "entire SDR team" (for Intaker), any enterprise closing, "$220K pipeline," "130% at Intaker," "3 to 5 meetings a day," or that you have used Gong (you haven't; Fireflies is your call-recording tool).
+
+- [ ] **Dates and titles should be what a former employer would confirm.** Nobody asks to see paperwork in interviews. Dates and titles only get checked after an offer, when a background-check service or a reference call confirms employer, dates (often to the month) and sometimes the title. So know the month and year you started and left each job, keep "Contract" on the roles that were contract work, and make the part of each title before any "|" the one a former manager would give if a recruiter called. Never stretch a date to cover a gap. Keep the older non-sales roles (compressed, as they are here) so there are no unexplained gaps.
+- [ ] Read the finished profile top to bottom once, on your phone. Recruiters mostly look at it there.
+- [ ] Paste the updated profile text back to me (as you did on Oct 6) and I'll cross-check it against the resume.
+
+---
+
+## Step 10. Posts (over the next 2 weeks)
+
+- [ ] Publish three posts, one every 4 to 5 days, Tuesday to Thursday, 7 to 9am PT. The topics, hooks and outlines are in `linkedin-rewrite.md`, Section 7 (trade show, trades cold calling, the daily math behind 162%). Keep each hook under 140 characters (only about 140 to 210 characters show before "see more") and the whole post under 1,300 characters. I can draft all three in full if you ask.
+- [ ] **Comment daily.** Spend 10 minutes a day on weekdays leaving 2 to 3 sentence comments that add a point or ask a question on posts from ServiceTitan sales leaders, SDR managers and people selling into the trades. Skip "Great post!". Activity keeps your profile visible. Sources differ on how much it counts in ranking, but it costs little.
+- [ ] **Follow the right accounts.** ServiceTitan, HubSpot, Salesloft, Gong, ZoomInfo, Nooks, SaaStr (Jason Lemkin), Dharmesh Shah, and trades-software companies like Housecall Pro and Jobber, plus the SDR leaders and ServiceTitan sales leaders you find through Arman. It also fills your feed with posts worth commenting on.

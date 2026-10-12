@@ -1,5 +1,7 @@
 # ServiceTitan: Manager, Sales Development I (JR116181, US Remote)
 
+> **Closed.** This role (JR116181) is no longer available, so the application moved to the Sales Development Representative posting. See `../servicetitan-sdr/README.md`. This folder is kept for reference, and its `linkedin-2026-standards.md` is still the shared standard.
+
 Job link: https://servicetitan.wd1.myworkdayjobs.com/en-US/ServiceTitan/job/US-Remote/Manager--Sales-Development-I_JR116181
 
 ## Do these in order

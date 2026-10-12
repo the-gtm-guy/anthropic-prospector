@@ -355,8 +355,8 @@ On your profile, click Open to, then Finding a new job.
 | Intaker: "Exceeded monthly meeting quota by 130%" | Removed. Intaker measured closed-won revenue, not meetings |
 | Intaker: "85% meeting-to-opportunity conversion rate for AEs" | "Closed 27% of the opportunities I created" |
 | Nuve: "3 to 5 qualified meetings daily (vs. 1 to 4 weekly team average)" | "30 to 35 demos a month (76% show rate) against a quota of 15 held" |
-| Nuve title: "Founding SDR (VSB & SMB) \| Enablement (Hardware-Enabled PropTech SaaS)" | "Founding SDR (Team Lead Duties) / Enablement \| Hardware-Enabled PropTech SaaS" |
-| Big Bus title: "Street Sales Rep (High-Velocity Full-Cycle)" | "Lead Sales Rep (promoted from Street Sales Rep) \| High-Velocity Outbound" |
+| Nuve title: "Founding SDR (VSB & SMB) \| Enablement (Hardware-Enabled PropTech SaaS)" | "Founding SDR \| Enablement \| Hardware-Enabled PropTech SaaS" (plain title; no "Team Lead") |
+| Big Bus title: "Street Sales Rep (High-Velocity Full-Cycle)" | "Lead Sales Rep \| High-Velocity Outbound Sales" (the context line says promoted from Street Sales Rep) |
 | State of California: the "reverse-engineered buyer knowledge" paragraph | Supervised 2 Procurement Technicians, plus the process results |
 
 **Numbers that must match everywhere** (resume, LinkedIn, cover letter, and what you say in interviews):
