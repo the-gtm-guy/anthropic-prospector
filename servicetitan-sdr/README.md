@@ -17,9 +17,11 @@ This replaces the closed manager application (`../servicetitan-sdm/`, JR116181).
 
 ## Before you submit
 
+- [ ] **Read the "from your profile" list** in `source/candidate-interview-addendum.md`. Those figures are your own Oct 6 claims that you never re-confirmed in our chats (the Nuve $842.4K and 162%, the trade show, all the CROP and Big Bus numbers, the dates). Tell me about any that are off and I'll fix the resume and LinkedIn in one pass.
+- [ ] **Check the "about 185%" at Intaker** against your Intaker numbers if you can see them. It comes from about 23 opportunities x 27% closed x about $600 MRR, which is roughly $3,700 against a $2,000 quota. If your real attainment is lower, tell me and I'll change it everywhere.
+- [ ] **CROP:** confirm that "PDR" stands for Partnership Development Representative and that CROP's records show a Mar 2024 start. Two recommendations call you an "SDR fellow" there, so use the titles and dates CROP would confirm.
+- [ ] **Education:** replace "B.S., Business" and "A.A., Business Administration" with the exact degrees and majors on your diplomas.
 - [ ] Open the PDF on your phone. It should be one page and read cleanly.
-- [ ] Say the Intaker math out loud: about 23 opportunities a month x 27% closed x about $600 MRR is roughly $3,700 against a $2,000 quota, or about 185%.
-- [ ] Confirm that "PDR" at CROP stands for Partnership Development Representative (the resume spells it out that way).
 - [ ] The resume leaves off the two HubSpot certifications, which expire this month. Renew them and tell me to add them back, or remove them from LinkedIn.
 - [ ] Use the same email address on the application, the resume and the referral.
 - [ ] Fill in `[Name]` in the SDR-leader messages.
@@ -39,9 +41,9 @@ The 2026 LinkedIn limits and formatting rules every LinkedIn draft must meet are
 
 ## What changed from the manager package
 
-- **Resume:** one page, production first (162% and $842.4K, about 185%, 30-35 demos a month). Coaching and enablement are one line each. State of California and GOCO are compressed. Tools include Salesforce Sales Cloud, Chili Piper, Nooks, Orum, ZoomInfo, Clay, Fireflies, n8n and Zapier. The header says open to hybrid in Glendale. Gong is not claimed, and Salesloft is listed as a 3-week pilot.
+- **Resume:** one page, production first (162% and $842.4K, about 185%, 30-35 demos a month). Coaching and enablement are one line each. State of California and GOCO are compressed. Tools include Salesforce Sales Cloud, Chili Piper, Nooks, Orum, ZoomInfo, Clay, Fireflies, n8n and Zapier. The header says open to hybrid in Glendale. Contract roles are labeled "Contract". Gong is not claimed, and Salesloft is listed as a 3-week pilot.
 - **LinkedIn:** the headline and About are SDR-first, the skills list leads with prospecting and outbound (leadership skills moved down), and Open to Work targets SDR, BDR, Inside Sales and Account Executive titles.
-- **Not changed:** every metric, date and title. They are the ones you verified.
+- **Provenance:** the interview answers you gave are the firmest facts. Many other figures come from your own Oct 6 LinkedIn profile and weren't re-confirmed in chat. `source/candidate-interview-addendum.md` lists which is which. I left the +20% team-output lift (60 demos, $126K a month) and "built the first enablement program" out of the SDR copy, because an SDR role doesn't need them and they're the claims a former Nuve leader would most likely dispute. If you can back them with data, tell me and I'll put them back.
 
 ## Editing
 

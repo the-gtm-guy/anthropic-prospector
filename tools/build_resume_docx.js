@@ -1,8 +1,8 @@
-// Builds an ATS-friendly resume .docx from a simple markdown resume (see servicetitan-sdm/send-ready/resume.md for the format).
+// Builds an ATS-friendly resume .docx from a simple markdown resume (see servicetitan-sdr/send-ready/resume.md for the format).
 // Setup:  npm install docx
 // Usage:  node tools/build_resume_docx.js <input.md> <output.docx> [bodyHalfPoints=20]
 // PDF:    soffice --headless --convert-to pdf --outdir <dir> <output.docx>   (LibreOffice)
-// Layout is tuned for 2 US Letter pages at 10pt Calibri. If it spills to a third page, trim content or lower the margins.
+// Layout is tuned for US Letter at 10pt Calibri (the SDR resume fits one page; the manager resume fits two). If it spills, trim content or lower the margins.
 const fs = require('fs');
 const {
   Document, Packer, Paragraph, TextRun, AlignmentType, LevelFormat, BorderStyle, HeadingLevel,
@@ -92,11 +92,17 @@ for (const raw of lines) {
   // plain line
   if (!headerFlushed) { headerLines.push(line.trim()); continue; }
   if (expectMeta) {
-    children.push(new Paragraph({
-      keepNext: true,
-      spacing: { after: 30 },
-      children: [run(line.trim(), { italics: true, color: GRAY, size: BODY - 1 })],
-    }));
+    // Descriptor line: "Industry | Location | Dates". The last segment is bolded when it holds a year, so tenure shows at a glance.
+    const parts = line.trim().split(' | ');
+    const last = parts[parts.length - 1];
+    const runs = [];
+    if (parts.length > 1 && /\b(19|20)\d\d\b/.test(last)) {
+      runs.push(run(parts.slice(0, -1).join(' | ') + ' | ', { italics: true, color: GRAY, size: BODY - 1 }));
+      runs.push(run(last, { bold: true, color: INK, size: BODY - 1 }));
+    } else {
+      runs.push(run(line.trim(), { italics: true, color: GRAY, size: BODY - 1 }));
+    }
+    children.push(new Paragraph({ keepNext: true, spacing: { after: 30 }, children: runs }));
     expectMeta = false;
     continue;
   }

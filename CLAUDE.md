@@ -8,7 +8,7 @@ Any LinkedIn text drafted here must meet `servicetitan-sdm/linkedin-2026-standar
 
 - Put new or changed copy in `servicetitan-sdr/linkedin-rewrite.md` (messages go in `servicetitan-sdr/send-ready/outreach-messages.md`), then run `python3 tools/build_linkedin_checklist.py` (add `--dir <folder>` for another application folder). It must exit 0 with no FAIL rows before the copy is presented.
 - When presenting options in chat, show the character and word count for each one.
-- Use only facts from `servicetitan-sdm/source/candidate-interview.md`, `servicetitan-sdr/source/candidate-interview-addendum.md` and the resume. Don't invent metrics.
+- Use only facts from `servicetitan-sdm/source/candidate-interview.md`, `servicetitan-sdr/source/candidate-interview-addendum.md` (which also lists the claims that come only from Johnny's own Oct 6 LinkedIn profile, `servicetitan-sdm/source/linkedin-profile-2026-10-06.md`) and the resume. Don't invent metrics, and don't add specifics (seconds, who he called, what a tool was used for) that he didn't say.
 
 ## Resume rule
 

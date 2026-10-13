@@ -12,7 +12,7 @@ You out-produce the entry bar on every number the JD cares about (outbound volum
 |---|---|---|
 | Outbound prospecting (calls and emails) | Strong | 85+ daily calls and multi-channel touches at Nuve. About 23 opportunities a month at Intaker |
 | Qualify leads, discovery, schedule demos for AEs | Strong | 30-35 demos booked a month at a 76% show rate. 40+ demos in 3 days at a trade show with real-time AE routing. MEDDPICC at Intaker |
-| Master the methodology and technology, manage your day and pipeline | Good | Ran the Salesloft pilot, got ZoomInfo and Nooks approved and rolled out to 14 SDRs. Salesforce Sales Cloud, HubSpot, Chili Piper, Orum, Clay |
+| Master the methodology and technology, manage your day and pipeline | Good | Ran the Salesloft pilot, got ZoomInfo and Nooks approved, and ran 30/60/90-day training for the SDR team. Salesforce Sales Cloud, HubSpot, Chili Piper, Orum, Clay |
 | Collaborate with Account Executives | Good | Trained 4 AEs at Intaker. Routed meetings to AEs at the trade show |
 | Coachable, hungry for feedback | Prepare a story | You've coached a lot of people. The JD wants a specific time feedback changed how *you* sold. Have one ready |
 | 0-4 years in a corporate environment | Borderline, not a screen-out | State of California (2019-2023) plus sales and enablement roles since 2023. The posting welcomes career changers |
@@ -36,12 +36,12 @@ You out-produce the entry bar on every number the JD cares about (outbound volum
 | Nuve: 162% of quota, $842.4K closed-won | Quota was 3 closes a month at a $15K average ACV, so $45K a month. $842.4K divided by 1.62 is about $520K of quota, which is about 11.6 months. You were there May 2025 to Apr 2026 |
 | Nuve: 30-35 demos booked a month | A 76% show rate means about 23-27 held, against a quota of 15 held |
 | Nuve: 4-5 closed deals a month | Against a quota of 3. Up to 9 in your best month |
-| Intaker: about 185% of quota | About 23 opportunities a month times 27% closed times about $600 MRR is roughly $3,700 a month, against a $2,000 monthly closed-won MRR quota |
+| Intaker: about 185% of quota | About 23 opportunities a month times 27% closed times about $600 MRR is roughly $3,700 a month, against a $2,000 monthly closed-won MRR quota. You chose 185% over the 130% you first gave, so know which one you can stand behind |
 | Intaker: pricing tiers | About $300 MRR (smallest), $600-$1,500 (mid-market), $2,000-$5,000 (enterprise). You have not closed an enterprise account. Say so if asked |
-| Trade show | 40+ demos in 3 days at Pantheon, more than the rest of the sales team combined |
+| Trade show | 40+ live demos in 3 days at Pantheon. Your profile compares it to "the rest of the sales team combined" in one place and "a 12-person SDR team" in another, so say the number and only make a comparison you can back up |
 | Big Bus | Averaged 130% of quota, trained 8+ reps, promoted from Street Sales Rep to Lead Sales Rep |
 
-Industry benchmarks for these numbers are in `../servicetitan-sdm/performance-benchmarks.md`. Use them as talk tracks, never as resume claims.
+If your real Intaker attainment is lower than about 185%, use the real number everywhere. Industry benchmarks for these numbers are in `../servicetitan-sdm/performance-benchmarks.md`. Use them as talk tracks, never as resume claims.
 
 ## Likely questions
 
@@ -50,7 +50,7 @@ Industry benchmarks for these numbers are in `../servicetitan-sdm/performance-be
 3. **Tell me about feedback that changed how you sell.** Use a real one. Skeleton: the situation, what the feedback was, what you changed, the number that moved. This is the "coachable" answer, and it's the one you haven't written yet.
 4. **How do you run your day?** Describe your block structure: calling windows, research, follow-ups, calendar. Only say what you actually do.
 5. **How do you qualify?** MEDDPICC at Intaker: what you ask early to tell a real opportunity from a polite maybe. Say you use it as a framework (you aren't certified).
-6. **Why trades? Why ServiceTitan?** Contractors pick up the phone, you've spent this year learning how they buy, and ServiceTitan is the system they run on.
+6. **Why trades? Why ServiceTitan?** Say what you learned building the Home Services playbook this year (only what's true), and that ServiceTitan is the system contractors run on.
 7. **What tools have you used, and how fast do you learn new ones?** The Salesloft pilot, ZoomInfo and Nooks rollout and your Clay and n8n work are the proof. Then the honest Gong answer.
 8. **Where do you want to be in two years?** Account Executive first, leadership later. That's "either" with an order, and it matches the JD's "set you up as an Account Executive."
 9. **What would your last manager say about you?** Pick a strength and a growth area you've actually worked on.

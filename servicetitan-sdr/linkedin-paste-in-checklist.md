@@ -27,22 +27,22 @@ Open your profile and click the pencil next to your name ("Edit intro").
 <!-- BEGIN:headline -->
 - [ ] **Headline.** Paste option A. B and C are alternatives if you want a different angle. Only the first ~60 characters show in search and comments, so each one opens with the job title and the top keyword.
 
-**Option A (recommended)** · 190 of 220 characters, 28 words. Shows in search and comments: "Sales Development Representative | Outbound Cold Calling & D"
+**Option A (recommended)** · 210 of 220 characters, 31 words. Shows in search and comments: "Sales Development Representative | Outbound Cold Calling & D"
 ```text
-Sales Development Representative | Outbound Cold Calling & Demo Booking | 162% of Quota, $842K Closed-Won | HVAC, Plumbing & Electrical Prospecting | Salesforce, Nooks, ZoomInfo, Chili Piper
+Sales Development Representative | Outbound Cold Calling & Demo Booking | 162% of Quota, $842K Closed-Won at Nuve | Home Services Outbound (HVAC, Plumbing, Electrical) | Salesforce, Nooks, ZoomInfo, Chili Piper
 ```
 
-**Option B (SDR-title weighting)** · 172 of 220 characters, 33 words. Shows in search and comments: "SDR | Cold Calling, Discovery & Demo Booking | 30–35 Demos B"
+**Option B (SDR-title weighting)** · 180 of 220 characters, 35 words. Shows in search and comments: "SDR | Cold Calling, Discovery & Demo Booking | 30–35 Demos B"
 ```text
-SDR | Cold Calling, Discovery & Demo Booking | 30–35 Demos Booked a Month | 162% of Quota, Top 3 of 14+ Reps | Home Services & Trades | Salesforce, HubSpot, ZoomInfo, Nooks
+SDR | Cold Calling, Discovery & Demo Booking | 30–35 Demos Booked a Month at Nuve | 162% of Quota, Top 3 of 14+ Reps | Home Services & Trades | Salesforce, HubSpot, ZoomInfo, Nooks
 ```
 
-**Option C (trades-vertical angle)** · 182 of 220 characters, 30 words. Shows in search and comments: "Sales Development Representative | 162% of Quota & $842K Clo"
+**Option C (trades-vertical angle)** · 190 of 220 characters, 32 words. Shows in search and comments: "Sales Development Representative | 162% of Quota & $842K Clo"
 ```text
-Sales Development Representative | 162% of Quota & $842K Closed-Won | Built Home Services Outbound, Trained 4 SDRs & 4 AEs | Cold Calling, Discovery, Demo Booking | Salesforce, Nooks
+Sales Development Representative | 162% of Quota & $842K Closed-Won at Nuve | Built Home Services Outbound, Trained 4 SDRs & 4 AEs | Cold Calling, Discovery, Demo Booking | Salesforce, Nooks
 ```
 <!-- END:headline -->
-- [ ] **Location:** Los Angeles, California. ("Remote" goes in the Open to Work preferences in Step 8, not here.)
+- [ ] **Location:** Los Angeles, California. (Your hybrid-in-Glendale preference goes in the Open to Work settings in Step 8 and in the last paragraph of the About.)
 - [ ] **Industry:** Software Development (or Technology, Information and Internet).
 - [ ] **Custom URL:** skip this for now. Your resume uses linkedin.com/in/johnny-b-scott. If you change the URL, tell me and I'll rebuild the resume files with the new link.
 
@@ -69,55 +69,55 @@ Sales Development Representative | 162% of Quota & $842K Closed-Won | Built Home
 <!-- BEGIN:about -->
 Open the About section with its pencil icon, select everything, and paste **About A**. About B is a shorter alternative if you would rather lead with metrics.
 
-**About A (recommended, story plus proof)** · 1,535 of 2,600 characters, 292 words. A phone shows roughly the first 200 characters before "see more":
-> I'm an SDR who books demos and closes deals: 162% of quota and $842.4K in closed-won revenue at Nuve, and about 185% of quota at Intaker.  I learned to sell on Fisherman's Wharf: no CRM, no warm leads...
+**About A (recommended, story plus proof)** · 1,519 of 2,600 characters, 282 words. A phone shows roughly the first 200 characters before "see more":
+> I'm an SDR who books demos and closes deals: 162% of quota and $842.4K in closed-won revenue at Nuve, and about 185% of quota at Intaker.  I learned to sell face to face, pitching international crowds...
 
 ```text
 I'm an SDR who books demos and closes deals: 162% of quota and $842.4K in closed-won revenue at Nuve, and about 185% of quota at Intaker.
 
-I learned to sell on Fisherman's Wharf: no CRM, no warm leads, about ten seconds to earn a "yes." Every cold call starts the same way, and I still treat those first ten seconds as the whole job.
+I learned to sell face to face, pitching international crowds on Fisherman's Wharf and working the floor at major conventions. Cold calling feels familiar: you earn each next step in the first few seconds.
 
 How I work:
-• 85+ calls and multi-channel touches a day at Nuve
-• Salesforce, HubSpot, Nooks, ZoomInfo and Chili Piper, and I pick up new tools fast
+• 85+ daily touches at Nuve, on the Nooks dialer, ZoomInfo, Sales Navigator and HubSpot
 • Qualify with MEDDPICC and discovery questions, then book the demo
-• Research the account before I dial, because contractors can tell when you haven't
+• Research the account before I dial
+• Pick up new tools fast: Salesforce, Chili Piper, Orum, Clay and more
 
 What it has produced:
 • Nuve: 30–35 demos booked a month against a quota of 15 held, 4–5 closed deals a month against a quota of 3, top 3 on a 14+ rep team
-• Intaker: about 23 opportunities a month, 27% closed
-• Pantheon trade show: 40+ demos in 3 days, more than the rest of the sales team combined
+• Intaker: about 23 opportunities a month, 27% closed, against a monthly closed-won MRR quota
+• Pantheon trade show: 40+ live demos in 3 days, with real-time routing to AEs
 
-Why the trades: this year I built Intaker's Home Services outbound (ICP, call scripts, and phone, SMS, email and LinkedIn cadences) and trained 4 SDRs and 4 AEs on it. HVAC, plumbing and electrical companies pick up the phone, and I like that.
+Why the trades: this year I built Intaker's Home Services outbound (ICP, call scripts, and phone, SMS, email and LinkedIn cadences) and trained 4 SDRs and 4 AEs on it. It's a market I want to keep selling into.
 
-I also help the people around me ramp: at Nuve I partnered with the SDR Manager on 1:1s and 30/60/90 plans and sourced 5 hires, and at CROP I trained 30+ SDR fellows.
+I also help the people around me ramp: at Nuve I partnered with the SDR Manager on 1:1s and 30/60/90-day training and sourced 5 hires, and at CROP I trained 30+ SDR fellows.
 
-Looking for my next SDR role, hybrid in Los Angeles or Glendale, or US remote. If you lead an SDR team in the trades, I'd like to hear what a great first year looks like. DMs are open.
+Looking for my next SDR role, hybrid in Glendale or the Los Angeles area. If you lead an SDR team in the trades, I'd like to hear what a great first year looks like. DMs are open.
 ```
 
-**About B (short, metrics first)** · 1,242 of 2,600 characters, 237 words. A phone shows roughly the first 200 characters before "see more":
+**About B (short, metrics first)** · 1,226 of 2,600 characters, 230 words. A phone shows roughly the first 200 characters before "see more":
 > SDR with a quota-carrying track record: 162% of quota and $842.4K closed-won at Nuve, with 30–35 demos booked a month, and about 185% of quota at Intaker. I sell by phone, email, SMS and LinkedIn.  Th...
 
 ```text
 SDR with a quota-carrying track record: 162% of quota and $842.4K closed-won at Nuve, with 30–35 demos booked a month, and about 185% of quota at Intaker. I sell by phone, email, SMS and LinkedIn.
 
 The proof:
-• Nuve: top 3 on a 14+ rep SDR team, 4–5 closed deals a month against a quota of 3, 85+ calls and multi-channel touches a day
-• Intaker: about 23 opportunities a month at a 27% close rate, selling AI intake agents to SMB and mid-market buyers
-• Pantheon trade show: 40+ demos in 3 days, more than the rest of the sales team combined
+• Nuve: top 3 on a 14+ rep SDR team, 4–5 closed deals a month against a quota of 3, 85+ daily touches, a 76% demo show rate
+• Intaker: about 23 opportunities a month at a 27% close rate against a monthly closed-won MRR quota, selling AI intake agents to SMB and mid-market buyers
+• Pantheon trade show: 40+ live demos in 3 days, with real-time routing to AEs
 • Built Intaker's Home Services outbound (HVAC, plumbing, electrical) and trained 4 SDRs and 4 AEs on it
-• Ran a 3-week Salesloft pilot at Nuve, then won CRO sign-off for ZoomInfo and Nooks and rolled them out to 14 SDRs
+• Ran a 3-week Salesloft pilot at Nuve, then won CRO sign-off for ZoomInfo and Nooks
 
-I learned to sell on Fisherman's Wharf, with about ten seconds to earn a "yes." Contractors pick up the phone and can tell when you haven't done your homework, so I research the account before I dial.
+I learned to sell face to face, pitching international crowds on Fisherman's Wharf and working the floor at major conventions. I research the account before I dial, and I pick up new tools fast.
 
 I've also trained 30+ SDR fellows at CROP and sourced 5 hires at Nuve, and I want to keep learning from the best reps on the team.
 
-Looking for my next SDR role, hybrid in Los Angeles or Glendale, or US remote. If you lead an SDR team, I'd like to compare notes. DMs are open.
+Looking for my next SDR role, hybrid in Glendale or the Los Angeles area. If you lead an SDR team, I'd like to compare notes. DMs are open.
 ```
 <!-- END:about -->
 
 - [ ] Read it once out loud. If anything is not true for you, tell me before you publish it.
-- [ ] **Last paragraph:** it says you're looking for your next SDR role, hybrid in Los Angeles or Glendale, or US remote. It doesn't name ServiceTitan. Your current About already says you're "open to exploring opportunities," so this isn't a big change. If you'd rather keep the search quiet at Intaker, swap the last paragraph for this one:
+- [ ] **Last paragraph:** it says you're looking for your next SDR role, hybrid in Glendale or the Los Angeles area. It doesn't name ServiceTitan. Your current About already says you're "open to exploring opportunities," so this isn't a big change. If you'd rather keep the search quiet at Intaker, swap the last paragraph for this one:
 ```text
 Always happy to compare notes with SDRs, AEs and anyone selling into the trades. DMs are open.
 ```
@@ -133,7 +133,7 @@ Open each role with its pencil icon. Replace the title and the description, then
 
 - [ ] **Title** (replace the current one):
 ```text
-Senior Sales Development Representative (SMB & Mid-Market) | Home Services GTM
+Senior Sales Development Representative | SMB & Mid-Market, Home Services GTM
 ```
 - [ ] **Dates:** Apr 2026 – Present. **Location:** Los Angeles, CA · Hybrid. (Leave these as they are if they already match.)
 - [ ] **Description** (replace everything in the box; 760 characters, 117 words):
@@ -154,15 +154,15 @@ Sr. SDR at a B2B LegalTech AI SaaS company, selling AI intake agents to SMB and 
 Founding SDR | Enablement | Hardware-Enabled PropTech SaaS
 ```
 - [ ] **Dates:** May 2025 – Apr 2026. **Location:** Irvine, CA · On-site. (Leave these as they are if they already match.)
-- [ ] **Description** (replace everything in the box; 694 characters, 130 words):
+- [ ] **Description** (replace everything in the box; 809 characters, 145 words):
 ```text
-Founding SDR at a hardware-enabled PropTech SaaS company selling to very small and small businesses ($15K average ACV), also coaching and onboarding the SDR team.
+Founding SDR at a hardware-enabled PropTech SaaS company selling to very small and small businesses ($15K average ACV), also helping coach and onboard the SDR team.
 
-• Delivered 162% of quota and $842.4K in closed-won revenue, ranking top 3 on a 14+ rep SDR team.
-• Booked 30–35 demos a month (76% show rate) against a quota of 15 held, and closed 4–5 deals a month against a quota of 3.
-• Sourced 40+ live demos in 3 days at the Pantheon trade show, more than the rest of the sales team combined.
-• Ran a 3-week Salesloft pilot, won CRO sign-off for ZoomInfo and Nooks, and rolled them out to 14 SDRs.
-• Built the first enablement program (team output up 20%) and sourced 5 hires (4 SDRs, 1 AE).
+• Booked 30–35 demos a month (76% show rate) against a quota of 15 held, on 85+ daily touches with Nooks, ZoomInfo, Sales Navigator and HubSpot.
+• Closed 4–5 deals a month against a quota of 3, delivering 162% of quota and $842.4K in closed-won revenue (top 3 on a 14+ rep SDR team).
+• Sourced 40+ live demos in 3 days at the Pantheon trade show through booth prospecting and real-time AE meeting routing.
+• Ran a 3-week Salesloft pilot, won CRO sign-off for ZoomInfo and Nooks, and ran 30/60/90-day training for the SDR team of about 14.
+• Partnered with the SDR Manager on 1:1 coaching and group training, and sourced 5 hires (4 SDRs, 1 AE).
 ```
 - [ ] **Skills to tag:** Sales Development, Cold Calling, Appointment Setting, Prospecting, HubSpot CRM, ZoomInfo, Sales Enablement, Recruiting
 - [ ] **Note:** Matches the resume and your current LinkedIn title. Do not use "SDR Team Lead" or "Acting Team Lead": Nuve had a named SDR Manager.
@@ -204,7 +204,7 @@ Partnership Development Representative | B2B EdTech Sales Accelerator
 
 - [ ] **Title** (replace the current one):
 ```text
-Lead Sales Rep | High-Velocity Outbound Sales
+Lead Sales Rep | High-Velocity Face-to-Face Sales
 ```
 - [ ] **Dates:** Jan 2023 – Mar 2024. **Location:** San Francisco, CA · On-site. (Leave these as they are if they already match.)
 - [ ] **Description** (replace everything in the box; 442 characters, 74 words):
@@ -224,10 +224,10 @@ Promoted from Street Sales Rep to Lead Sales Rep, selling sightseeing tours face
 Procurement Specialist | Metal Fabrication & Industrial Manufacturing
 ```
 - [ ] **Dates:** Apr 2019 – Jan 2023. **Location:** Folsom, CA · On-site. (Leave these as they are if they already match.)
-- [ ] **Description** (replace everything in the box; 246 characters, 37 words):
+- [ ] **Description** (replace everything in the box; 173 characters, 26 words):
 ```text
 • Supervised 2 Procurement Technicians: trained them and quality-checked their work.
-• Cut procurement cycle times 20% and data-entry errors 30% running MRP runs and orders in Infor LX, and cut production delays 25% through supplier negotiations.
+• Cut procurement cycle times 20% and data-entry errors 30% running MRP runs and orders.
 ```
 - [ ] **Skills to tag:** Team Supervision, Training, Vendor Negotiation, Process Improvement, ERP Systems
 - [ ] **Note:** Keep the dates exact and keep "Contract" as the employment type if that is how you were engaged. Remove the "reverse-engineered buyer knowledge / enterprise SaaS buying committees" paragraph and the "RevOps-style" and "MCP" tags from this role.
@@ -244,7 +244,7 @@ Campaign Representative | Field Outreach & Volunteer Team Coordination
 • Mobilized large-scale volunteer networks across 6+ election and legislative initiatives, presenting to City Councils and handling live objections.
 ```
 - [ ] **Skills to tag:** Objection Handling, Public Speaking, Volunteer Management, Territory Management
-- [ ] **Note:** Keep the dates exact. Don't delete this role: removing it leaves an unexplained gap from 2014 to 2019.
+- [ ] **Note:** Keep the dates exact and keep "Contract" as the employment type, as it is on your profile. Don't delete this role: removing it leaves an unexplained gap from 2014 to 2019.
 <!-- END:roles -->
 
 ---
@@ -337,7 +337,7 @@ I worked with Johnny at Nuve, where he was a founding SDR. He finished at 162% o
 On your profile, click Open to, then Finding a new job.
 
 - [ ] **Job titles (up to 5):** Sales Development Representative, Senior Sales Development Representative, Business Development Representative, Inside Sales Representative, Account Executive. (Both doors open: the Account Executive title keeps you in AE searches. To stay visible for manager searches too, swap "Inside Sales Representative" for "Sales Development Manager".)
-- [ ] **Location types:** Hybrid and Remote. **Locations:** Los Angeles Metro (covers Glendale) and United States (Remote).
+- [ ] **Location types:** Hybrid. **Locations:** Los Angeles Metro (covers Glendale). Add Remote only if you'd take a fully remote SDR job at another company. ServiceTitan requires 1-2 onsite days for anyone within 40 miles of an office, so don't add Remote on their account.
 - [ ] **Start date:** Immediately. **Employment type:** Full-time.
 - [ ] **Who sees it:** Recruiters only (no green photo frame). LinkedIn tries to hide this from recruiters at your current company, but it doesn't guarantee it.
 - [ ] Hide the Connected apps section (Wispr Flow, Base44) if LinkedIn lets you. It's low priority.
@@ -369,9 +369,8 @@ On your profile, click Open to, then Finding a new job.
 | Nuve deals | 4 to 5 closed a month on average (up to 9 in a best month), quota of 3 |
 | Nuve rank | Top 3 of a 14+ rep SDR team |
 | Nuve hires | 5 sourced (4 SDRs, 1 AE) |
-| Nuve team impact | Output up 20% (60 more demos and $126K more closed-won a month) |
-| Nuve tools | 3-week Salesloft pilot. CRO sign-off on ZoomInfo and Nooks, rolled out to the 14-rep SDR team |
-| Nuve trade show | 40+ demos in 3 days at the Pantheon show, more than the rest of the sales team combined |
+| Nuve tools and training | 3-week Salesloft pilot. CRO sign-off on ZoomInfo and Nooks. 30/60/90-day training for the SDR team of about 14 |
+| Nuve trade show | 40+ live demos in 3 days at the Pantheon show, with real-time AE routing. No comparison to the rest of the team |
 | Intaker quota | About 185% of monthly closed-won MRR quota |
 | Intaker funnel | About 23 opportunities a month, 27% closed |
 | Intaker training | 4 SDRs and 4 AEs, plus a playbook handoff to the Sales Enablement Director |

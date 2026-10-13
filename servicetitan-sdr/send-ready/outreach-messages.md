@@ -20,7 +20,7 @@ Arman should change anything that doesn't match what he saw.
 
 > Johnny Scott Jorgenson is a former teammate. I watched him help teammates grow and roll out new tools to our whole sales team on his own initiative.
 > At Nuve he reached 162% of quota with $842.4K in closed-won revenue, booked 30-35 demos a month against a quota of 15, and ranked top 3 on a 14+ rep SDR team.
-> Since April at Intaker he has been prospecting HVAC, plumbing and electrical companies. He built the vertical's outbound playbook and trained 4 SDRs and 4 AEs on it.
+> Since April at Intaker he has built the Home Services outbound motion (HVAC, plumbing, electrical) and trained 4 SDRs and 4 AEs on it.
 
 ---
 
@@ -30,23 +30,23 @@ Ask Arman who runs the SDR team, or search LinkedIn for "Sales Development" titl
 
 ### LinkedIn connection note (200 characters or fewer, works on any account)
 
-> Hi [Name], I applied for the SDR role (JR115835). I hit 162% of quota at Nuve and now prospect HVAC, plumbing and electrical companies at Intaker. Would value connecting.
+> Hi [Name], I applied for the SDR role (JR115835). I hit 162% of quota at Nuve and built Intaker's outbound for HVAC, plumbing and electrical companies. Would value connecting.
 
 ### Longer connection note (300 characters max, only if your account allows it)
 
-> Hi [Name], I applied for the Sales Development Representative role (JR115835). At Nuve I booked 30-35 demos a month and finished at 162% of quota, and this year I've been prospecting HVAC, plumbing and electrical companies at Intaker. I'd value connecting.
+> Hi [Name], I applied for the Sales Development Representative role (JR115835). At Nuve I booked 30-35 demos a month and finished at 162% of quota, and this year I built Intaker's outbound motion for HVAC, plumbing and electrical companies. I'd value connecting.
 
 ### Follow-up InMail
 
 InMail is a Premium or Sales Navigator feature (200-character subject, about 1,900-character body). If you don't have it, wait for the connection to be accepted and send this as a regular message.
 
-> **Subject:** JR115835: SDR at 162% of quota who has prospected the trades
+> **Subject:** JR115835: SDR at 162% of quota with a Home Services playbook
 >
 > Hi [Name],
 >
 > I applied for the Sales Development Representative role (JR115835) and wanted to reach out directly.
 >
-> At Nuve I was the founding SDR: 162% of quota and $842.4K in closed-won revenue, 30-35 demos booked a month against a quota of 15 held, and 85+ calls and multi-channel touches a day. This year at Intaker I've been prospecting HVAC, plumbing and electrical companies. I built the Home Services outbound playbook there and averaged about 185% of quota on about 23 opportunities a month.
+> At Nuve I was the founding SDR: 162% of quota and $842.4K in closed-won revenue, 30-35 demos booked a month against a quota of 15 held, and 85+ daily touches. This year at Intaker I built the Home Services outbound playbook for HVAC, plumbing and electrical companies and averaged about 185% of quota on about 23 opportunities a month.
 >
 > I'm looking for a team that coaches hard on calls. I'd value 15 minutes to hear what separates your top SDRs and how I can get there fast.
 >

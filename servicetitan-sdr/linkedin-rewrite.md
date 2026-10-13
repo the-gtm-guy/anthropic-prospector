@@ -1,12 +1,13 @@
 # LinkedIn Rewrite: Johnny Scott Jorgenson
-**Target:** ServiceTitan, Sales Development Representative (JR115835), hybrid in Glendale or US Remote
+**Target:** ServiceTitan, Sales Development Representative (JR115835), hybrid in Glendale
 **Positioning shift:** from "player-coach SDR leader" (the closed manager application) to **a high-producing SDR who books demos, closes his own deals, and has already trained other reps.** Production leads. Coaching and enablement stay as evidence of range. Account Executive and leadership both stay open.
-**Sources:** `source/job-description.md`, `source/candidate-interview-addendum.md`, `../servicetitan-sdm/source/candidate-interview.md`, and the Oct 6 LinkedIn snapshot. Every metric below comes from those files.
+**Sources:** `source/job-description.md`, `source/candidate-interview-addendum.md`, `../servicetitan-sdm/source/candidate-interview.md`, and your own Oct 6 LinkedIn profile (`../servicetitan-sdm/source/linkedin-profile-2026-10-06.md`). Every metric below comes from those files. The addendum lists which figures you confirmed in our chats and which come only from your profile.
 **Standards:** every headline, About, experience block and message here is checked against `../servicetitan-sdm/linkedin-2026-standards.md` (2026 character and word limits, what shows before "see more", and formatting rules). Edit this file, then run `python3 tools/build_linkedin_checklist.py` to re-check it and rebuild the paste-in checklist.
 
 > **Guardrails before pasting**
 > - **Salesloft:** a 3-week pilot at Nuve, after which Johnny chose HubSpot sequences. Describe it as a pilot or evaluation, never as daily use. **Gong:** not used, so it appears nowhere. Fireflies is the call-recording tool he has used.
 > - **Nuve "shadow manager" framing:** Branden and Nuve colleagues can see the profile. On LinkedIn, describe the coaching as *"partnered with the SDR Manager on..."*. Save the fuller "I taught the manager what to report" story for interviews.
+> - **Be ready to defend every number.** Figures marked "from your profile" in the addendum are your own claims from Oct 6 that you did not re-confirm in our chats. Read each one before you paste it.
 > - **Plain text only.** LinkedIn doesn't render markdown. The paste blocks below use plain text and the "•" bullet character. Don't swap in Unicode "bold" lettering: it isn't searchable and screen readers read it badly.
 > - **The About is public, and Intaker colleagues can see it.** It says you're looking for your next SDR role without naming ServiceTitan. If you'd rather keep the search quiet, use the swap line in the checklist (Step 2).
 > - **Recruiter keywords this rewrite targets:** SDR, Sales Development Representative, BDR, Cold Calling, Outbound, Lead Generation, Prospecting, Appointment Setting, Lead Qualification, Demo, Salesforce, HubSpot, ZoomInfo, Nooks, Chili Piper, SaaS, Home Services, HVAC, Plumbing, Electrical.
@@ -14,26 +15,29 @@
 ## Compliance check (auto-generated)
 
 <!-- BEGIN:compliance -->
-16 checks: 16 OK, 0 WARN, 0 FAIL. Rules: `servicetitan-sdm/linkedin-2026-standards.md`. Rerun `python3 tools/build_linkedin_checklist.py` after any edit.
+19 checks: 19 OK, 0 WARN, 0 FAIL. Rules: `servicetitan-sdm/linkedin-2026-standards.md`. Rerun `python3 tools/build_linkedin_checklist.py` after any edit.
 
 | Item | Characters | Words | Rule | Status | Notes |
 |---|---|---|---|---|---|
-| Headline A | 190 | 28 | 120-220 chars, title in first 60 | OK | shows: 'Sales Development Representative \| Outbound Cold Calling & D' |
-| Headline B | 172 | 33 | 120-220 chars, title in first 60 | OK | shows: 'SDR \| Cold Calling, Discovery & Demo Booking \| 30–35 Demos B' |
-| Headline C | 182 | 30 | 120-220 chars, title in first 60 | OK | shows: 'Sales Development Representative \| 162% of Quota & $842K Clo' |
-| About A | 1,535 | 292 | 1,500-2,200 chars, 200-350 words | OK | first 200 chars checked |
-| About B | 1,242 | 237 | 1,200-2,200 chars, 200-350 words | OK | first 200 chars checked |
+| Headline A | 210 | 31 | 120-220 chars, title in first 60 | OK | shows: 'Sales Development Representative \| Outbound Cold Calling & D' |
+| Headline B | 180 | 35 | 120-220 chars, title in first 60 | OK | shows: 'SDR \| Cold Calling, Discovery & Demo Booking \| 30–35 Demos B' |
+| Headline C | 190 | 32 | 120-220 chars, title in first 60 | OK | shows: 'Sales Development Representative \| 162% of Quota & $842K Clo' |
+| About A | 1,519 | 282 | 1,500-2,200 chars, 200-350 words | OK | first 200 chars checked |
+| About B | 1,226 | 230 | 1,200-2,200 chars, 200-350 words | OK | first 200 chars checked |
 | Role: Intaker | 760 | 117 | core: context + 3-5 bullets, <=150 words, 400-1,000 chars | OK | context + 4 bullets, longest 25 words, 2 with numbers |
-| Role: Nuve | 694 | 130 | core: context + 3-5 bullets, <=150 words, 400-1,000 chars | OK | context + 5 bullets, longest 25 words, 5 with numbers |
+| Role: Nuve | 809 | 145 | core: context + 3-5 bullets, <=150 words, 400-1,000 chars | OK | context + 5 bullets, longest 27 words, 5 with numbers |
 | Role: CROP Organization, role 1 | 582 | 93 | core: context + 3-5 bullets, <=150 words, 400-1,000 chars | OK | context + 4 bullets, longest 23 words, 4 with numbers |
 | Role: CROP Organization, role 2 | 318 | 49 | supporting: 1-3 bullets, <=150 words, <=600 chars | OK | 3 bullets, longest 20 words, 3 with numbers |
 | Role: Big Bus Tours | 442 | 74 | supporting: 1-3 bullets, <=150 words, <=600 chars | OK | context + 3 bullets, longest 16 words, 3 with numbers |
-| Role: State of California | 246 | 37 | supporting: 1-3 bullets, <=150 words, <=600 chars | OK | 2 bullets, longest 25 words, 2 with numbers |
+| Role: State of California | 173 | 26 | supporting: 1-3 bullets, <=150 words, <=600 chars | OK | 2 bullets, longest 14 words, 2 with numbers |
 | Role: GOCO Consulting (optional) | 148 | 19 | supporting: 1-3 bullets, <=150 words, <=600 chars | OK | 1 bullets, longest 18 words, 1 with numbers |
 | Skills list | 459 | 56 | 25-30 skills, no generic traits | OK | 30 skills; first three: Sales Development, Cold Calling, Outbound Sales |
-| Post 1 hook | 111 | 23 | hook <=140 chars | OK |  |
-| Post 2 hook | 90 | 18 | hook <=140 chars | OK |  |
+| Post 1 hook | 117 | 24 | hook <=140 chars | OK |  |
+| Post 2 hook | 118 | 20 | hook <=140 chars | OK |  |
 | Post 3 hook | 113 | 19 | hook <=140 chars | OK |  |
+| Connection note (200) | 181 | 29 | <=200 chars with a 12-char name | OK |  |
+| Connection note (300) | 267 | 42 | <=300 chars with a 12-char name | OK |  |
+| InMail body | 627 | 108 | body <=1,000 chars (limit 1,900) | OK |  |
 <!-- END:compliance -->
 
 ---
@@ -44,19 +48,19 @@ Limit: 220 characters. Only the first ~60 characters reliably show in search res
 
 ### Headline A (recommended)
 ```text
-Sales Development Representative | Outbound Cold Calling & Demo Booking | 162% of Quota, $842K Closed-Won | HVAC, Plumbing & Electrical Prospecting | Salesforce, Nooks, ZoomInfo, Chili Piper
+Sales Development Representative | Outbound Cold Calling & Demo Booking | 162% of Quota, $842K Closed-Won at Nuve | Home Services Outbound (HVAC, Plumbing, Electrical) | Salesforce, Nooks, ZoomInfo, Chili Piper
 ```
-*Why:* it opens with the title recruiters search, follows with the two things the JD asks for (outbound calls and demos), then the proof, the trades link, and the tools in ServiceTitan's stack.
+*Why:* it opens with the title recruiters search, follows with the two things the JD asks for (outbound calls and demos), then the proof (tied to Nuve so it doesn't read as your current job), the trades link, and the tools. Salesforce and Chili Piper are in ServiceTitan's stack.
 
 ### Headline B (SDR-title weighting)
 ```text
-SDR | Cold Calling, Discovery & Demo Booking | 30–35 Demos Booked a Month | 162% of Quota, Top 3 of 14+ Reps | Home Services & Trades | Salesforce, HubSpot, ZoomInfo, Nooks
+SDR | Cold Calling, Discovery & Demo Booking | 30–35 Demos Booked a Month at Nuve | 162% of Quota, Top 3 of 14+ Reps | Home Services & Trades | Salesforce, HubSpot, ZoomInfo, Nooks
 ```
 *Why:* matches searches for "SDR" first and puts the activity number (30–35 demos a month) ahead of the quota number.
 
 ### Headline C (trades-vertical angle)
 ```text
-Sales Development Representative | 162% of Quota & $842K Closed-Won | Built Home Services Outbound, Trained 4 SDRs & 4 AEs | Cold Calling, Discovery, Demo Booking | Salesforce, Nooks
+Sales Development Representative | 162% of Quota & $842K Closed-Won at Nuve | Built Home Services Outbound, Trained 4 SDRs & 4 AEs | Cold Calling, Discovery, Demo Booking | Salesforce, Nooks
 ```
 *Why:* shows the range (production plus building and teaching) while the title stays plainly SDR.
 
@@ -72,24 +76,24 @@ Limit: 2,600 characters. The target is 200 to 350 words (about 1,500 to 2,200 ch
 ```text
 I'm an SDR who books demos and closes deals: 162% of quota and $842.4K in closed-won revenue at Nuve, and about 185% of quota at Intaker.
 
-I learned to sell on Fisherman's Wharf: no CRM, no warm leads, about ten seconds to earn a "yes." Every cold call starts the same way, and I still treat those first ten seconds as the whole job.
+I learned to sell face to face, pitching international crowds on Fisherman's Wharf and working the floor at major conventions. Cold calling feels familiar: you earn each next step in the first few seconds.
 
 How I work:
-• 85+ calls and multi-channel touches a day at Nuve
-• Salesforce, HubSpot, Nooks, ZoomInfo and Chili Piper, and I pick up new tools fast
+• 85+ daily touches at Nuve, on the Nooks dialer, ZoomInfo, Sales Navigator and HubSpot
 • Qualify with MEDDPICC and discovery questions, then book the demo
-• Research the account before I dial, because contractors can tell when you haven't
+• Research the account before I dial
+• Pick up new tools fast: Salesforce, Chili Piper, Orum, Clay and more
 
 What it has produced:
 • Nuve: 30–35 demos booked a month against a quota of 15 held, 4–5 closed deals a month against a quota of 3, top 3 on a 14+ rep team
-• Intaker: about 23 opportunities a month, 27% closed
-• Pantheon trade show: 40+ demos in 3 days, more than the rest of the sales team combined
+• Intaker: about 23 opportunities a month, 27% closed, against a monthly closed-won MRR quota
+• Pantheon trade show: 40+ live demos in 3 days, with real-time routing to AEs
 
-Why the trades: this year I built Intaker's Home Services outbound (ICP, call scripts, and phone, SMS, email and LinkedIn cadences) and trained 4 SDRs and 4 AEs on it. HVAC, plumbing and electrical companies pick up the phone, and I like that.
+Why the trades: this year I built Intaker's Home Services outbound (ICP, call scripts, and phone, SMS, email and LinkedIn cadences) and trained 4 SDRs and 4 AEs on it. It's a market I want to keep selling into.
 
-I also help the people around me ramp: at Nuve I partnered with the SDR Manager on 1:1s and 30/60/90 plans and sourced 5 hires, and at CROP I trained 30+ SDR fellows.
+I also help the people around me ramp: at Nuve I partnered with the SDR Manager on 1:1s and 30/60/90-day training and sourced 5 hires, and at CROP I trained 30+ SDR fellows.
 
-Looking for my next SDR role, hybrid in Los Angeles or Glendale, or US remote. If you lead an SDR team in the trades, I'd like to hear what a great first year looks like. DMs are open.
+Looking for my next SDR role, hybrid in Glendale or the Los Angeles area. If you lead an SDR team in the trades, I'd like to hear what a great first year looks like. DMs are open.
 ```
 
 ### About B (short, metrics first)
@@ -97,17 +101,17 @@ Looking for my next SDR role, hybrid in Los Angeles or Glendale, or US remote. I
 SDR with a quota-carrying track record: 162% of quota and $842.4K closed-won at Nuve, with 30–35 demos booked a month, and about 185% of quota at Intaker. I sell by phone, email, SMS and LinkedIn.
 
 The proof:
-• Nuve: top 3 on a 14+ rep SDR team, 4–5 closed deals a month against a quota of 3, 85+ calls and multi-channel touches a day
-• Intaker: about 23 opportunities a month at a 27% close rate, selling AI intake agents to SMB and mid-market buyers
-• Pantheon trade show: 40+ demos in 3 days, more than the rest of the sales team combined
+• Nuve: top 3 on a 14+ rep SDR team, 4–5 closed deals a month against a quota of 3, 85+ daily touches, a 76% demo show rate
+• Intaker: about 23 opportunities a month at a 27% close rate against a monthly closed-won MRR quota, selling AI intake agents to SMB and mid-market buyers
+• Pantheon trade show: 40+ live demos in 3 days, with real-time routing to AEs
 • Built Intaker's Home Services outbound (HVAC, plumbing, electrical) and trained 4 SDRs and 4 AEs on it
-• Ran a 3-week Salesloft pilot at Nuve, then won CRO sign-off for ZoomInfo and Nooks and rolled them out to 14 SDRs
+• Ran a 3-week Salesloft pilot at Nuve, then won CRO sign-off for ZoomInfo and Nooks
 
-I learned to sell on Fisherman's Wharf, with about ten seconds to earn a "yes." Contractors pick up the phone and can tell when you haven't done your homework, so I research the account before I dial.
+I learned to sell face to face, pitching international crowds on Fisherman's Wharf and working the floor at major conventions. I research the account before I dial, and I pick up new tools fast.
 
 I've also trained 30+ SDR fellows at CROP and sourced 5 hires at Nuve, and I want to keep learning from the best reps on the team.
 
-Looking for my next SDR role, hybrid in Los Angeles or Glendale, or US remote. If you lead an SDR team, I'd like to compare notes. DMs are open.
+Looking for my next SDR role, hybrid in Glendale or the Los Angeles area. If you lead an SDR team, I'd like to compare notes. DMs are open.
 ```
 
 ---
@@ -117,7 +121,7 @@ Looking for my next SDR role, hybrid in Los Angeles or Glendale, or US remote. I
 > Format for every role: a one-sentence context statement (company, product, buyer segment, deal size), a blank line, then 3 to 5 bullets that open with the result or an action verb. Keep each bullet to two lines or fewer (35 words max), name tools inside the bullets, and write numbers as digits. A role entry stays under 150 words including the context statement. Supporting roles get 1 to 3 bullets and stay under 600 characters. Add the **Skills** tags listed under each role, since LinkedIn's role-level skill tags feed Recruiter search. Titles and dates match `send-ready/resume.md` (the part of each title before any "|").
 
 ### Intaker
-**Title:** `Senior Sales Development Representative (SMB & Mid-Market) | Home Services GTM`
+**Title:** `Senior Sales Development Representative | SMB & Mid-Market, Home Services GTM`
 **Company:** Intaker
 **Dates/Location:** Apr 2026 – Present · Los Angeles, CA · Hybrid
 **Role type:** core
@@ -140,13 +144,13 @@ Sr. SDR at a B2B LegalTech AI SaaS company, selling AI intake agents to SMB and 
 **Dates/Location:** May 2025 – Apr 2026 · Irvine, CA · On-site
 **Role type:** core
 ```text
-Founding SDR at a hardware-enabled PropTech SaaS company selling to very small and small businesses ($15K average ACV), also coaching and onboarding the SDR team.
+Founding SDR at a hardware-enabled PropTech SaaS company selling to very small and small businesses ($15K average ACV), also helping coach and onboard the SDR team.
 
-• Delivered 162% of quota and $842.4K in closed-won revenue, ranking top 3 on a 14+ rep SDR team.
-• Booked 30–35 demos a month (76% show rate) against a quota of 15 held, and closed 4–5 deals a month against a quota of 3.
-• Sourced 40+ live demos in 3 days at the Pantheon trade show, more than the rest of the sales team combined.
-• Ran a 3-week Salesloft pilot, won CRO sign-off for ZoomInfo and Nooks, and rolled them out to 14 SDRs.
-• Built the first enablement program (team output up 20%) and sourced 5 hires (4 SDRs, 1 AE).
+• Booked 30–35 demos a month (76% show rate) against a quota of 15 held, on 85+ daily touches with Nooks, ZoomInfo, Sales Navigator and HubSpot.
+• Closed 4–5 deals a month against a quota of 3, delivering 162% of quota and $842.4K in closed-won revenue (top 3 on a 14+ rep SDR team).
+• Sourced 40+ live demos in 3 days at the Pantheon trade show through booth prospecting and real-time AE meeting routing.
+• Ran a 3-week Salesloft pilot, won CRO sign-off for ZoomInfo and Nooks, and ran 30/60/90-day training for the SDR team of about 14.
+• Partnered with the SDR Manager on 1:1 coaching and group training, and sourced 5 hires (4 SDRs, 1 AE).
 ```
 **Skills to tag:** Sales Development, Cold Calling, Appointment Setting, Prospecting, HubSpot CRM, ZoomInfo, Sales Enablement, Recruiting
 
@@ -184,7 +188,7 @@ GTM enablement for a B2B EdTech sales accelerator that trains and places new SDR
 ---
 
 ### Big Bus Tours
-**Title:** `Lead Sales Rep | High-Velocity Outbound Sales`
+**Title:** `Lead Sales Rep | High-Velocity Face-to-Face Sales`
 **Company:** Big Bus Tours
 **Dates/Location:** Jan 2023 – Mar 2024 · San Francisco, CA · On-site
 **Role type:** supporting
@@ -206,7 +210,7 @@ Promoted from Street Sales Rep to Lead Sales Rep, selling sightseeing tours face
 **Role type:** supporting
 ```text
 • Supervised 2 Procurement Technicians: trained them and quality-checked their work.
-• Cut procurement cycle times 20% and data-entry errors 30% running MRP runs and orders in Infor LX, and cut production delays 25% through supplier negotiations.
+• Cut procurement cycle times 20% and data-entry errors 30% running MRP runs and orders.
 ```
 **Skills to tag:** Team Supervision, Training, Vendor Negotiation, Process Improvement, ERP Systems
 *(Keep the dates exact and keep "Contract" as the employment type if that is how you were engaged. Remove the "reverse-engineered buyer knowledge / enterprise SaaS buying committees" paragraph and the "RevOps-style" and "MCP" tags from this role.)*
@@ -222,7 +226,7 @@ Promoted from Street Sales Rep to Lead Sales Rep, selling sightseeing tours face
 • Mobilized large-scale volunteer networks across 6+ election and legislative initiatives, presenting to City Councils and handling live objections.
 ```
 **Skills to tag:** Objection Handling, Public Speaking, Volunteer Management, Territory Management
-*(Keep the dates exact. Don't delete this role: removing it leaves an unexplained gap from 2014 to 2019.)*
+*(Keep the dates exact and keep "Contract" as the employment type, as it is on your profile. Don't delete this role: removing it leaves an unexplained gap from 2014 to 2019.)*
 
 ---
 
@@ -302,10 +306,10 @@ Instructional Design
 
 - [ ] **Open to Work, set to "Recruiters only"** (no green frame).
   - Job titles (up to 5): **Sales Development Representative · Senior Sales Development Representative · Business Development Representative · Inside Sales Representative · Account Executive**
-  - Location types: Hybrid + Remote. Locations: **Los Angeles Metro** (covers Glendale) and **United States (Remote)**.
+  - Location types: **Hybrid**. Locations: **Los Angeles Metro** (covers Glendale). Add Remote only if you'd take a fully remote SDR job at another company. ServiceTitan requires 1-2 onsite days for anyone within 40 miles of an office.
   - Start date: "Immediately, I'm actively applying." Employment type: Full-time.
   - *Both doors open:* the Account Executive title keeps you in AE searches. If you also want to stay visible for manager searches, swap "Inside Sales Representative" for "Sales Development Manager". Don't add more than two or three title families, or recruiters can't tell what you want.
-- [ ] **Location:** set to **Los Angeles, California**. (LinkedIn's location field only accepts a real place, so "Remote" goes in the Open-to-Work preferences. The About's last paragraph already says hybrid in Los Angeles or Glendale, or US remote.)
+- [ ] **Location:** set to **Los Angeles, California**. (LinkedIn's location field only accepts a real place. The About's last paragraph already says hybrid in Glendale or the Los Angeles area.)
 - [ ] **Name consistency:**
   - Display name: change to **Johnny Scott Jorgenson** (First: Johnny, Last: Jorgenson). If he wants to keep "Johnny Scott", add **Jorgenson** as the last name and use the "Additional name" field for "Scott". Either way, "Jorgenson" has to be searchable, because the resume, application and referral will all use it.
   - Recommendations misspell it as "Jorgensen" (Jeffery Warner) and "Jergenson" (Alejandra Vila). Send each a short note asking them to edit it to "Jorgenson". It's a 30-second fix for them.
@@ -327,15 +331,15 @@ Instructional Design
 
 ## 7. Three posts to publish in the 2 weeks around applying
 
-Publish about every 4-5 days, Tuesday to Thursday, 7-9am PT. LinkedIn allows 3,000 characters, but aim for under 1,300. Keep the hook (the opening line or two) under 140 characters, because only about 140 to 210 characters show before "see more". End with a question to drive comments. These hooks are drafts: keep only claims that match what you actually did and saw.
+Publish about every 4-5 days, Tuesday to Thursday, 7-9am PT. LinkedIn allows 3,000 characters, but aim for under 1,300. Keep the hook (the opening line or two) under 140 characters, because only about 140 to 210 characters show before "see more". End with a question to drive comments. These hooks are drafts: keep only claims that match what you actually did and saw. Post 2 only works if the tips come from your own work on the Home Services playbook, so cut any line you can't back with a story.
 
 **Post 1: "40+ demos in 3 days at a trade show" (Day 1)**
-Hook: *"I booked 40+ demos in 3 days at a trade show. Here's the booth routine, and the one thing I'd change next time."*
+Hook: *"I sourced 40+ live demos in 3 days at a trade show. Here's the booth routine, and the one thing I'd change next time."*
 Body: your booth opener, the one or two qualifying questions you asked, and how you routed meetings to AEs in real time. Say what you would change (this has to come from you). End with: "Anyone working events: what's your best opener at a booth?"
 
-**Post 2: "Cold calling contractors is different. Here's what I do" (Day 5-6)**
-Hook: *"A plumber answers your cold call from under a sink. You have 8 seconds. Here's what I say."*
-Body: lessons from building the Home Services outbound at Intaker. Call between jobs (early morning and late afternoon). Lead with missed calls or booked jobs, not "software". Use SMS as a real channel for trades. Learn the language (dispatch, tech, truck, service agreement). Tie it back to Fisherman's Wharf: you earn the next 30 seconds in the first 8. End with: "Anyone selling into the trades: what's your best opener?" *(This puts you squarely in ServiceTitan's market. Keep Intaker-confidential specifics out.)*
+**Post 2: "Calling contractors is different. Here's what I'd tell a new SDR" (Day 5-6)**
+Hook: *"I built an outbound playbook for HVAC, plumbing and electrical companies. Here's what I'd tell a new SDR calling them."*
+Body: lessons from building the Home Services outbound at Intaker. Include only the ones you saw work: when contractors pick up, what to lead with (missed calls or booked jobs, not "software"), SMS as a channel, the language of the trade (dispatch, tech, truck, service agreement). Tie it back to selling face to face on Fisherman's Wharf. End with: "Anyone selling into the trades: what's your best opener?" *(This puts you squarely in ServiceTitan's market. Keep Intaker-confidential specifics out.)*
 
 **Post 3: "The daily math behind 162% of quota" (Day 10-12)**
 Hook: *"162% of quota isn't magic. It's a daily activity number and a demo-to-close process. Here's the math behind mine."*
