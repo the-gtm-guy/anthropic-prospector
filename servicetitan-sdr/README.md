@@ -19,7 +19,7 @@ This replaces the closed manager application (`../servicetitan-sdm/`, JR116181).
 
 - [ ] **Read the "from your profile" list** in `source/candidate-interview-addendum.md`. Those figures are your own Oct 6 claims that you never re-confirmed in our chats (the Nuve $842.4K and 162%, the trade show, all the CROP and Big Bus numbers, the dates). Tell me about any that are off and I'll fix the resume and LinkedIn in one pass.
 - [ ] **Check the "about 185%" at Intaker** against your Intaker numbers if you can see them. It comes from about 23 opportunities x 27% closed x about $600 MRR, which is roughly $3,700 against a $2,000 quota. If your real attainment is lower, tell me and I'll change it everywhere.
-- [ ] **CROP:** confirm that "PDR" stands for Partnership Development Representative and that CROP's records show a Mar 2024 start. Two recommendations call you an "SDR fellow" there, so use the titles and dates CROP would confirm.
+- [ ] **CROP:** confirm that "PDR" stands for Partnership Development Representative and that CROP's records show a Mar 2024 start. One recommendation calls you an "SDR fellow" of CROP and another mentions meeting you at the start of "our journey with CROP", so use the titles and dates CROP would confirm.
 - [ ] **Education:** replace "B.S., Business" and "A.A., Business Administration" with the exact degrees and majors on your diplomas.
 - [ ] Open the PDF on your phone. It should be one page and read cleanly.
 - [ ] The resume leaves off the two HubSpot certifications, which expire this month. Renew them and tell me to add them back, or remove them from LinkedIn.
