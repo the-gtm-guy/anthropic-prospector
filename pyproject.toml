@@ -1,0 +1,121 @@
+[build-system]
+requires = ["hatchling>=1.27"]
+build-backend = "hatchling.build"
+
+[project]
+name = "anthropic-prospector"
+dynamic = ["version"]
+description = "Signal-based MEDDPICC qualification engine and outbound brief generator for West Coast B2B startups."
+readme = "README.md"
+requires-python = ">=3.11"
+license = "MIT"
+license-files = ["LICENSE"]
+authors = [{ name = "Johnny Scott" }]
+keywords = ["anthropic", "claude", "meddpicc", "sales", "sdr", "prospecting", "cli"]
+classifiers = [
+  "Development Status :: 3 - Alpha",
+  "Environment :: Console",
+  "Operating System :: OS Independent",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3 :: Only",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Programming Language :: Python :: 3.13",
+  "Typing :: Typed",
+]
+# Lower bounds are verified by the `min-deps` CI job (uv --resolution lowest-direct).
+dependencies = [
+  "anthropic>=1.13,<2",
+  "dnspython>=2.6,<3",
+  "httpx>=0.27,<1",
+  "pydantic>=2.7,<3",
+  "pydantic-settings>=2.4,<3",
+  "rich>=13.7,<16",
+  "typer>=0.16,<1",
+]
+
+[project.optional-dependencies]
+dev = [
+  "mypy>=2.4,<2.5",
+  "pytest>=8.3",
+  "pytest-asyncio>=0.24",
+  "respx>=0.22",
+  "ruff>=0.17,<0.18",
+]
+
+[project.scripts]
+prospector = "anthropic_prospector.cli:app"
+
+[tool.hatch.version]
+path = "src/anthropic_prospector/__init__.py"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/anthropic_prospector"]
+
+# --------------------------------------------------------------------------- ruff
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+src = ["src", "tests"]
+
+[tool.ruff.lint]
+select = [
+  "E", "W", "F", # pycodestyle + pyflakes
+  "I",           # import sorting
+  "UP",          # modern syntax (X | None, StrEnum, ...)
+  "B",           # bugbear
+  "C4",          # comprehensions
+  "SIM",         # simplifications
+  "RUF",         # ruff-specific
+  "DTZ",         # naive datetimes (bans utcnow / tz-less now)
+  "PT",          # pytest style
+  "TID",         # banned APIs + absolute imports only
+]
+
+[tool.ruff.lint.flake8-tidy-imports]
+# Absolute imports only: keeps the import-DAG test (tests/test_import_dag.py) simple and exact.
+ban-relative-imports = "all"
+
+[tool.ruff.lint.flake8-tidy-imports.banned-api]
+"pydantic.v1".msg = "The Pydantic V1 compatibility layer is banned; use V2 APIs."
+"pydantic.validator".msg = "Pydantic V1 API; use pydantic.field_validator."
+"pydantic.root_validator".msg = "Pydantic V1 API; use pydantic.model_validator."
+"pydantic.BaseSettings".msg = "Moved out of pydantic in V2; use pydantic_settings.BaseSettings."
+
+# --------------------------------------------------------------------------- mypy
+[tool.mypy]
+python_version = "3.11"
+strict = true
+files = ["src", "tests"]
+plugins = ["pydantic.mypy"]
+warn_unreachable = true
+# `deprecated` statically flags PEP 702-marked APIs, e.g. Pydantic V1 `.dict()` / `.parse_obj()`.
+enable_error_code = ["deprecated", "ignore-without-code", "redundant-expr", "truthy-bool"]
+
+[tool.pydantic-mypy]
+init_forbid_extra = true
+init_typed = true
+warn_required_dynamic_aliases = true
+
+# --------------------------------------------------------------------------- pytest
+[tool.pytest.ini_options]
+minversion = "8.3"
+testpaths = ["tests"]
+addopts = [
+  "-ra",
+  "--strict-markers",
+  "--strict-config",
+  "--import-mode=importlib",
+  "-m", "not live",
+]
+markers = ["live: hits real public endpoints; opt in with `pytest -m live`"]
+# Deprecations fail the suite when they come from our own code or from any Pydantic
+# V1-style API use. Third-party deprecations (e.g. Typer -> Click) stay visible in the
+# warnings summary without breaking CI over code we don't control.
+filterwarnings = [
+  "error::DeprecationWarning:anthropic_prospector",
+  "error::DeprecationWarning:tests",
+  "error::pydantic.warnings.PydanticDeprecationWarning",
+]
+asyncio_mode = "auto"
+asyncio_default_fixture_loop_scope = "function"
