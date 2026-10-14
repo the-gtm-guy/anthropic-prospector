@@ -1,0 +1,115 @@
+{
+  "company_name": "Tidewater Analytics",
+  "domain": "tidewater.example",
+  "website_url": "https://tidewater.example",
+  "hq_city": "Seattle",
+  "hq_state": "WA",
+  "description": "Analytics agents that answer operations questions in plain English by writing and running SQL against the warehouse.",
+  "vertical": "Data & analytics",
+  "employee_count": 60,
+  "funding_stage": "series_a",
+  "total_funding_usd": 22000000,
+  "last_round_date": "2026-05-06",
+  "investors": [
+    "Sound Capital Partners"
+  ],
+  "founded_year": 2022,
+  "ats_hint": "lever",
+  "ats_board_token": "tidewater",
+  "contacts": [],
+  "tech_stack": {
+    "domain": "tidewater.example",
+    "ats": "lever",
+    "ats_board_token": "tidewater",
+    "total_open_roles": 9,
+    "ai_role_count": 3,
+    "ai_roles": [
+      {
+        "ats": "lever",
+        "external_id": "tidewater-101",
+        "title": "AI Engineer, Agents",
+        "url": "https://tidewater.example/careers/ai-engineer-agents",
+        "location": "Seattle, WA",
+        "department": "Engineering",
+        "description_text": "Build multi-step agents that plan, write SQL, call tools and check their own answers. We orchestrate with LangGraph today and evaluate every release against a 2,000-question golden set.",
+        "posted_at": "2026-09-22T00:00:00Z"
+      },
+      {
+        "ats": "lever",
+        "external_id": "tidewater-102",
+        "title": "ML Engineer, Evaluation",
+        "url": "https://tidewater.example/careers/ml-engineer-evaluation",
+        "location": "Seattle, WA",
+        "department": "Engineering",
+        "description_text": "Own offline and online evals for our agents: regression suites, LLM-as-judge rubrics and latency budgets. Stack: BigQuery, Cloud Run and Vertex AI on GCP; OpenAI models via API for agent reasoning.",
+        "posted_at": "2026-09-02T00:00:00Z"
+      }
+    ],
+    "cloud": [
+      {
+        "provider": "gcp",
+        "confidence": 0.85,
+        "evidence_ids": [
+          "E3",
+          "E4"
+        ]
+      }
+    ],
+    "primary_cloud": "gcp",
+    "competitors": [
+      {
+        "kind": "langchain",
+        "confidence": 0.8,
+        "evidence_ids": [
+          "E2"
+        ]
+      },
+      {
+        "kind": "openai",
+        "confidence": 0.6,
+        "evidence_ids": [
+          "E4"
+        ]
+      }
+    ],
+    "keyword_hits": {
+      "agents": 5,
+      "multi_step_reasoning": 3,
+      "evals": 3,
+      "code_generation": 2,
+      "latency": 1
+    },
+    "evidence": [
+      {
+        "id": "E1",
+        "kind": "job_posting",
+        "source_url": "https://tidewater.example/careers/ai-engineer-agents",
+        "snippet": "Build multi-step agents that plan, write SQL, call tools and check their own answers.",
+        "observed_at": "2026-10-01T16:00:00Z"
+      },
+      {
+        "id": "E2",
+        "kind": "job_posting",
+        "source_url": "https://tidewater.example/careers/ai-engineer-agents",
+        "snippet": "We orchestrate with LangGraph today and evaluate every release against a 2,000-question golden set.",
+        "observed_at": "2026-10-01T16:00:00Z"
+      },
+      {
+        "id": "E3",
+        "kind": "dns",
+        "snippet": "app.tidewater.example is served from Google Cloud Run (*.run.app).",
+        "observed_at": "2026-10-01T16:00:00Z"
+      },
+      {
+        "id": "E4",
+        "kind": "job_posting",
+        "source_url": "https://tidewater.example/careers/ml-engineer-evaluation",
+        "snippet": "Stack: BigQuery, Cloud Run and Vertex AI on GCP; OpenAI models via API for agent reasoning.",
+        "observed_at": "2026-10-01T16:00:00Z"
+      }
+    ],
+    "data_source": "mock",
+    "collected_at": "2026-10-01T16:00:00Z",
+    "warnings": []
+  }
+}

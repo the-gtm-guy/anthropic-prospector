@@ -43,6 +43,22 @@ jobs:
       - run: python -m pip install -e ".[dev]"
       - run: pytest
 
+  package:
+    name: wheel ships its data files
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.13"
+      - run: python -m pip wheel . --no-deps --wheel-dir dist
+      - run: python -m venv /tmp/wheel-env && /tmp/wheel-env/bin/pip install dist/*.whl
+      # Run from /tmp so the import resolves to the installed wheel, not the checkout.
+      - working-directory: /tmp
+        run: |
+          /tmp/wheel-env/bin/python -W error -c "from anthropic_prospector.mock import fixture_profiles; assert fixture_profiles()"
+          /tmp/wheel-env/bin/prospector --version
+
   min-deps:
     name: test (lowest direct deps, py3.11)
     runs-on: ubuntu-latest

@@ -1,0 +1,81 @@
+{
+  "company_name": "Hudson Ledger",
+  "domain": "hudsonledger.example",
+  "website_url": "https://hudsonledger.example",
+  "hq_city": "New York",
+  "hq_state": "NY",
+  "description": "Automated bank reconciliation and month-end close for finance teams.",
+  "vertical": "Fintech",
+  "employee_count": 95,
+  "funding_stage": "series_b",
+  "total_funding_usd": 40000000,
+  "last_round_date": "2026-02-10",
+  "investors": [
+    "Liberty Street Capital"
+  ],
+  "founded_year": 2020,
+  "ats_hint": "greenhouse",
+  "ats_board_token": "hudsonledger",
+  "contacts": [],
+  "tech_stack": {
+    "domain": "hudsonledger.example",
+    "ats": "greenhouse",
+    "ats_board_token": "hudsonledger",
+    "total_open_roles": 12,
+    "ai_role_count": 2,
+    "ai_roles": [
+      {
+        "ats": "greenhouse",
+        "external_id": "hudsonledger-101",
+        "title": "ML Engineer, Document AI",
+        "url": "https://hudsonledger.example/careers/ml-engineer-document-ai",
+        "location": "New York, NY",
+        "department": "Engineering",
+        "description_text": "Extract line items from bank statements and invoices with LLMs (OpenAI API) and validate them against the ledger. Audit trails and SOC 1/SOC 2 controls matter.",
+        "posted_at": "2026-09-12T00:00:00Z"
+      }
+    ],
+    "cloud": [
+      {
+        "provider": "aws",
+        "confidence": 0.8,
+        "evidence_ids": [
+          "E2"
+        ]
+      }
+    ],
+    "primary_cloud": "aws",
+    "competitors": [
+      {
+        "kind": "openai",
+        "confidence": 0.8,
+        "evidence_ids": [
+          "E1"
+        ]
+      }
+    ],
+    "keyword_hits": {
+      "document_processing": 3,
+      "rag": 2,
+      "compliance": 2
+    },
+    "evidence": [
+      {
+        "id": "E1",
+        "kind": "job_posting",
+        "source_url": "https://hudsonledger.example/careers/ml-engineer-document-ai",
+        "snippet": "Extract line items from bank statements and invoices with LLMs (OpenAI API).",
+        "observed_at": "2026-10-01T16:00:00Z"
+      },
+      {
+        "id": "E2",
+        "kind": "dns",
+        "snippet": "app.hudsonledger.example is a CNAME for an AWS Elastic Load Balancer (elb.amazonaws.com).",
+        "observed_at": "2026-10-01T16:00:00Z"
+      }
+    ],
+    "data_source": "mock",
+    "collected_at": "2026-10-01T16:00:00Z",
+    "warnings": []
+  }
+}

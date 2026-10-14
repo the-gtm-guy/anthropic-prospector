@@ -1,0 +1,108 @@
+{
+  "company_name": "Fjord Support",
+  "domain": "fjordsupport.example",
+  "website_url": "https://fjordsupport.example",
+  "hq_city": "Seattle",
+  "hq_state": "WA",
+  "description": "AI agents that resolve customer support tickets across chat and email.",
+  "vertical": "Customer support AI",
+  "employee_count": 150,
+  "funding_stage": "series_b",
+  "total_funding_usd": 75000000,
+  "last_round_date": "2026-01-28",
+  "investors": [
+    "Sound Capital Partners",
+    "Northbeam Ventures"
+  ],
+  "founded_year": 2021,
+  "ats_hint": "ashby",
+  "ats_board_token": "fjordsupport",
+  "contacts": [],
+  "tech_stack": {
+    "domain": "fjordsupport.example",
+    "ats": "ashby",
+    "ats_board_token": "fjordsupport",
+    "total_open_roles": 22,
+    "ai_role_count": 5,
+    "ai_roles": [
+      {
+        "ats": "ashby",
+        "external_id": "fjordsupport-101",
+        "title": "Senior Applied AI Engineer",
+        "url": "https://fjordsupport.example/careers/senior-applied-ai-engineer",
+        "location": "Seattle, WA",
+        "department": "AI",
+        "description_text": "Build resolution agents on Claude via the Anthropic API: tool use, retrieval over help centers, and guardrails. Experience with prompt caching a plus.",
+        "posted_at": "2026-09-25T00:00:00Z"
+      },
+      {
+        "ats": "ashby",
+        "external_id": "fjordsupport-102",
+        "title": "Evaluation Engineer, Support Quality",
+        "url": "https://fjordsupport.example/careers/evaluation-engineer-support-quality",
+        "location": "Seattle, WA",
+        "department": "AI",
+        "description_text": "Own the eval harness that grades every agent reply for accuracy, tone and policy. We also run a fallback path on the OpenAI API for some languages.",
+        "posted_at": "2026-09-10T00:00:00Z"
+      }
+    ],
+    "cloud": [
+      {
+        "provider": "aws",
+        "confidence": 0.85,
+        "evidence_ids": [
+          "E3"
+        ]
+      }
+    ],
+    "primary_cloud": "aws",
+    "competitors": [
+      {
+        "kind": "anthropic_existing",
+        "confidence": 0.9,
+        "evidence_ids": [
+          "E1"
+        ]
+      },
+      {
+        "kind": "openai",
+        "confidence": 0.5,
+        "evidence_ids": [
+          "E2"
+        ]
+      }
+    ],
+    "keyword_hits": {
+      "customer_support": 5,
+      "rag": 3,
+      "evals": 3,
+      "agents": 2,
+      "latency": 2
+    },
+    "evidence": [
+      {
+        "id": "E1",
+        "kind": "job_posting",
+        "source_url": "https://fjordsupport.example/careers/senior-applied-ai-engineer",
+        "snippet": "Build resolution agents on Claude via the Anthropic API: tool use, retrieval over help centers, and guardrails.",
+        "observed_at": "2026-10-01T16:00:00Z"
+      },
+      {
+        "id": "E2",
+        "kind": "job_posting",
+        "source_url": "https://fjordsupport.example/careers/evaluation-engineer-support-quality",
+        "snippet": "We also run a fallback path on the OpenAI API for some languages.",
+        "observed_at": "2026-10-01T16:00:00Z"
+      },
+      {
+        "id": "E3",
+        "kind": "dns",
+        "snippet": "app.fjordsupport.example is a CNAME for an AWS CloudFront distribution backed by an Elastic Load Balancer.",
+        "observed_at": "2026-10-01T16:00:00Z"
+      }
+    ],
+    "data_source": "mock",
+    "collected_at": "2026-10-01T16:00:00Z",
+    "warnings": []
+  }
+}

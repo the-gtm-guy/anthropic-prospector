@@ -40,9 +40,12 @@ from anthropic_prospector.models import (
     Persona,
     PersonaTarget,
     Recommendation,
+    RowError,
     ScorecardRefinement,
     SDROutboundBrief,
+    SignalKeyword,
     StartupProfile,
+    TargetBatch,
     TechStackSignals,
     Tier,
     WedgeId,
@@ -269,6 +272,25 @@ def test_public_names_exist() -> None:
         (Recommendation, ["pursue", "nurture", "disqualify", "route_to_ae"]),
         (Persona, ["eng_leader", "ai_ml_lead", "cto_founder", "finance", "procurement"]),
         (Channel, ["email", "linkedin", "call"]),
+        (
+            SignalKeyword,
+            [
+                "rag",
+                "agents",
+                "evals",
+                "code_generation",
+                "document_processing",
+                "long_context",
+                "customer_support",
+                "multi_step_reasoning",
+                "inference_cost",
+                "latency",
+                "fine_tuning",
+                "self_hosted_models",
+                "gpu_infra",
+                "compliance",
+            ],
+        ),
     ],
     ids=lambda v: v.__name__ if isinstance(v, type) else "",
 )
@@ -714,6 +736,20 @@ def test_analysis_result_records_failures() -> None:
         make_result(domain="other.example")
 
 
+def test_target_batch_holds_one_profile_per_domain() -> None:
+    error = RowError(line=3, domain="not a domain", message="domain: invalid domain")
+    batch = TargetBatch(source="targets.csv", profiles=[make_profile()], errors=[error])
+    assert batch.errors[0].line == 3
+    with pytest.raises(ValidationError, match=r"each domain may appear once: acme\.example"):
+        TargetBatch(source="t.csv", profiles=[make_profile(), make_profile(company_name="Acme 2")])
+
+
+def test_keyword_hits_use_the_signal_vocabulary() -> None:
+    assert make_tech_stack().keyword_hits == {SignalKeyword.RAG: 3, SignalKeyword.EVALS: 1}
+    with pytest.raises(ValidationError, match="keyword_hits"):
+        make_tech_stack(keyword_hits={"retrieval": 2})
+
+
 def test_usage_adds_up() -> None:
     total = LLMUsage(input_tokens=10, est_cost_usd=0.5) + LLMUsage(output_tokens=4, est_cost_usd=1)
     assert (total.input_tokens, total.output_tokens, total.est_cost_usd) == (10, 4, 1.5)
@@ -730,6 +766,12 @@ ROUND_TRIP: list[Callable[[], BaseModel]] = [
     make_brief,
     make_result,
     lambda: make_result(brief=None, errors=["timeout"]),
+    lambda: TargetBatch(
+        source="targets.csv",
+        profiles=[make_profile()],
+        errors=[RowError(line=4, message="hq_state: not a US state code or name: 'Ontario'")],
+        warnings=["ignored unknown column(s): arr"],
+    ),
 ]
 
 

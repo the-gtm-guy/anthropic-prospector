@@ -23,6 +23,7 @@ SRC = Path(__file__).resolve().parents[1] / "src" / PACKAGE
 LAYERS: dict[str, str] = {
     f"{PACKAGE}.models": "models",
     f"{PACKAGE}.config": "config",
+    f"{PACKAGE}.targets": "targets",
     f"{PACKAGE}.mock": "mock",
     f"{PACKAGE}.scrapers": "scrapers",
     f"{PACKAGE}.pipeline": "pipeline",
@@ -38,12 +39,13 @@ ALLOWED: dict[str, frozenset[str]] = {
     "root": frozenset(),
     "models": frozenset(),
     "config": frozenset({"root"}),
+    "targets": frozenset({"models"}),
     "mock": frozenset({"models", "config"}),
     "scrapers": frozenset({"models", "config"}),
     "pipeline": frozenset({"models", "config"}),
     "render": frozenset({"models", "config"}),
-    "service": frozenset({"models", "config", "mock", "scrapers", "pipeline"}),
-    "cli": frozenset({"root", "models", "config", "service", "render"}),
+    "service": frozenset({"models", "config", "targets", "mock", "scrapers", "pipeline"}),
+    "cli": frozenset({"root", "models", "config", "targets", "service", "render"}),
 }
 
 # Siblings that must stay independent: the service passes one's output to the other.

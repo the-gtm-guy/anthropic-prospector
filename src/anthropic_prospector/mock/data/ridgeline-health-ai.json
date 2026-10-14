@@ -1,0 +1,118 @@
+{
+  "company_name": "Ridgeline Health AI",
+  "domain": "ridgelinehealth.example",
+  "website_url": "https://ridgelinehealth.example",
+  "hq_city": "Portland",
+  "hq_state": "OR",
+  "description": "Ambient clinical documentation that turns visit audio into structured notes inside the EHR.",
+  "vertical": "Healthcare AI",
+  "employee_count": 110,
+  "funding_stage": "series_b",
+  "total_funding_usd": 61000000,
+  "last_round_date": "2025-11-12",
+  "investors": [
+    "Cascade Health Fund",
+    "Halfmoon Partners"
+  ],
+  "founded_year": 2020,
+  "ats_hint": "ashby",
+  "ats_board_token": "ridgelinehealth",
+  "contacts": [],
+  "tech_stack": {
+    "domain": "ridgelinehealth.example",
+    "ats": "ashby",
+    "ats_board_token": "ridgelinehealth",
+    "total_open_roles": 14,
+    "ai_role_count": 3,
+    "ai_roles": [
+      {
+        "ats": "ashby",
+        "external_id": "ridgelinehealth-101",
+        "title": "ML Infrastructure Engineer, Inference",
+        "url": "https://ridgelinehealth.example/careers/ml-infrastructure-engineer-inference",
+        "location": "Portland, OR or Remote (US)",
+        "department": "Platform",
+        "description_text": "Serve fine-tuned open-weight models with vLLM on our own GPU fleet (AWS p5, Kubernetes). Cut p95 latency and cost per note while meeting HIPAA requirements.",
+        "posted_at": "2026-09-18T00:00:00Z"
+      },
+      {
+        "ats": "ashby",
+        "external_id": "ridgelinehealth-102",
+        "title": "Applied ML Engineer, Clinical NLP",
+        "url": "https://ridgelinehealth.example/careers/applied-ml-engineer-clinical-nlp",
+        "location": "Portland, OR",
+        "department": "Machine Learning",
+        "description_text": "Fine-tune and evaluate open-weight models (Llama family) for note generation. Build PHI-safe evaluation pipelines with clinicians in the loop.",
+        "posted_at": "2026-08-30T00:00:00Z"
+      }
+    ],
+    "cloud": [
+      {
+        "provider": "aws",
+        "confidence": 0.8,
+        "evidence_ids": [
+          "E1",
+          "E4"
+        ]
+      }
+    ],
+    "primary_cloud": "aws",
+    "competitors": [
+      {
+        "kind": "vllm",
+        "confidence": 0.9,
+        "evidence_ids": [
+          "E1"
+        ]
+      },
+      {
+        "kind": "other_llm",
+        "confidence": 0.6,
+        "evidence_ids": [
+          "E3"
+        ]
+      }
+    ],
+    "keyword_hits": {
+      "self_hosted_models": 4,
+      "gpu_infra": 4,
+      "fine_tuning": 3,
+      "compliance": 3,
+      "inference_cost": 2,
+      "latency": 2,
+      "document_processing": 2
+    },
+    "evidence": [
+      {
+        "id": "E1",
+        "kind": "job_posting",
+        "source_url": "https://ridgelinehealth.example/careers/ml-infrastructure-engineer-inference",
+        "snippet": "Serve fine-tuned open-weight models with vLLM on our own GPU fleet (AWS p5, Kubernetes).",
+        "observed_at": "2026-10-01T16:00:00Z"
+      },
+      {
+        "id": "E2",
+        "kind": "job_posting",
+        "source_url": "https://ridgelinehealth.example/careers/ml-infrastructure-engineer-inference",
+        "snippet": "Cut p95 latency and cost per note while meeting HIPAA requirements.",
+        "observed_at": "2026-10-01T16:00:00Z"
+      },
+      {
+        "id": "E3",
+        "kind": "job_posting",
+        "source_url": "https://ridgelinehealth.example/careers/applied-ml-engineer-clinical-nlp",
+        "snippet": "Fine-tune and evaluate open-weight models (Llama family) for note generation.",
+        "observed_at": "2026-10-01T16:00:00Z"
+      },
+      {
+        "id": "E4",
+        "kind": "dns",
+        "snippet": "api.ridgelinehealth.example resolves into AWS us-west-2 address space.",
+        "observed_at": "2026-10-01T16:00:00Z"
+      }
+    ],
+    "data_source": "mock",
+    "collected_at": "2026-10-01T16:00:00Z",
+    "warnings": []
+  }
+}

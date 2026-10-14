@@ -1,0 +1,108 @@
+{
+  "company_name": "Quartz DevTools",
+  "domain": "quartzdev.example",
+  "website_url": "https://quartzdev.example",
+  "hq_city": "San Jose",
+  "hq_state": "CA",
+  "description": "AI code review agents that catch bugs and security issues before merge.",
+  "vertical": "Developer tools",
+  "employee_count": 45,
+  "funding_stage": "series_a",
+  "total_funding_usd": 25000000,
+  "last_round_date": "2026-04-14",
+  "investors": [
+    "Northbeam Ventures"
+  ],
+  "founded_year": 2023,
+  "ats_hint": "ashby",
+  "ats_board_token": "quartzdev",
+  "contacts": [],
+  "tech_stack": {
+    "domain": "quartzdev.example",
+    "ats": "ashby",
+    "ats_board_token": "quartzdev",
+    "total_open_roles": 11,
+    "ai_role_count": 5,
+    "ai_roles": [
+      {
+        "ats": "ashby",
+        "external_id": "quartzdev-101",
+        "title": "Founding AI Engineer, Code Review Agents",
+        "url": "https://quartzdev.example/careers/founding-ai-engineer-code-review-agents",
+        "location": "San Jose, CA",
+        "department": "Engineering",
+        "description_text": "Build agents that read whole repositories, plan a review and verify findings by running tests. We use LangGraph with OpenAI models and care a lot about evals.",
+        "posted_at": "2026-09-24T00:00:00Z"
+      },
+      {
+        "ats": "ashby",
+        "external_id": "quartzdev-102",
+        "title": "Research Engineer, Reasoning",
+        "url": "https://quartzdev.example/careers/research-engineer-reasoning",
+        "location": "San Jose, CA or Remote (US)",
+        "department": "Research",
+        "description_text": "Improve multi-step reasoning on hard diffs: long context, tool use and self-verification.",
+        "posted_at": "2026-09-03T00:00:00Z"
+      }
+    ],
+    "cloud": [
+      {
+        "provider": "gcp",
+        "confidence": 0.75,
+        "evidence_ids": [
+          "E3"
+        ]
+      }
+    ],
+    "primary_cloud": "gcp",
+    "competitors": [
+      {
+        "kind": "openai",
+        "confidence": 0.8,
+        "evidence_ids": [
+          "E2"
+        ]
+      },
+      {
+        "kind": "langchain",
+        "confidence": 0.7,
+        "evidence_ids": [
+          "E2"
+        ]
+      }
+    ],
+    "keyword_hits": {
+      "code_generation": 5,
+      "agents": 4,
+      "multi_step_reasoning": 3,
+      "evals": 3,
+      "long_context": 2,
+      "latency": 1
+    },
+    "evidence": [
+      {
+        "id": "E1",
+        "kind": "job_posting",
+        "source_url": "https://quartzdev.example/careers/founding-ai-engineer-code-review-agents",
+        "snippet": "Build agents that read whole repositories, plan a review and verify findings by running tests.",
+        "observed_at": "2026-10-01T16:00:00Z"
+      },
+      {
+        "id": "E2",
+        "kind": "job_posting",
+        "source_url": "https://quartzdev.example/careers/founding-ai-engineer-code-review-agents",
+        "snippet": "We use LangGraph with OpenAI models and care a lot about evals.",
+        "observed_at": "2026-10-01T16:00:00Z"
+      },
+      {
+        "id": "E3",
+        "kind": "dns",
+        "snippet": "app.quartzdev.example is served from Google Cloud Run (*.run.app).",
+        "observed_at": "2026-10-01T16:00:00Z"
+      }
+    ],
+    "data_source": "mock",
+    "collected_at": "2026-10-01T16:00:00Z",
+    "warnings": []
+  }
+}

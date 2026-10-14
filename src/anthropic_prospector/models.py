@@ -32,6 +32,7 @@ from pydantic import (
     Field,
     NonNegativeFloat,
     NonNegativeInt,
+    PositiveInt,
     ValidationInfo,
     computed_field,
     field_validator,
@@ -79,12 +80,15 @@ __all__ = [
     "Persona",
     "PersonaTarget",
     "Recommendation",
+    "RowError",
     "SDROutboundBrief",
     "Score10",
     "Score100",
     "ScorecardRefinement",
+    "SignalKeyword",
     "StartupProfile",
     "StateCode",
+    "TargetBatch",
     "TechStackSignals",
     "Tier",
     "UtcDatetime",
@@ -198,6 +202,25 @@ class Channel(StrEnum):
     EMAIL = "email"
     LINKEDIN = "linkedin"
     CALL = "call"
+
+
+class SignalKeyword(StrEnum):
+    """Use-case and buying signals found in job posts and pages. Wedge rules key off these."""
+
+    RAG = "rag"
+    AGENTS = "agents"
+    EVALS = "evals"
+    CODE_GENERATION = "code_generation"
+    DOCUMENT_PROCESSING = "document_processing"
+    LONG_CONTEXT = "long_context"
+    CUSTOMER_SUPPORT = "customer_support"
+    MULTI_STEP_REASONING = "multi_step_reasoning"
+    INFERENCE_COST = "inference_cost"
+    LATENCY = "latency"
+    FINE_TUNING = "fine_tuning"
+    SELF_HOSTED_MODELS = "self_hosted_models"
+    GPU_INFRA = "gpu_infra"
+    COMPLIANCE = "compliance"
 
 
 EvidenceKind = Literal["job_posting", "dns", "web", "user_input", "mock"]
@@ -467,7 +490,7 @@ class TechStackSignals(_Contract):
     cloud: list[CloudSignal] = Field(default_factory=list)
     primary_cloud: CloudProvider = CloudProvider.UNKNOWN
     competitors: list[CompetitorSignal] = Field(default_factory=list)
-    keyword_hits: dict[str, NonNegativeInt] = Field(default_factory=dict)
+    keyword_hits: dict[SignalKeyword, NonNegativeInt] = Field(default_factory=dict)
     evidence: list[Evidence] = Field(default_factory=list)
     data_source: DataSource
     collected_at: UtcDatetime
@@ -846,3 +869,29 @@ class AnalysisResult(_Contract):
     @property
     def ok(self) -> bool:
         return self.brief is not None
+
+
+# --------------------------------------------------------------------------- targets file
+
+
+class RowError(_Contract):
+    """A targets-file row that could not become a StartupProfile. The batch carries on."""
+
+    line: PositiveInt
+    domain: str | None = None  # the raw value, which may itself be the problem
+    message: str = Field(min_length=1)
+
+
+class TargetBatch(_Contract):
+    source: str
+    profiles: list[StartupProfile] = Field(default_factory=list)
+    errors: list[RowError] = Field(default_factory=list)
+    warnings: list[str] = Field(default_factory=list)
+
+    @field_validator("profiles")
+    @classmethod
+    def _one_per_domain(cls, profiles: list[StartupProfile]) -> list[StartupProfile]:
+        counts = Counter(p.domain for p in profiles)
+        if repeated := sorted(d for d, n in counts.items() if n > 1):
+            raise ValueError(f"each domain may appear once: {', '.join(repeated)}")
+        return profiles

@@ -1,0 +1,51 @@
+{
+  "company_name": "Saguaro Freight",
+  "domain": "saguarofreight.example",
+  "website_url": "https://saguarofreight.example",
+  "hq_city": "Phoenix",
+  "hq_state": "AZ",
+  "description": "Transportation management software for mid-size freight brokers.",
+  "vertical": "Logistics SaaS",
+  "employee_count": 40,
+  "funding_stage": "seed",
+  "total_funding_usd": 6000000,
+  "last_round_date": "2025-08-20",
+  "investors": [
+    "Desert Bloom Ventures"
+  ],
+  "founded_year": 2023,
+  "ats_hint": "greenhouse",
+  "ats_board_token": "saguarofreight",
+  "contacts": [],
+  "tech_stack": {
+    "domain": "saguarofreight.example",
+    "ats": "greenhouse",
+    "ats_board_token": "saguarofreight",
+    "total_open_roles": 5,
+    "ai_role_count": 0,
+    "ai_roles": [],
+    "cloud": [
+      {
+        "provider": "aws",
+        "confidence": 0.6,
+        "evidence_ids": [
+          "E1"
+        ]
+      }
+    ],
+    "primary_cloud": "aws",
+    "competitors": [],
+    "keyword_hits": {},
+    "evidence": [
+      {
+        "id": "E1",
+        "kind": "dns",
+        "snippet": "app.saguarofreight.example is a CNAME for an AWS Elastic Load Balancer (elb.amazonaws.com).",
+        "observed_at": "2026-10-01T16:00:00Z"
+      }
+    ],
+    "data_source": "mock",
+    "collected_at": "2026-10-01T16:00:00Z",
+    "warnings": []
+  }
+}
