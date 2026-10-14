@@ -52,6 +52,11 @@
       "evals": 1,
       "latency": 1
     },
+    "keyword_evidence": {
+      "inference_cost": [
+        "E1"
+      ]
+    },
     "evidence": [
       {
         "id": "E1",

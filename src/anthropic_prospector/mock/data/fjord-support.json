@@ -79,6 +79,20 @@
       "agents": 2,
       "latency": 2
     },
+    "keyword_evidence": {
+      "agents": [
+        "E1"
+      ],
+      "rag": [
+        "E1"
+      ],
+      "customer_support": [
+        "E1"
+      ],
+      "evals": [
+        "E4"
+      ]
+    },
     "evidence": [
       {
         "id": "E1",
@@ -98,6 +112,13 @@
         "id": "E3",
         "kind": "dns",
         "snippet": "app.fjordsupport.example is a CNAME for an AWS CloudFront distribution backed by an Elastic Load Balancer.",
+        "observed_at": "2026-10-01T16:00:00Z"
+      },
+      {
+        "id": "E4",
+        "kind": "job_posting",
+        "source_url": "https://fjordsupport.example/careers/evaluation-engineer-support-quality",
+        "snippet": "Own the eval harness that grades every agent reply for accuracy, tone and policy.",
         "observed_at": "2026-10-01T16:00:00Z"
       }
     ],

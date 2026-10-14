@@ -1,0 +1,84 @@
+{
+  "coverage_pct": 62.5,
+  "headline": "Mesa InsureTech: buy Claude through Microsoft Foundry on your existing cloud account",
+  "meddpicc": {
+    "champion": {
+      "evidence": [],
+      "score": null,
+      "status": "unknown"
+    },
+    "competition": {
+      "evidence": [
+        "E1"
+      ],
+      "score": 6,
+      "status": "validated"
+    },
+    "decision_criteria": {
+      "evidence": [],
+      "score": 5,
+      "status": "hypothesized"
+    },
+    "decision_process": {
+      "evidence": [],
+      "score": null,
+      "status": "unknown"
+    },
+    "economic_buyer": {
+      "evidence": [],
+      "score": null,
+      "status": "unknown"
+    },
+    "identify_pain": {
+      "evidence": [
+        "E2",
+        "E3",
+        "E1"
+      ],
+      "score": 5,
+      "status": "hypothesized"
+    },
+    "metrics": {
+      "evidence": [],
+      "score": 3,
+      "status": "hypothesized"
+    },
+    "paper_process": {
+      "evidence": [
+        "E2",
+        "E3"
+      ],
+      "score": 4,
+      "status": "hypothesized"
+    }
+  },
+  "overall_fit": 64,
+  "primary_wedge": "cloud_drawdown",
+  "recommendation": "pursue",
+  "suppressions": [],
+  "tier": "C",
+  "total_score": 46,
+  "wedges": {
+    "cloud_drawdown": {
+      "confidence": 1.0,
+      "evidence": [
+        "E2",
+        "E3",
+        "E1"
+      ],
+      "fit": 68
+    },
+    "extended_thinking": {
+      "confidence": 0.0,
+      "evidence": [],
+      "fit": 0
+    },
+    "prompt_caching": {
+      "confidence": 1.0,
+      "evidence": [
+        "E1"
+      ],
+      "fit": 55
+    }
+  }
+}

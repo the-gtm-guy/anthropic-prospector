@@ -19,12 +19,14 @@ from anthropic_prospector.mock import (
     mock_signals,
     synthesize_signals,
 )
+from anthropic_prospector.mock.synth import _KEYWORD_PHRASES
 from anthropic_prospector.models import (
     TERRITORY_STATES,
     ATSPlatform,
     CloudProvider,
     CompetitorKind,
     DataSource,
+    SignalKeyword,
     StartupProfile,
     TechStackSignals,
 )
@@ -160,6 +162,15 @@ def test_synthetic_signals_are_labelled_and_varied() -> None:
     assert any(s.primary_cloud is CloudProvider.MULTI for s in outputs)
     assert any(s.primary_cloud is CloudProvider.UNKNOWN for s in outputs)
     assert any(_has(s, CompetitorKind.AZURE_OPENAI) for s in outputs)
+
+
+def test_synthetic_keywords_cite_synthetic_evidence() -> None:
+    assert set(_KEYWORD_PHRASES) == set(SignalKeyword), "every keyword needs a phrase"
+    signals = synthesize_signals(_profile("sample-startup.com"), collected_at=WHEN)
+    assert set(signals.keyword_evidence) == set(signals.keyword_hits)
+    by_id = {e.id: e for e in signals.evidence}
+    for ids in signals.keyword_evidence.values():
+        assert all(by_id[i].snippet.startswith("[synthetic] ") for i in ids)
 
 
 def test_synthetic_signals_respect_the_profile() -> None:

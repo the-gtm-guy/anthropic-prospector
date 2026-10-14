@@ -61,6 +61,11 @@
       "compliance": 2,
       "rag": 2
     },
+    "keyword_evidence": {
+      "document_processing": [
+        "E1"
+      ]
+    },
     "evidence": [
       {
         "id": "E1",

@@ -59,6 +59,14 @@
       "rag": 2,
       "compliance": 2
     },
+    "keyword_evidence": {
+      "document_processing": [
+        "E1"
+      ],
+      "compliance": [
+        "E3"
+      ]
+    },
     "evidence": [
       {
         "id": "E1",
@@ -71,6 +79,13 @@
         "id": "E2",
         "kind": "dns",
         "snippet": "app.hudsonledger.example is a CNAME for an AWS Elastic Load Balancer (elb.amazonaws.com).",
+        "observed_at": "2026-10-01T16:00:00Z"
+      },
+      {
+        "id": "E3",
+        "kind": "job_posting",
+        "source_url": "https://hudsonledger.example/careers/ml-engineer-document-ai",
+        "snippet": "Audit trails and SOC 1/SOC 2 controls matter.",
         "observed_at": "2026-10-01T16:00:00Z"
       }
     ],

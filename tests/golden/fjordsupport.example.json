@@ -1,0 +1,90 @@
+{
+  "coverage_pct": 62.5,
+  "headline": "Fjord Support: where Claude could fit as AI plans take shape",
+  "meddpicc": {
+    "champion": {
+      "evidence": [],
+      "score": null,
+      "status": "unknown"
+    },
+    "competition": {
+      "evidence": [
+        "E1",
+        "E2"
+      ],
+      "score": 8,
+      "status": "validated"
+    },
+    "decision_criteria": {
+      "evidence": [
+        "E4"
+      ],
+      "score": 5,
+      "status": "hypothesized"
+    },
+    "decision_process": {
+      "evidence": [],
+      "score": null,
+      "status": "unknown"
+    },
+    "economic_buyer": {
+      "evidence": [],
+      "score": null,
+      "status": "unknown"
+    },
+    "identify_pain": {
+      "evidence": [
+        "E3",
+        "E2"
+      ],
+      "score": 5,
+      "status": "hypothesized"
+    },
+    "metrics": {
+      "evidence": [],
+      "score": 4,
+      "status": "hypothesized"
+    },
+    "paper_process": {
+      "evidence": [
+        "E3"
+      ],
+      "score": 4,
+      "status": "hypothesized"
+    }
+  },
+  "overall_fit": 60,
+  "primary_wedge": null,
+  "recommendation": "route_to_ae",
+  "suppressions": [
+    "Already building on Claude (E1): route to the account team, no cold outbound."
+  ],
+  "tier": "C",
+  "total_score": 52,
+  "wedges": {
+    "cloud_drawdown": {
+      "confidence": 1.0,
+      "evidence": [
+        "E3",
+        "E2"
+      ],
+      "fit": 61
+    },
+    "extended_thinking": {
+      "confidence": 1.0,
+      "evidence": [
+        "E1",
+        "E4"
+      ],
+      "fit": 28
+    },
+    "prompt_caching": {
+      "confidence": 1.0,
+      "evidence": [
+        "E1",
+        "E2"
+      ],
+      "fit": 57
+    }
+  }
+}

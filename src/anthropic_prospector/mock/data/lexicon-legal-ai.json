@@ -92,6 +92,28 @@
       "inference_cost": 2,
       "compliance": 1
     },
+    "keyword_evidence": {
+      "rag": [
+        "E1"
+      ],
+      "evals": [
+        "E1"
+      ],
+      "inference_cost": [
+        "E1",
+        "E4"
+      ],
+      "long_context": [
+        "E5"
+      ],
+      "compliance": [
+        "E5"
+      ],
+      "document_processing": [
+        "E1",
+        "E5"
+      ]
+    },
     "evidence": [
       {
         "id": "E1",
@@ -118,6 +140,13 @@
         "kind": "job_posting",
         "source_url": "https://lexiconlegal.example/careers/staff-engineer-llm-platform",
         "snippet": "Experience operating high-volume OpenAI API workloads required; you'll own caching, rate limits and cost dashboards.",
+        "observed_at": "2026-10-01T16:00:00Z"
+      },
+      {
+        "id": "E5",
+        "kind": "job_posting",
+        "source_url": "https://lexiconlegal.example/careers/applied-scientist-contract-intelligence",
+        "snippet": "Long-document reasoning over full agreements; SOC 2 handling of customer data.",
         "observed_at": "2026-10-01T16:00:00Z"
       }
     ],

@@ -100,6 +100,24 @@
       "evals": 2,
       "inference_cost": 1
     },
+    "keyword_evidence": {
+      "rag": [
+        "E1"
+      ],
+      "long_context": [
+        "E1"
+      ],
+      "document_processing": [
+        "E1",
+        "E5"
+      ],
+      "compliance": [
+        "E5"
+      ],
+      "agents": [
+        "E6"
+      ]
+    },
     "evidence": [
       {
         "id": "E1",
@@ -125,6 +143,20 @@
         "id": "E4",
         "kind": "dns",
         "snippet": "eu.cascadecompliance.example is served from Google Cloud (ghs.googlehosted.com).",
+        "observed_at": "2026-10-01T16:00:00Z"
+      },
+      {
+        "id": "E5",
+        "kind": "job_posting",
+        "source_url": "https://cascadecompliance.example/careers/staff-ml-engineer-questionnaire-automation",
+        "snippet": "Draft answers to 300-question security reviews from a customer's policies and evidence.",
+        "observed_at": "2026-10-01T16:00:00Z"
+      },
+      {
+        "id": "E6",
+        "kind": "job_posting",
+        "source_url": "https://cascadecompliance.example/careers/ai-product-engineer-agents",
+        "snippet": "Build agents that collect evidence from 80+ integrations and flag control gaps before the auditor does.",
         "observed_at": "2026-10-01T16:00:00Z"
       }
     ],

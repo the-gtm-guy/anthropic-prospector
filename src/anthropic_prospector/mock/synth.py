@@ -64,6 +64,23 @@ _COMPETITOR_ODDS: Final = (
     (CompetitorKind.ANTHROPIC_EXISTING, 0.06),
 )
 
+_KEYWORD_PHRASES: Final = {
+    SignalKeyword.RAG: "retrieval-augmented generation (RAG)",
+    SignalKeyword.AGENTS: "building LLM agents",
+    SignalKeyword.EVALS: "LLM evals",
+    SignalKeyword.CODE_GENERATION: "code generation",
+    SignalKeyword.DOCUMENT_PROCESSING: "document processing",
+    SignalKeyword.LONG_CONTEXT: "long-context prompts",
+    SignalKeyword.CUSTOMER_SUPPORT: "AI customer support",
+    SignalKeyword.MULTI_STEP_REASONING: "multi-step reasoning",
+    SignalKeyword.INFERENCE_COST: "inference cost",
+    SignalKeyword.LATENCY: "model latency",
+    SignalKeyword.FINE_TUNING: "fine-tuning models",
+    SignalKeyword.SELF_HOSTED_MODELS: "self-hosted models",
+    SignalKeyword.GPU_INFRA: "GPU infrastructure",
+    SignalKeyword.COMPLIANCE: "SOC 2 and security reviews",
+}
+
 _COMPETITOR_EVIDENCE: Final = {
     CompetitorKind.OPENAI: "Job post asks for production experience with the OpenAI API.",
     CompetitorKind.AZURE_OPENAI: "Job post lists Azure OpenAI in the stack.",
@@ -157,6 +174,7 @@ def synthesize_signals(
 
     competitors: list[CompetitorSignal] = []
     keyword_hits: dict[SignalKeyword, int] = {}
+    keyword_evidence: dict[SignalKeyword, list[str]] = {}
     if has_ai:
         for kind, odds in _COMPETITOR_ODDS:
             if dice.chance(odds):
@@ -174,6 +192,7 @@ def synthesize_signals(
                 )
         for keyword in dice.sample(list(SignalKeyword), 2 + dice.below(4)):
             keyword_hits[keyword] = 1 + dice.below(5)
+            keyword_evidence[keyword] = cite(f"Job post mentions {_KEYWORD_PHRASES[keyword]}.")
 
     return TechStackSignals(
         domain=profile.domain,
@@ -186,6 +205,7 @@ def synthesize_signals(
         primary_cloud=primary_cloud,
         competitors=competitors,
         keyword_hits=keyword_hits,
+        keyword_evidence=keyword_evidence,
         evidence=evidence,
         data_source=DataSource.MOCK,
         collected_at=observed,

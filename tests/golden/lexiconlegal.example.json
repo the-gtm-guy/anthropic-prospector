@@ -1,0 +1,101 @@
+{
+  "coverage_pct": 62.5,
+  "headline": "Lexicon Legal AI: cut the cost of repeated context with Claude prompt caching",
+  "meddpicc": {
+    "champion": {
+      "evidence": [],
+      "score": null,
+      "status": "unknown"
+    },
+    "competition": {
+      "evidence": [
+        "E1",
+        "E4",
+        "E2"
+      ],
+      "score": 6,
+      "status": "validated"
+    },
+    "decision_criteria": {
+      "evidence": [
+        "E5",
+        "E1"
+      ],
+      "score": 5,
+      "status": "hypothesized"
+    },
+    "decision_process": {
+      "evidence": [],
+      "score": null,
+      "status": "unknown"
+    },
+    "economic_buyer": {
+      "evidence": [],
+      "score": null,
+      "status": "unknown"
+    },
+    "identify_pain": {
+      "evidence": [
+        "E1",
+        "E5",
+        "E4",
+        "E2"
+      ],
+      "score": 7,
+      "status": "hypothesized"
+    },
+    "metrics": {
+      "evidence": [
+        "E1",
+        "E4"
+      ],
+      "score": 4,
+      "status": "hypothesized"
+    },
+    "paper_process": {
+      "evidence": [
+        "E2",
+        "E3"
+      ],
+      "score": 4,
+      "status": "hypothesized"
+    }
+  },
+  "overall_fit": 82,
+  "primary_wedge": "prompt_caching",
+  "recommendation": "pursue",
+  "suppressions": [],
+  "tier": "B",
+  "total_score": 55,
+  "wedges": {
+    "cloud_drawdown": {
+      "confidence": 1.0,
+      "evidence": [
+        "E2",
+        "E3",
+        "E1",
+        "E4"
+      ],
+      "fit": 71
+    },
+    "extended_thinking": {
+      "confidence": 1.0,
+      "evidence": [
+        "E2",
+        "E1",
+        "E5"
+      ],
+      "fit": 37
+    },
+    "prompt_caching": {
+      "confidence": 1.0,
+      "evidence": [
+        "E1",
+        "E5",
+        "E4",
+        "E2"
+      ],
+      "fit": 86
+    }
+  }
+}
