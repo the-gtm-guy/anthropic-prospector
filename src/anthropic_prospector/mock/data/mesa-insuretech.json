@@ -1,0 +1,90 @@
+{
+  "company_name": "Mesa InsureTech",
+  "domain": "mesainsure.example",
+  "website_url": "https://mesainsure.example",
+  "hq_city": "Scottsdale",
+  "hq_state": "AZ",
+  "description": "Claims intake automation for regional property and casualty insurers.",
+  "vertical": "Insurtech",
+  "employee_count": 70,
+  "funding_stage": "series_a",
+  "total_funding_usd": 18000000,
+  "last_round_date": "2025-12-09",
+  "investors": [
+    "Desert Bloom Ventures",
+    "Halfmoon Partners"
+  ],
+  "founded_year": 2022,
+  "ats_hint": "lever",
+  "ats_board_token": "mesainsure",
+  "contacts": [],
+  "tech_stack": {
+    "domain": "mesainsure.example",
+    "ats": "lever",
+    "ats_board_token": "mesainsure",
+    "total_open_roles": 8,
+    "ai_role_count": 2,
+    "ai_roles": [
+      {
+        "ats": "lever",
+        "external_id": "mesainsure-101",
+        "title": "Senior AI Engineer, Claims",
+        "url": "https://mesainsure.example/careers/senior-ai-engineer-claims",
+        "location": "Scottsdale, AZ",
+        "department": "Engineering",
+        "description_text": "Extract and triage first-notice-of-loss documents with Azure OpenAI. Deploy on Azure Kubernetes Service with Azure Blob Storage.",
+        "posted_at": "2026-09-16T00:00:00Z"
+      }
+    ],
+    "cloud": [
+      {
+        "provider": "azure",
+        "confidence": 0.85,
+        "evidence_ids": [
+          "E2",
+          "E3"
+        ]
+      }
+    ],
+    "primary_cloud": "azure",
+    "competitors": [
+      {
+        "kind": "azure_openai",
+        "confidence": 0.85,
+        "evidence_ids": [
+          "E1"
+        ]
+      }
+    ],
+    "keyword_hits": {
+      "document_processing": 4,
+      "compliance": 2,
+      "rag": 2
+    },
+    "evidence": [
+      {
+        "id": "E1",
+        "kind": "job_posting",
+        "source_url": "https://mesainsure.example/careers/senior-ai-engineer-claims",
+        "snippet": "Extract and triage first-notice-of-loss documents with Azure OpenAI.",
+        "observed_at": "2026-10-01T16:00:00Z"
+      },
+      {
+        "id": "E2",
+        "kind": "job_posting",
+        "source_url": "https://mesainsure.example/careers/senior-ai-engineer-claims",
+        "snippet": "Deploy on Azure Kubernetes Service with Azure Blob Storage.",
+        "observed_at": "2026-10-01T16:00:00Z"
+      },
+      {
+        "id": "E3",
+        "kind": "dns",
+        "snippet": "portal.mesainsure.example is a CNAME for an Azure Front Door endpoint (azurefd.net).",
+        "observed_at": "2026-10-01T16:00:00Z"
+      }
+    ],
+    "data_source": "mock",
+    "collected_at": "2026-10-01T16:00:00Z",
+    "warnings": []
+  }
+}

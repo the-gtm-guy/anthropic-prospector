@@ -1,0 +1,101 @@
+{
+  "company_name": "Arroyo Finance",
+  "domain": "arroyofinance.example",
+  "website_url": "https://arroyofinance.example",
+  "hq_city": "Pasadena",
+  "hq_state": "CA",
+  "description": "Research copilot that reads SEC filings and earnings calls for investment analysts.",
+  "vertical": "Fintech",
+  "employee_count": 55,
+  "funding_stage": "series_a",
+  "total_funding_usd": 20000000,
+  "last_round_date": "2026-01-15",
+  "investors": [
+    "Cedar Point Capital"
+  ],
+  "founded_year": 2022,
+  "ats_hint": "greenhouse",
+  "ats_board_token": "arroyofinance",
+  "contacts": [],
+  "tech_stack": {
+    "domain": "arroyofinance.example",
+    "ats": "greenhouse",
+    "ats_board_token": "arroyofinance",
+    "total_open_roles": 10,
+    "ai_role_count": 3,
+    "ai_roles": [
+      {
+        "ats": "greenhouse",
+        "external_id": "arroyofinance-101",
+        "title": "Senior LLM Engineer, Research Copilot",
+        "url": "https://arroyofinance.example/careers/senior-llm-engineer-research-copilot",
+        "location": "Pasadena, CA",
+        "department": "Engineering",
+        "description_text": "Answer analyst questions over 10-Ks, 10-Qs and transcripts, often 200+ pages each, with cited sources. RAG on the OpenAI API today.",
+        "posted_at": "2026-09-11T00:00:00Z"
+      },
+      {
+        "ats": "greenhouse",
+        "external_id": "arroyofinance-102",
+        "title": "ML Engineer, Reasoning Quality",
+        "url": "https://arroyofinance.example/careers/ml-engineer-reasoning-quality",
+        "location": "Pasadena, CA",
+        "department": "Engineering",
+        "description_text": "Multi-step financial reasoning: compare quarters, reconcile figures and explain variance, with evals that analysts trust.",
+        "posted_at": "2026-08-25T00:00:00Z"
+      }
+    ],
+    "cloud": [
+      {
+        "provider": "aws",
+        "confidence": 0.85,
+        "evidence_ids": [
+          "E3"
+        ]
+      }
+    ],
+    "primary_cloud": "aws",
+    "competitors": [
+      {
+        "kind": "openai",
+        "confidence": 0.85,
+        "evidence_ids": [
+          "E2"
+        ]
+      }
+    ],
+    "keyword_hits": {
+      "rag": 4,
+      "long_context": 4,
+      "document_processing": 3,
+      "multi_step_reasoning": 2,
+      "inference_cost": 2,
+      "compliance": 1
+    },
+    "evidence": [
+      {
+        "id": "E1",
+        "kind": "job_posting",
+        "source_url": "https://arroyofinance.example/careers/senior-llm-engineer-research-copilot",
+        "snippet": "Answer analyst questions over 10-Ks, 10-Qs and transcripts, often 200+ pages each, with cited sources.",
+        "observed_at": "2026-10-01T16:00:00Z"
+      },
+      {
+        "id": "E2",
+        "kind": "job_posting",
+        "source_url": "https://arroyofinance.example/careers/senior-llm-engineer-research-copilot",
+        "snippet": "RAG on the OpenAI API today.",
+        "observed_at": "2026-10-01T16:00:00Z"
+      },
+      {
+        "id": "E3",
+        "kind": "dns",
+        "snippet": "app.arroyofinance.example is a CNAME for an AWS Elastic Load Balancer (elb.amazonaws.com).",
+        "observed_at": "2026-10-01T16:00:00Z"
+      }
+    ],
+    "data_source": "mock",
+    "collected_at": "2026-10-01T16:00:00Z",
+    "warnings": []
+  }
+}

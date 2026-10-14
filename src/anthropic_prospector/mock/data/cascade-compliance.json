@@ -1,0 +1,135 @@
+{
+  "company_name": "Cascade Compliance",
+  "domain": "cascadecompliance.example",
+  "website_url": "https://cascadecompliance.example",
+  "hq_city": "Bellevue",
+  "hq_state": "WA",
+  "description": "Continuous compliance automation: collects SOC 2 and ISO 27001 evidence and drafts answers to security questionnaires.",
+  "vertical": "Security & compliance",
+  "employee_count": 240,
+  "funding_stage": "series_c_plus",
+  "total_funding_usd": 130000000,
+  "last_round_date": "2026-06-02",
+  "investors": [
+    "Rainier Growth",
+    "Cedar Point Capital"
+  ],
+  "founded_year": 2019,
+  "ats_hint": "greenhouse",
+  "ats_board_token": "cascadecompliance",
+  "contacts": [],
+  "tech_stack": {
+    "domain": "cascadecompliance.example",
+    "ats": "greenhouse",
+    "ats_board_token": "cascadecompliance",
+    "total_open_roles": 31,
+    "ai_role_count": 6,
+    "ai_roles": [
+      {
+        "ats": "greenhouse",
+        "external_id": "cascadecompliance-101",
+        "title": "Staff ML Engineer, Questionnaire Automation",
+        "url": "https://cascadecompliance.example/careers/staff-ml-engineer-questionnaire-automation",
+        "location": "Bellevue, WA",
+        "department": "Engineering",
+        "description_text": "Draft answers to 300-question security reviews from a customer's policies and evidence. RAG over long documents, citations required. We use the OpenAI API and LangChain.",
+        "posted_at": "2026-09-05T00:00:00Z"
+      },
+      {
+        "ats": "greenhouse",
+        "external_id": "cascadecompliance-102",
+        "title": "Senior Platform Engineer, Data Residency",
+        "url": "https://cascadecompliance.example/careers/senior-platform-engineer-data-residency",
+        "location": "Bellevue, WA or Remote (US)",
+        "department": "Platform",
+        "description_text": "Run our services across AWS and GCP regions for customers with data-residency requirements.",
+        "posted_at": "2026-08-19T00:00:00Z"
+      },
+      {
+        "ats": "greenhouse",
+        "external_id": "cascadecompliance-103",
+        "title": "AI Product Engineer, Agents",
+        "url": "https://cascadecompliance.example/careers/ai-product-engineer-agents",
+        "location": "Bellevue, WA",
+        "department": "Product Engineering",
+        "description_text": "Build agents that collect evidence from 80+ integrations and flag control gaps before the auditor does.",
+        "posted_at": "2026-09-20T00:00:00Z"
+      }
+    ],
+    "cloud": [
+      {
+        "provider": "aws",
+        "confidence": 0.85,
+        "evidence_ids": [
+          "E2",
+          "E3"
+        ]
+      },
+      {
+        "provider": "gcp",
+        "confidence": 0.7,
+        "evidence_ids": [
+          "E2",
+          "E4"
+        ]
+      }
+    ],
+    "primary_cloud": "multi",
+    "competitors": [
+      {
+        "kind": "openai",
+        "confidence": 0.8,
+        "evidence_ids": [
+          "E1"
+        ]
+      },
+      {
+        "kind": "langchain",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "E1"
+        ]
+      }
+    ],
+    "keyword_hits": {
+      "compliance": 5,
+      "document_processing": 4,
+      "rag": 4,
+      "long_context": 3,
+      "agents": 2,
+      "evals": 2,
+      "inference_cost": 1
+    },
+    "evidence": [
+      {
+        "id": "E1",
+        "kind": "job_posting",
+        "source_url": "https://cascadecompliance.example/careers/staff-ml-engineer-questionnaire-automation",
+        "snippet": "RAG over long documents, citations required. We use the OpenAI API and LangChain.",
+        "observed_at": "2026-10-01T16:00:00Z"
+      },
+      {
+        "id": "E2",
+        "kind": "job_posting",
+        "source_url": "https://cascadecompliance.example/careers/senior-platform-engineer-data-residency",
+        "snippet": "Run our services across AWS and GCP regions for customers with data-residency requirements.",
+        "observed_at": "2026-10-01T16:00:00Z"
+      },
+      {
+        "id": "E3",
+        "kind": "dns",
+        "snippet": "app.cascadecompliance.example is a CNAME for an AWS Elastic Load Balancer (elb.amazonaws.com).",
+        "observed_at": "2026-10-01T16:00:00Z"
+      },
+      {
+        "id": "E4",
+        "kind": "dns",
+        "snippet": "eu.cascadecompliance.example is served from Google Cloud (ghs.googlehosted.com).",
+        "observed_at": "2026-10-01T16:00:00Z"
+      }
+    ],
+    "data_source": "mock",
+    "collected_at": "2026-10-01T16:00:00Z",
+    "warnings": []
+  }
+}

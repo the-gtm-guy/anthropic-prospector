@@ -1,0 +1,91 @@
+{
+  "company_name": "Willamette Commerce",
+  "domain": "willamettecommerce.example",
+  "website_url": "https://willamettecommerce.example",
+  "hq_city": "Portland",
+  "hq_state": "OR",
+  "description": "Merchandising analytics that forecasts demand and recommends assortments for retailers.",
+  "vertical": "Retail analytics",
+  "employee_count": 130,
+  "funding_stage": "series_b",
+  "total_funding_usd": 52000000,
+  "last_round_date": "2025-10-30",
+  "investors": [
+    "Rainier Growth"
+  ],
+  "founded_year": 2020,
+  "ats_hint": "lever",
+  "ats_board_token": "willamette",
+  "contacts": [],
+  "tech_stack": {
+    "domain": "willamettecommerce.example",
+    "ats": "lever",
+    "ats_board_token": "willamette",
+    "total_open_roles": 16,
+    "ai_role_count": 3,
+    "ai_roles": [
+      {
+        "ats": "lever",
+        "external_id": "willamette-101",
+        "title": "ML Engineer, Generative Insights",
+        "url": "https://willamettecommerce.example/careers/ml-engineer-generative-insights",
+        "location": "Portland, OR",
+        "department": "Data Science",
+        "description_text": "Generate plain-English merchandising insights with Gemini on Vertex AI; LangChain for orchestration. Latency matters: insights render inline.",
+        "posted_at": "2026-09-09T00:00:00Z"
+      }
+    ],
+    "cloud": [
+      {
+        "provider": "gcp",
+        "confidence": 0.85,
+        "evidence_ids": [
+          "E1",
+          "E2"
+        ]
+      }
+    ],
+    "primary_cloud": "gcp",
+    "competitors": [
+      {
+        "kind": "other_llm",
+        "confidence": 0.7,
+        "evidence_ids": [
+          "E1"
+        ]
+      },
+      {
+        "kind": "langchain",
+        "confidence": 0.5,
+        "evidence_ids": [
+          "E1"
+        ]
+      }
+    ],
+    "keyword_hits": {
+      "agents": 2,
+      "rag": 2,
+      "latency": 2,
+      "evals": 1,
+      "code_generation": 1
+    },
+    "evidence": [
+      {
+        "id": "E1",
+        "kind": "job_posting",
+        "source_url": "https://willamettecommerce.example/careers/ml-engineer-generative-insights",
+        "snippet": "Generate plain-English merchandising insights with Gemini on Vertex AI; LangChain for orchestration.",
+        "observed_at": "2026-10-01T16:00:00Z"
+      },
+      {
+        "id": "E2",
+        "kind": "dns",
+        "snippet": "app.willamettecommerce.example is served from Google Cloud (ghs.googlehosted.com).",
+        "observed_at": "2026-10-01T16:00:00Z"
+      }
+    ],
+    "data_source": "mock",
+    "collected_at": "2026-10-01T16:00:00Z",
+    "warnings": []
+  }
+}

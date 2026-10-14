@@ -1,0 +1,70 @@
+{
+  "company_name": "Kelp Learning",
+  "domain": "kelplearning.example",
+  "website_url": "https://kelplearning.example",
+  "hq_city": "Los Angeles",
+  "hq_state": "CA",
+  "description": "AI tutor that coaches K-12 students through math homework step by step.",
+  "vertical": "Edtech",
+  "employee_count": 25,
+  "funding_stage": "seed",
+  "total_funding_usd": 4500000,
+  "last_round_date": "2026-07-22",
+  "investors": [
+    "Pacific Rim Angels"
+  ],
+  "founded_year": 2024,
+  "ats_hint": "ashby",
+  "ats_board_token": "kelplearning",
+  "contacts": [],
+  "tech_stack": {
+    "domain": "kelplearning.example",
+    "ats": "ashby",
+    "ats_board_token": "kelplearning",
+    "total_open_roles": 4,
+    "ai_role_count": 2,
+    "ai_roles": [
+      {
+        "ats": "ashby",
+        "external_id": "kelplearning-101",
+        "title": "AI Engineer, Tutoring",
+        "url": "https://kelplearning.example/careers/ai-engineer-tutoring",
+        "location": "Los Angeles, CA",
+        "department": "Engineering",
+        "description_text": "Ship tutoring features on the OpenAI API and keep cost per student session low as we scale to new districts.",
+        "posted_at": "2026-09-29T00:00:00Z"
+      }
+    ],
+    "cloud": [],
+    "primary_cloud": "unknown",
+    "competitors": [
+      {
+        "kind": "openai",
+        "confidence": 0.75,
+        "evidence_ids": [
+          "E1"
+        ]
+      }
+    ],
+    "keyword_hits": {
+      "inference_cost": 2,
+      "agents": 1,
+      "evals": 1,
+      "latency": 1
+    },
+    "evidence": [
+      {
+        "id": "E1",
+        "kind": "job_posting",
+        "source_url": "https://kelplearning.example/careers/ai-engineer-tutoring",
+        "snippet": "Ship tutoring features on the OpenAI API and keep cost per student session low.",
+        "observed_at": "2026-10-01T16:00:00Z"
+      }
+    ],
+    "data_source": "mock",
+    "collected_at": "2026-10-01T16:00:00Z",
+    "warnings": [
+      "kelplearning.example is behind a CDN; hosting provider not visible in DNS"
+    ]
+  }
+}

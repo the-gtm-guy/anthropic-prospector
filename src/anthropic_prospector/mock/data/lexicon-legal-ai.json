@@ -1,0 +1,128 @@
+{
+  "company_name": "Lexicon Legal AI",
+  "domain": "lexiconlegal.example",
+  "website_url": "https://lexiconlegal.example",
+  "hq_city": "San Francisco",
+  "hq_state": "CA",
+  "description": "Contract review copilot that redlines NDAs, MSAs and DPAs against a firm's playbook.",
+  "vertical": "Legal tech",
+  "employee_count": 85,
+  "funding_stage": "series_b",
+  "total_funding_usd": 48000000,
+  "last_round_date": "2026-03-17",
+  "investors": [
+    "Northbeam Ventures",
+    "Cedar Point Capital"
+  ],
+  "founded_year": 2021,
+  "ats_hint": "greenhouse",
+  "ats_board_token": "lexiconlegal",
+  "contacts": [],
+  "tech_stack": {
+    "domain": "lexiconlegal.example",
+    "ats": "greenhouse",
+    "ats_board_token": "lexiconlegal",
+    "total_open_roles": 18,
+    "ai_role_count": 4,
+    "ai_roles": [
+      {
+        "ats": "greenhouse",
+        "external_id": "lexiconlegal-101",
+        "title": "Senior ML Engineer, Retrieval",
+        "url": "https://lexiconlegal.example/careers/senior-ml-engineer-retrieval",
+        "location": "San Francisco, CA (hybrid)",
+        "department": "Engineering",
+        "description_text": "Own retrieval for our contract copilot: chunking, hybrid search and re-ranking over 40-page agreements. You'll ship RAG features on the OpenAI API, build evals for clause extraction, and keep per-document inference cost flat as volume grows. Our stack: Python, LangChain, Postgres/pgvector, AWS (EKS, S3, Lambda).",
+        "posted_at": "2026-09-08T00:00:00Z"
+      },
+      {
+        "ats": "greenhouse",
+        "external_id": "lexiconlegal-102",
+        "title": "Staff Engineer, LLM Platform",
+        "url": "https://lexiconlegal.example/careers/staff-engineer-llm-platform",
+        "location": "San Francisco, CA (hybrid)",
+        "department": "Engineering",
+        "description_text": "Build the platform every product team uses to call LLMs: prompt templates, caching, rate limits, cost dashboards and fallbacks. Experience operating high-volume OpenAI API workloads required.",
+        "posted_at": "2026-09-15T00:00:00Z"
+      },
+      {
+        "ats": "greenhouse",
+        "external_id": "lexiconlegal-103",
+        "title": "Applied Scientist, Contract Intelligence",
+        "url": "https://lexiconlegal.example/careers/applied-scientist-contract-intelligence",
+        "location": "Remote (US)",
+        "department": "Research",
+        "description_text": "Design evaluation suites for clause classification and redlining quality. Long-document reasoning over full agreements; SOC 2 handling of customer data.",
+        "posted_at": "2026-08-27T00:00:00Z"
+      }
+    ],
+    "cloud": [
+      {
+        "provider": "aws",
+        "confidence": 0.9,
+        "evidence_ids": [
+          "E2",
+          "E3"
+        ]
+      }
+    ],
+    "primary_cloud": "aws",
+    "competitors": [
+      {
+        "kind": "openai",
+        "confidence": 0.85,
+        "evidence_ids": [
+          "E1",
+          "E4"
+        ]
+      },
+      {
+        "kind": "langchain",
+        "confidence": 0.6,
+        "evidence_ids": [
+          "E2"
+        ]
+      }
+    ],
+    "keyword_hits": {
+      "rag": 5,
+      "document_processing": 4,
+      "long_context": 3,
+      "evals": 2,
+      "inference_cost": 2,
+      "compliance": 1
+    },
+    "evidence": [
+      {
+        "id": "E1",
+        "kind": "job_posting",
+        "source_url": "https://lexiconlegal.example/careers/senior-ml-engineer-retrieval",
+        "snippet": "You'll ship RAG features on the OpenAI API, build evals for clause extraction, and keep per-document inference cost flat as volume grows.",
+        "observed_at": "2026-10-01T16:00:00Z"
+      },
+      {
+        "id": "E2",
+        "kind": "job_posting",
+        "source_url": "https://lexiconlegal.example/careers/senior-ml-engineer-retrieval",
+        "snippet": "Our stack: Python, LangChain, Postgres/pgvector, AWS (EKS, S3, Lambda).",
+        "observed_at": "2026-10-01T16:00:00Z"
+      },
+      {
+        "id": "E3",
+        "kind": "dns",
+        "snippet": "app.lexiconlegal.example is a CNAME for an AWS Elastic Load Balancer (elb.amazonaws.com).",
+        "observed_at": "2026-10-01T16:00:00Z"
+      },
+      {
+        "id": "E4",
+        "kind": "job_posting",
+        "source_url": "https://lexiconlegal.example/careers/staff-engineer-llm-platform",
+        "snippet": "Experience operating high-volume OpenAI API workloads required; you'll own caching, rate limits and cost dashboards.",
+        "observed_at": "2026-10-01T16:00:00Z"
+      }
+    ],
+    "data_source": "mock",
+    "collected_at": "2026-10-01T16:00:00Z",
+    "warnings": []
+  }
+}
