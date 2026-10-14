@@ -1,0 +1,47 @@
+{
+  "jobs": [
+    {
+      "id": 4012345001,
+      "title": "  Senior AI Engineer  ",
+      "absolute_url": "https://boards.greenhouse.io/examplecorp/jobs/4012345001",
+      "location": {"name": "San Francisco, CA"},
+      "departments": [{"name": "Engineering"}],
+      "first_published": "2025-03-10T09:30:00-07:00",
+      "updated_at": "2025-03-12T10:00:00-07:00",
+      "content": "&lt;p&gt;Build RAG features on the OpenAI API with LangChain, and own our evals.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Python&lt;/li&gt;&lt;li&gt;Vector search&lt;/li&gt;&lt;/ul&gt;"
+    },
+    {
+      "id": 4012345002,
+      "title": "Account Executive",
+      "absolute_url": "https://boards.greenhouse.io/examplecorp/jobs/4012345002",
+      "location": null,
+      "departments": [],
+      "updated_at": "2025-02-01T12:00:00Z",
+      "content": "&lt;p&gt;Own the full sales cycle.&lt;/p&gt;&lt;script&gt;trackHiringFunnel()&lt;/script&gt;&lt;ul&gt;&lt;li&gt;Quota carrying&lt;ul&gt;&lt;li&gt;Enterprise SaaS&lt;/li&gt;&lt;li&gt;Outbound prospecting&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;Forecasting&lt;/li&gt;&lt;/ul&gt;"
+    },
+    {
+      "id": 4012345003,
+      "title": "Office Manager",
+      "absolute_url": "https://boards.greenhouse.io/examplecorp/jobs/4012345003",
+      "location": {"name": "Remote"},
+      "departments": [{"name": "Operations"}],
+      "content": "&lt;p&gt;Keep the office running.&lt;/p&gt;"
+    },
+    {
+      "id": 4012345004,
+      "absolute_url": "https://boards.greenhouse.io/examplecorp/jobs/4012345004",
+      "location": {"name": "Remote"},
+      "departments": [],
+      "content": "&lt;p&gt;No title on this one.&lt;/p&gt;"
+    },
+    {
+      "id": 4012345005,
+      "title": "Broken Link Role",
+      "absolute_url": "jobs/4012345005",
+      "location": {"name": "Remote"},
+      "departments": [],
+      "content": "&lt;p&gt;Relative URL.&lt;/p&gt;"
+    }
+  ],
+  "meta": {"total": 5}
+}

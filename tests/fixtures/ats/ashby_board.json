@@ -1,0 +1,42 @@
+{
+  "apiVersion": "1",
+  "jobs": [
+    {
+      "id": "b1b2c3d4-0000-4000-8000-000000000001",
+      "title": "AI Research Engineer",
+      "location": "Remote - US",
+      "department": "Engineering",
+      "team": "Research",
+      "isListed": true,
+      "descriptionPlain": "Build RAG features on the OpenAI API with LangChain; design evals.",
+      "jobUrl": "https://jobs.ashbyhq.com/examplecorp/b1b2c3d4-0000-4000-8000-000000000001",
+      "applyUrl": "https://jobs.ashbyhq.com/examplecorp/b1b2c3d4-0000-4000-8000-000000000001/application",
+      "publishedAt": "2025-04-01T08:00:00+02:00"
+    },
+    {
+      "id": "b1b2c3d4-0000-4000-8000-000000000002",
+      "title": "Account Executive",
+      "team": "Sales",
+      "descriptionHtml": "<p>Sell to <em>mid-market</em> teams.</p><style>.x{color:red}</style><ul><li>Pipeline</li></ul>",
+      "applyUrl": "https://jobs.ashbyhq.com/examplecorp/b1b2c3d4-0000-4000-8000-000000000002/application",
+      "publishedDate": "2025-01-15T00:00:00Z"
+    },
+    {
+      "id": "b1b2c3d4-0000-4000-8000-000000000003",
+      "title": "Hidden Role",
+      "isListed": false,
+      "descriptionPlain": "Unlisted.",
+      "jobUrl": "https://jobs.ashbyhq.com/examplecorp/b1b2c3d4-0000-4000-8000-000000000003"
+    },
+    {
+      "id": "b1b2c3d4-0000-4000-8000-000000000004",
+      "title": "No Link Role",
+      "descriptionPlain": "Neither jobUrl nor applyUrl."
+    },
+    {
+      "id": "b1b2c3d4-0000-4000-8000-000000000005",
+      "title": "Relative Link Role",
+      "jobUrl": "/examplecorp/b1b2c3d4-0000-4000-8000-000000000005"
+    }
+  ]
+}

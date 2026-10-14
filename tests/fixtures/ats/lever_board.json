@@ -1,0 +1,37 @@
+[
+  {
+    "id": "a1b2c3d4-0000-4000-8000-000000000001",
+    "text": "Machine Learning Engineer",
+    "hostedUrl": "https://jobs.lever.co/examplecorp/a1b2c3d4-0000-4000-8000-000000000001",
+    "categories": {"location": "New York, NY", "team": "Applied AI", "department": "Engineering", "commitment": "Full-time"},
+    "descriptionPlain": "Build RAG features on the OpenAI API with LangChain and run evals.",
+    "lists": [
+      {"text": "What you'll do", "content": "<li>Ship LLM features</li><li>Write evals</li>"},
+      {"text": "Requirements", "content": "<li>Python</li>"}
+    ],
+    "additionalPlain": "We are an equal opportunity employer.",
+    "createdAt": 1700000000000
+  },
+  {
+    "id": "a1b2c3d4-0000-4000-8000-000000000002",
+    "text": "Account Executive",
+    "hostedUrl": "https://jobs.lever.co/examplecorp/a1b2c3d4-0000-4000-8000-000000000002",
+    "categories": {"team": "Sales"},
+    "description": "<div>Close <b>enterprise</b> deals.<script>track()</script></div>",
+    "lists": [],
+    "additional": "<p>Competitive commission.</p>"
+  },
+  {
+    "id": "a1b2c3d4-0000-4000-8000-000000000003",
+    "hostedUrl": "https://jobs.lever.co/examplecorp/a1b2c3d4-0000-4000-8000-000000000003",
+    "categories": {},
+    "descriptionPlain": "Posting without a title."
+  },
+  {
+    "id": "a1b2c3d4-0000-4000-8000-000000000004",
+    "text": "Bad URL Role",
+    "hostedUrl": "ftp://jobs.lever.co/examplecorp/a1b2c3d4-0000-4000-8000-000000000004",
+    "categories": {},
+    "descriptionPlain": "Not http(s)."
+  }
+]
