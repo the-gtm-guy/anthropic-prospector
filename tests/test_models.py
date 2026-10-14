@@ -99,6 +99,7 @@ def make_tech_stack(**overrides: Any) -> TechStackSignals:
         "primary_cloud": "aws",
         "competitors": [{"kind": "openai", "confidence": 0.7, "evidence_ids": ["E1"]}],
         "keyword_hits": {"rag": 3, "evals": 1},
+        "keyword_evidence": {"rag": ["E1"]},
         "evidence": [
             make_evidence(1),
             make_evidence(2, kind="dns", source_url=None, snippet="app CNAME elb.amazonaws.com"),
@@ -269,7 +270,7 @@ def test_public_names_exist() -> None:
         (ElementStatus, ["unknown", "hypothesized", "validated"]),
         (Health, ["green", "yellow", "red", "grey"]),
         (Tier, ["A", "B", "C", "D"]),
-        (Recommendation, ["pursue", "nurture", "disqualify", "route_to_ae"]),
+        (Recommendation, ["pursue", "nurture", "disqualify", "route_to_ae", "route_to_owner"]),
         (Persona, ["eng_leader", "ai_ml_lead", "cto_founder", "finance", "procurement"]),
         (Channel, ["email", "linkedin", "call"]),
         (
@@ -431,6 +432,8 @@ def test_posting_text_is_clipped_and_urls_must_be_absolute() -> None:
             "unknown evidence ids: E9",
         ),
         ({"evidence": [make_evidence(1), make_evidence(1)]}, "duplicate evidence ids: E1"),
+        ({"keyword_evidence": {"rag": ["E9"]}}, "keyword_evidence cite unknown evidence ids: E9"),
+        ({"keyword_evidence": {"latency": ["E1"]}}, "keywords with no hits: latency"),
         (
             {
                 "cloud": [

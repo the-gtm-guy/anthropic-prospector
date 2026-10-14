@@ -1,0 +1,75 @@
+{
+  "coverage_pct": 25.0,
+  "headline": "Saguaro Freight: where Claude could fit as AI plans take shape",
+  "meddpicc": {
+    "champion": {
+      "evidence": [],
+      "score": null,
+      "status": "unknown"
+    },
+    "competition": {
+      "evidence": [],
+      "score": null,
+      "status": "unknown"
+    },
+    "decision_criteria": {
+      "evidence": [],
+      "score": null,
+      "status": "unknown"
+    },
+    "decision_process": {
+      "evidence": [],
+      "score": 4,
+      "status": "hypothesized"
+    },
+    "economic_buyer": {
+      "evidence": [],
+      "score": null,
+      "status": "unknown"
+    },
+    "identify_pain": {
+      "evidence": [],
+      "score": null,
+      "status": "unknown"
+    },
+    "metrics": {
+      "evidence": [],
+      "score": null,
+      "status": "unknown"
+    },
+    "paper_process": {
+      "evidence": [
+        "E1"
+      ],
+      "score": 4,
+      "status": "hypothesized"
+    }
+  },
+  "overall_fit": 25,
+  "primary_wedge": null,
+  "recommendation": "disqualify",
+  "suppressions": [
+    "No AI or LLM signal in public data: nurture until one appears."
+  ],
+  "tier": "C",
+  "total_score": 40,
+  "wedges": {
+    "cloud_drawdown": {
+      "confidence": 1.0,
+      "evidence": [
+        "E1"
+      ],
+      "fit": 36
+    },
+    "extended_thinking": {
+      "confidence": 0.0,
+      "evidence": [],
+      "fit": 0
+    },
+    "prompt_caching": {
+      "confidence": 0.0,
+      "evidence": [],
+      "fit": 0
+    }
+  }
+}

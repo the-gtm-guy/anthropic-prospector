@@ -69,6 +69,11 @@
       "evals": 1,
       "code_generation": 1
     },
+    "keyword_evidence": {
+      "latency": [
+        "E3"
+      ]
+    },
     "evidence": [
       {
         "id": "E1",
@@ -81,6 +86,13 @@
         "id": "E2",
         "kind": "dns",
         "snippet": "app.willamettecommerce.example is served from Google Cloud (ghs.googlehosted.com).",
+        "observed_at": "2026-10-01T16:00:00Z"
+      },
+      {
+        "id": "E3",
+        "kind": "job_posting",
+        "source_url": "https://willamettecommerce.example/careers/ml-engineer-generative-insights",
+        "snippet": "Latency matters: insights render inline.",
         "observed_at": "2026-10-01T16:00:00Z"
       }
     ],

@@ -187,7 +187,8 @@ class Recommendation(StrEnum):
     PURSUE = "pursue"
     NURTURE = "nurture"
     DISQUALIFY = "disqualify"
-    ROUTE_TO_AE = "route_to_ae"
+    ROUTE_TO_AE = "route_to_ae"  # already a Claude customer: expansion, not cold outbound
+    ROUTE_TO_OWNER = "route_to_owner"  # outside the territory: hand to the owning rep
 
 
 class Persona(StrEnum):
@@ -491,6 +492,8 @@ class TechStackSignals(_Contract):
     primary_cloud: CloudProvider = CloudProvider.UNKNOWN
     competitors: list[CompetitorSignal] = Field(default_factory=list)
     keyword_hits: dict[SignalKeyword, NonNegativeInt] = Field(default_factory=dict)
+    # Evidence behind a keyword count, where a snippet was kept. Optional per keyword.
+    keyword_evidence: dict[SignalKeyword, list[str]] = Field(default_factory=dict)
     evidence: list[Evidence] = Field(default_factory=list)
     data_source: DataSource
     collected_at: UtcDatetime
@@ -506,6 +509,11 @@ class TechStackSignals(_Contract):
         known = _unique_evidence_ids(self.evidence)
         signals: list[CloudSignal | CompetitorSignal] = [*self.cloud, *self.competitors]
         _require_cited((i for s in signals for i in s.evidence_ids), known, "signals")
+        _require_cited(
+            (i for ids in self.keyword_evidence.values() for i in ids), known, "keyword_evidence"
+        )
+        if uncounted := sorted(k for k in self.keyword_evidence if not self.keyword_hits.get(k)):
+            raise ValueError(f"keyword_evidence for keywords with no hits: {', '.join(uncounted)}")
 
         providers = [s.provider for s in self.cloud]
         if len(set(providers)) != len(providers):

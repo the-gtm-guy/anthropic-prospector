@@ -79,6 +79,24 @@
       "long_context": 2,
       "latency": 1
     },
+    "keyword_evidence": {
+      "agents": [
+        "E1"
+      ],
+      "code_generation": [
+        "E1"
+      ],
+      "multi_step_reasoning": [
+        "E1",
+        "E4"
+      ],
+      "evals": [
+        "E2"
+      ],
+      "long_context": [
+        "E4"
+      ]
+    },
     "evidence": [
       {
         "id": "E1",
@@ -98,6 +116,13 @@
         "id": "E3",
         "kind": "dns",
         "snippet": "app.quartzdev.example is served from Google Cloud Run (*.run.app).",
+        "observed_at": "2026-10-01T16:00:00Z"
+      },
+      {
+        "id": "E4",
+        "kind": "job_posting",
+        "source_url": "https://quartzdev.example/careers/research-engineer-reasoning",
+        "snippet": "Improve multi-step reasoning on hard diffs: long context, tool use and self-verification.",
         "observed_at": "2026-10-01T16:00:00Z"
       }
     ],

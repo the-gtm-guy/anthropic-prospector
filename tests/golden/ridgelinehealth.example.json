@@ -1,0 +1,91 @@
+{
+  "coverage_pct": 62.5,
+  "headline": "Ridgeline Health AI: buy Claude through Amazon Bedrock on your existing cloud account",
+  "meddpicc": {
+    "champion": {
+      "evidence": [],
+      "score": null,
+      "status": "unknown"
+    },
+    "competition": {
+      "evidence": [
+        "E1",
+        "E3"
+      ],
+      "score": 6,
+      "status": "validated"
+    },
+    "decision_criteria": {
+      "evidence": [
+        "E2"
+      ],
+      "score": 5,
+      "status": "hypothesized"
+    },
+    "decision_process": {
+      "evidence": [],
+      "score": null,
+      "status": "unknown"
+    },
+    "economic_buyer": {
+      "evidence": [],
+      "score": null,
+      "status": "unknown"
+    },
+    "identify_pain": {
+      "evidence": [
+        "E1",
+        "E4",
+        "E3"
+      ],
+      "score": 6,
+      "status": "hypothesized"
+    },
+    "metrics": {
+      "evidence": [
+        "E2"
+      ],
+      "score": 4,
+      "status": "hypothesized"
+    },
+    "paper_process": {
+      "evidence": [
+        "E1",
+        "E4"
+      ],
+      "score": 4,
+      "status": "hypothesized"
+    }
+  },
+  "overall_fit": 73,
+  "primary_wedge": "cloud_drawdown",
+  "recommendation": "pursue",
+  "suppressions": [],
+  "tier": "C",
+  "total_score": 52,
+  "wedges": {
+    "cloud_drawdown": {
+      "confidence": 1.0,
+      "evidence": [
+        "E1",
+        "E4",
+        "E3"
+      ],
+      "fit": 80
+    },
+    "extended_thinking": {
+      "confidence": 0.0,
+      "evidence": [],
+      "fit": 0
+    },
+    "prompt_caching": {
+      "confidence": 1.0,
+      "evidence": [
+        "E3",
+        "E2",
+        "E1"
+      ],
+      "fit": 55
+    }
+  }
+}

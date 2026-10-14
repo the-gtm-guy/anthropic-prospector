@@ -82,6 +82,29 @@
       "latency": 2,
       "document_processing": 2
     },
+    "keyword_evidence": {
+      "self_hosted_models": [
+        "E1"
+      ],
+      "gpu_infra": [
+        "E1"
+      ],
+      "latency": [
+        "E2"
+      ],
+      "inference_cost": [
+        "E2"
+      ],
+      "compliance": [
+        "E2"
+      ],
+      "fine_tuning": [
+        "E3"
+      ],
+      "document_processing": [
+        "E3"
+      ]
+    },
     "evidence": [
       {
         "id": "E1",

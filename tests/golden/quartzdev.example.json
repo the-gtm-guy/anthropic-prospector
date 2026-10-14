@@ -1,0 +1,89 @@
+{
+  "coverage_pct": 75.0,
+  "headline": "Quartz DevTools: more reliable multi-step agents with Claude extended thinking",
+  "meddpicc": {
+    "champion": {
+      "evidence": [],
+      "score": null,
+      "status": "unknown"
+    },
+    "competition": {
+      "evidence": [
+        "E2"
+      ],
+      "score": 6,
+      "status": "validated"
+    },
+    "decision_criteria": {
+      "evidence": [
+        "E2"
+      ],
+      "score": 5,
+      "status": "hypothesized"
+    },
+    "decision_process": {
+      "evidence": [],
+      "score": 4,
+      "status": "hypothesized"
+    },
+    "economic_buyer": {
+      "evidence": [],
+      "score": null,
+      "status": "unknown"
+    },
+    "identify_pain": {
+      "evidence": [
+        "E1",
+        "E4",
+        "E2"
+      ],
+      "score": 7,
+      "status": "hypothesized"
+    },
+    "metrics": {
+      "evidence": [],
+      "score": 4,
+      "status": "hypothesized"
+    },
+    "paper_process": {
+      "evidence": [
+        "E3"
+      ],
+      "score": 4,
+      "status": "hypothesized"
+    }
+  },
+  "overall_fit": 81,
+  "primary_wedge": "extended_thinking",
+  "recommendation": "pursue",
+  "suppressions": [],
+  "tier": "C",
+  "total_score": 53,
+  "wedges": {
+    "cloud_drawdown": {
+      "confidence": 1.0,
+      "evidence": [
+        "E3",
+        "E2"
+      ],
+      "fit": 61
+    },
+    "extended_thinking": {
+      "confidence": 1.0,
+      "evidence": [
+        "E1",
+        "E4",
+        "E2"
+      ],
+      "fit": 89
+    },
+    "prompt_caching": {
+      "confidence": 1.0,
+      "evidence": [
+        "E4",
+        "E2"
+      ],
+      "fit": 31
+    }
+  }
+}

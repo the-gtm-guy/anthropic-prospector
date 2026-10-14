@@ -79,6 +79,24 @@
       "code_generation": 2,
       "latency": 1
     },
+    "keyword_evidence": {
+      "agents": [
+        "E1"
+      ],
+      "multi_step_reasoning": [
+        "E1"
+      ],
+      "code_generation": [
+        "E1"
+      ],
+      "evals": [
+        "E2",
+        "E5"
+      ],
+      "latency": [
+        "E5"
+      ]
+    },
     "evidence": [
       {
         "id": "E1",
@@ -105,6 +123,13 @@
         "kind": "job_posting",
         "source_url": "https://tidewater.example/careers/ml-engineer-evaluation",
         "snippet": "Stack: BigQuery, Cloud Run and Vertex AI on GCP; OpenAI models via API for agent reasoning.",
+        "observed_at": "2026-10-01T16:00:00Z"
+      },
+      {
+        "id": "E5",
+        "kind": "job_posting",
+        "source_url": "https://tidewater.example/careers/ml-engineer-evaluation",
+        "snippet": "Own offline and online evals for our agents: regression suites, LLM-as-judge rubrics and latency budgets.",
         "observed_at": "2026-10-01T16:00:00Z"
       }
     ],

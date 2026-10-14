@@ -1,0 +1,85 @@
+{
+  "coverage_pct": 62.5,
+  "headline": "Hudson Ledger: buy Claude through Amazon Bedrock on your existing cloud account",
+  "meddpicc": {
+    "champion": {
+      "evidence": [],
+      "score": null,
+      "status": "unknown"
+    },
+    "competition": {
+      "evidence": [
+        "E1"
+      ],
+      "score": 6,
+      "status": "validated"
+    },
+    "decision_criteria": {
+      "evidence": [
+        "E3"
+      ],
+      "score": 5,
+      "status": "hypothesized"
+    },
+    "decision_process": {
+      "evidence": [],
+      "score": null,
+      "status": "unknown"
+    },
+    "economic_buyer": {
+      "evidence": [],
+      "score": null,
+      "status": "unknown"
+    },
+    "identify_pain": {
+      "evidence": [
+        "E2",
+        "E1"
+      ],
+      "score": 5,
+      "status": "hypothesized"
+    },
+    "metrics": {
+      "evidence": [],
+      "score": 3,
+      "status": "hypothesized"
+    },
+    "paper_process": {
+      "evidence": [
+        "E2"
+      ],
+      "score": 4,
+      "status": "hypothesized"
+    }
+  },
+  "overall_fit": 59,
+  "primary_wedge": "cloud_drawdown",
+  "recommendation": "route_to_owner",
+  "suppressions": [
+    "HQ in NY is outside the AZ/CA/OR/WA territory: route to the owning rep."
+  ],
+  "tier": "C",
+  "total_score": 46,
+  "wedges": {
+    "cloud_drawdown": {
+      "confidence": 1.0,
+      "evidence": [
+        "E2",
+        "E1"
+      ],
+      "fit": 64
+    },
+    "extended_thinking": {
+      "confidence": 0.0,
+      "evidence": [],
+      "fit": 0
+    },
+    "prompt_caching": {
+      "confidence": 1.0,
+      "evidence": [
+        "E1"
+      ],
+      "fit": 48
+    }
+  }
+}
