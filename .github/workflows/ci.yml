@@ -58,6 +58,8 @@ jobs:
         run: |
           /tmp/wheel-env/bin/python -W error -c "from anthropic_prospector.mock import fixture_profiles; assert fixture_profiles()"
           /tmp/wheel-env/bin/prospector --version
+          /tmp/wheel-env/bin/prospector qualify lexiconlegal.example --offline
+          /tmp/wheel-env/bin/prospector territory-batch "$GITHUB_WORKSPACE/targets.csv" --offline --out-dir /tmp/prospector-out
 
   min-deps:
     name: test (lowest direct deps, py3.11)
