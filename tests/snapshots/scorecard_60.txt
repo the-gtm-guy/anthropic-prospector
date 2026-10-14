@@ -1,0 +1,30 @@
+Lexicon Legal AI  lexiconlegal.example  CA
+MEDDPICC scorecard
+◐ partial  Metrics  4/10  hypothesized
+  → Ask for current inference cost and the target that would
+    justify a change.                                       
+○ unknown  Economic buyer  –  unknown
+  → Identify the CTO or a founder and confirm they own the  
+    AI budget.                                              
+◐ partial  Decision criteria  5/10  hypothesized
+  → Ask which criteria a model vendor must pass, and who    
+    checks them.                                            
+○ unknown  Decision process  –  unknown
+  → Ask how they chose their current model vendor and how   
+    long it took.                                           
+◐ partial  Paper process  4/10  hypothesized
+  → Ask whether they can buy through Amazon Bedrock and what
+    review it needs.                                        
+✓ strong  Identify pain  7/10  hypothesized
+  → Roughly what share of each prompt is the same across    
+    calls (system prompt, retrieved documents, tool         
+    definitions)?                                           
+○ unknown  Champion  –  unknown
+  → Find the hiring manager for 'Senior ML Engineer,        
+    Retrieval'.                                             
+◐ partial  Competition  6/10  validated
+  → Ask what would make them run a side-by-side on one      
+    workload.                                               
+PURSUE · Tier B · MEDDPICC 55/100 · 62% known · fit 82
+Signals are inferred from public data and may be incomplete 
+or out of date. Verify them before outreach.

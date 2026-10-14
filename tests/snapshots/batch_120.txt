@@ -1,0 +1,18 @@
+DATA MOCK (illustrative data) · LLM mock ($0, rules-based) · mode offline
+Ranked accounts: 10 shown of 26                                                                                         
+╭────┬──────────────────────────────────────┬────┬────────────────┬────────┬──────────┬─────┬───────────────────┬──────╮
+│  # │ Company                              │ ST │ Recommendation │ Tier   │ MEDDPICC │ Fit │ Primary wedge     │ Data │
+├────┼──────────────────────────────────────┼────┼────────────────┼────────┼──────────┼─────┼───────────────────┼──────┤
+│  1 │ Lexicon Legal AI                     │ CA │ PURSUE         │ Tier C │       52 │  82 │ Prompt caching    │ MOCK │
+│  2 │ Arroyo Finance                       │ CA │ PURSUE         │ Tier C │       52 │  81 │ Prompt caching    │ MOCK │
+│  3 │ Quartz DevTools                      │ CA │ PURSUE         │ Tier C │       52 │  81 │ Extended thinking │ MOCK │
+│  4 │ Bluefin Robotics                     │ CA │ PURSUE         │ Tier B │       55 │  76 │ Prompt caching    │ MOCK │
+│  5 │ Tidewater Analytics                  │ WA │ PURSUE         │ Tier C │       49 │  76 │ Extended thinking │ MOCK │
+│  6 │ Ridgeline Health AI                  │ OR │ PURSUE         │ Tier C │       52 │  73 │ Cloud marketplace │ MOCK │
+│  7 │ Cascade Compliance                   │ WA │ PURSUE         │ Tier C │       51 │  73 │ Prompt caching    │ MOCK │
+│  8 │ Rainier Retail AI                    │ WA │ PURSUE         │ Tier C │       51 │  67 │ Cloud marketplace │ MOCK │
+│  9 │ Marigold HR                          │ CA │ PURSUE         │ Tier C │       52 │  65 │ Cloud marketplace │ MOCK │
+│ 10 │ Mesa InsureTech                      │ AZ │ PURSUE         │ Tier C │       46 │  64 │ Cloud marketplace │ MOCK │
+╰────┴──────────────────────────────────────┴────┴────────────────┴────────┴──────────┴─────┴───────────────────┴──────╯
+LLM mock: no tokens, $0.00
+Data 26 mock
