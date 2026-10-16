@@ -632,11 +632,6 @@ def diagnose(settings: Settings) -> list[Check]:
             "(--offline: illustrative only; --live: public only)",
         ),
         _cache_check(settings.cache_dir),
-        Check(
-            "BUILTWITH_API_KEY, GITHUB_TOKEN",
-            None,
-            "reserved for future enrichers; this version does not use them",
-        ),
     ]
     return checks
 
