@@ -116,8 +116,8 @@ the accents are fills, bars and icons, and all text is Dark.
 - **Body:** Runs with zero keys: try prospector qualify lexiconlegal.example --offline. Respects robots.txt and rate limits; no personal data scraped.
 - **Background:** Dark
 - **Visual:** The command in a code chip, the repository URL, and an optional QR code to the repository.
-- **Design prompt:** Portrait 1080×1350 slide, solid background #141413. Headline top-left in Poppins SemiBold 80 px #faf9f5, with "Try it." in #d97757. Body in Lora 34 px #faf9f5. Middle: a code chip with a 2 px #b0aea5 outline and 16 px radius, containing `prospector qualify lexiconlegal.example --offline` in a monospace 28 px #faf9f5. Below it: github.com/the-gtm-guy/EE-JOP in Poppins Medium 30 px #6a9bcc, and an optional 240 px QR code to the same URL in #faf9f5 on #141413 with a quiet zone. No logos. Footer "6 / 6" in #b0aea5.
-- **Alt text:** Dark slide headed "Public data only. Open source. Try it." The command to run the tool offline, the repository address github.com/the-gtm-guy/EE-JOP and a QR code to it.
+- **Design prompt:** Portrait 1080×1350 slide, solid background #141413. Headline top-left in Poppins SemiBold 80 px #faf9f5, with "Try it." in #d97757. Body in Lora 34 px #faf9f5. Middle: a code chip with a 2 px #b0aea5 outline and 16 px radius, containing `prospector qualify lexiconlegal.example --offline` in a monospace 28 px #faf9f5. Below it: github.com/the-gtm-guy/anthropic-prospector in Poppins Medium 30 px #6a9bcc, and an optional 240 px QR code to the same URL in #faf9f5 on #141413 with a quiet zone. No logos. Footer "6 / 6" in #b0aea5.
+- **Alt text:** Dark slide headed "Public data only. Open source. Try it." The command to run the tool offline, the repository address github.com/the-gtm-guy/anthropic-prospector and a QR code to it.
 
 ## LinkedIn post
 
@@ -146,8 +146,8 @@ the accents are fills, bars and icons, and all text is Dark.
 
 ### First comment
 
-> Code: https://github.com/the-gtm-guy/EE-JOP
-> A sample brief from the fictional territory: https://github.com/the-gtm-guy/EE-JOP/blob/main/examples/lexiconlegal-example.md
+> Code: https://github.com/the-gtm-guy/anthropic-prospector
+> A sample brief from the fictional territory: https://github.com/the-gtm-guy/anthropic-prospector/blob/main/examples/lexiconlegal-example.md
 
 LinkedIn tends to show posts with outside links to fewer people, so the links go in the
 first comment.

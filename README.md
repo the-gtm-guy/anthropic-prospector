@@ -1,6 +1,6 @@
 # anthropic-prospector
 
-[![CI](https://github.com/the-gtm-guy/EE-JOP/actions/workflows/ci.yml/badge.svg)](https://github.com/the-gtm-guy/EE-JOP/actions/workflows/ci.yml)
+[![CI](https://github.com/the-gtm-guy/anthropic-prospector/actions/workflows/ci.yml/badge.svg)](https://github.com/the-gtm-guy/anthropic-prospector/actions/workflows/ci.yml)
 ![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-blue)
 ![License: MIT](https://img.shields.io/badge/license-MIT-green)
 
@@ -36,8 +36,7 @@ and Claude writes the narrative.
 Python 3.11 or newer:
 
 ```bash
-git clone https://github.com/the-gtm-guy/EE-JOP.git
-cd EE-JOP
+git clone https://github.com/the-gtm-guy/anthropic-prospector.git && cd anthropic-prospector
 python -m venv .venv && source .venv/bin/activate
 pip install -e ".[dev]"
 ```

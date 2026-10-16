@@ -47,8 +47,8 @@ dev = [
 prospector = "anthropic_prospector.cli:app"
 
 [project.urls]
-Homepage = "https://github.com/the-gtm-guy/EE-JOP"
-Changelog = "https://github.com/the-gtm-guy/EE-JOP/blob/main/CHANGELOG.md"
+Homepage = "https://github.com/the-gtm-guy/anthropic-prospector"
+Changelog = "https://github.com/the-gtm-guy/anthropic-prospector/blob/main/CHANGELOG.md"
 
 [tool.hatch.version]
 path = "src/anthropic_prospector/__init__.py"

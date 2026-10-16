@@ -30,4 +30,4 @@ runnable end to end with zero keys.
 - **Documentation:** a README whose examples the test suite executes, a sample brief, and
   a LinkedIn carousel deck with WCAG-checked colours.
 
-[0.1.0]: https://github.com/the-gtm-guy/EE-JOP/releases/tag/v0.1.0
+[0.1.0]: https://github.com/the-gtm-guy/anthropic-prospector/releases/tag/v0.1.0
