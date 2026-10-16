@@ -1,0 +1,19 @@
+DATA MOCK (illustrative data) · LLM mock ($0, rules-based) ·
+mode offline
+Ranked accounts: 10 shown of 26                             
+╭────┬──────────────────────────────────────┬────────┬─────╮
+│  # │ Company                              │ Rec.   │ Fit │
+├────┼──────────────────────────────────────┼────────┼─────┤
+│  1 │ Lexicon Legal AI                     │ PURSUE │  82 │
+│  2 │ Arroyo Finance                       │ PURSUE │  81 │
+│  3 │ Quartz DevTools                      │ PURSUE │  81 │
+│  4 │ Bluefin Robotics                     │ PURSUE │  76 │
+│  5 │ Tidewater Analytics                  │ PURSUE │  76 │
+│  6 │ Ridgeline Health AI                  │ PURSUE │  73 │
+│  7 │ Cascade Compliance                   │ PURSUE │  73 │
+│  8 │ Rainier Retail AI                    │ PURSUE │  67 │
+│  9 │ Marigold HR                          │ PURSUE │  65 │
+│ 10 │ Mesa InsureTech                      │ PURSUE │  64 │
+╰────┴──────────────────────────────────────┴────────┴─────╯
+LLM mock: no tokens, $0.00
+Data 26 mock

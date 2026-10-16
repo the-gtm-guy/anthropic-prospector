@@ -39,8 +39,6 @@ class Settings(BaseSettings):
     anthropic_model: str = Field(
         default=DEFAULT_MODEL, min_length=1, validation_alias="ANTHROPIC_MODEL"
     )
-    builtwith_api_key: SecretStr | None = Field(default=None, validation_alias="BUILTWITH_API_KEY")
-    github_token: SecretStr | None = Field(default=None, validation_alias="GITHUB_TOKEN")
 
     cache_dir: Path = Field(default_factory=default_cache_dir)
     cache_ttl_hours: float = Field(default=24.0, ge=0)
@@ -49,7 +47,7 @@ class Settings(BaseSettings):
     http_connect_timeout_s: float = Field(default=5.0, gt=0)
     http_read_timeout_s: float = Field(default=15.0, gt=0)
 
-    @field_validator("anthropic_api_key", "builtwith_api_key", "github_token", mode="before")
+    @field_validator("anthropic_api_key", mode="before")
     @classmethod
     def _blank_is_unset(cls, value: Any) -> Any:
         # A whitespace-only key would otherwise switch the tool into live mode and fail.

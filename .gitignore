@@ -21,6 +21,10 @@ htmlcov/
 # Generated output (territory-batch briefs, ranked.csv, checkpoints)
 out/
 
+# prospector output
+prospector-out/
+briefs/
+
 # Editors / OS
 .idea/
 .vscode/

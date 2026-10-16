@@ -1,0 +1,47 @@
+Lexicon Legal AI  lexiconlegal.example  CA
+MEDDPICC scorecard                                                              
+╭───────────────────┬────────┬──────────────┬───────────┬──────────────────────╮
+│ Element           │ Score  │ Status       │ Health    │ Next action          │
+├───────────────────┼────────┼──────────────┼───────────┼──────────────────────┤
+│ Metrics           │ 4/10   │ hypothesized │ ◐ partial │ Ask for current      │
+│                   │        │              │           │ inference cost and   │
+│                   │        │              │           │ the target that      │
+│                   │        │              │           │ would justify a      │
+│                   │        │              │           │ change.              │
+│ Economic buyer    │ –      │ unknown      │ ○ unknown │ Identify the CTO or  │
+│                   │        │              │           │ a founder and        │
+│                   │        │              │           │ confirm they own the │
+│                   │        │              │           │ AI budget.           │
+│ Decision criteria │ 5/10   │ hypothesized │ ◐ partial │ Ask which criteria a │
+│                   │        │              │           │ model vendor must    │
+│                   │        │              │           │ pass, and who checks │
+│                   │        │              │           │ them.                │
+│ Decision process  │ –      │ unknown      │ ○ unknown │ Ask how they chose   │
+│                   │        │              │           │ their current model  │
+│                   │        │              │           │ vendor and how long  │
+│                   │        │              │           │ it took.             │
+│ Paper process     │ 4/10   │ hypothesized │ ◐ partial │ Ask whether they can │
+│                   │        │              │           │ buy through Amazon   │
+│                   │        │              │           │ Bedrock and what     │
+│                   │        │              │           │ review it needs.     │
+│ Identify pain     │ 7/10   │ hypothesized │ ✓ strong  │ Roughly what share   │
+│                   │        │              │           │ of each prompt is    │
+│                   │        │              │           │ the same across      │
+│                   │        │              │           │ calls (system        │
+│                   │        │              │           │ prompt, retrieved    │
+│                   │        │              │           │ documents, tool      │
+│                   │        │              │           │ definitions)?        │
+│ Champion          │ –      │ unknown      │ ○ unknown │ Find the hiring      │
+│                   │        │              │           │ manager for 'Senior  │
+│                   │        │              │           │ ML Engineer,         │
+│                   │        │              │           │ Retrieval'.          │
+│ Competition       │ 6/10   │ validated    │ ◐ partial │ Ask what would make  │
+│                   │        │              │           │ them run a           │
+│                   │        │              │           │ side-by-side on one  │
+│                   │        │              │           │ workload.            │
+├───────────────────┼────────┼──────────────┼───────────┼──────────────────────┤
+│ Total             │ 55/100 │ 62% known    │ Tier B    │ PURSUE               │
+╰───────────────────┴────────┴──────────────┴───────────┴──────────────────────╯
+PURSUE · Tier B · MEDDPICC 55/100 · 62% known · fit 82
+Signals are inferred from public data and may be incomplete or out of date. 
+Verify them before outreach.

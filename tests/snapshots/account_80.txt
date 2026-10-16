@@ -1,0 +1,70 @@
+╭─ Account ────────────────────────────────────────────────────────────────────╮
+│ Company    Lexicon Legal AI                                                  │
+│ Domain     lexiconlegal.example                                              │
+│ HQ         San Francisco, CA  in territory                                   │
+│ Vertical   Legal tech                                                        │
+│ Funding    Series B · $48M raised · last round 2026-03-17                    │
+│ Employees  85                                                                │
+│ Contacts   none supplied                                                     │
+╰──────────────────────────────────────────────────────────────────────────────╯
+╭─ Signals ────────────────────────────────────────────────────────────────────╮
+│ Hiring    4 AI/ML of 18 open roles (Greenhouse 'lexiconlegal')               │
+│ Cloud     AWS 90%                                                            │
+│ Models    OpenAI 85% · LangChain 60%                                         │
+│ Keywords  rag ×5 · document processing ×4 · long context ×3 · evals ×2 ·     │
+│           inference cost ×2                                                  │
+│ Data      MOCK · 5 evidence items · 2026-10-01                               │
+╰──────────────────────────────────────────────────────────────────────────────╯
+Anthropic wedges                                                                
+╭───────────────────┬────────────────┬───────┬─────────────────────────────────╮
+│ Wedge             │ Fit            │ Conf. │ Hypothesis                      │
+├───────────────────┼────────────────┼───────┼─────────────────────────────────┤
+│ Prompt caching ★  │  86 █████████░ │  100% │ Lexicon Legal AI appears to     │
+│                   │                │       │ send large, repeated context to │
+│                   │                │       │ an LLM (signals: RAG,           │
+│                   │                │       │ long-document or support        │
+│                   │                │       │ workloads; existing LLM API     │
+│                   │                │       │ spend; inference cost is a      │
+│                   │                │       │ stated priority). Prompt        │
+│                   │                │       │ caching bills repeated prefixes │
+│                   │                │       │ at a fraction of the input      │
+│                   │                │       │ price, so input spend should    │
+│                   │                │       │ fall as volume grows.           │
+│ Cloud marketplace │  71 ███████░░░ │  100% │ Lexicon Legal AI could buy      │
+│                   │                │       │ Claude through Amazon Bedrock   │
+│                   │                │       │ on its existing cloud account   │
+│                   │                │       │ (signals: runs on a cloud that  │
+│                   │                │       │ sells Claude; LLM spend that    │
+│                   │                │       │ could move onto the cloud       │
+│                   │                │       │ account); commit eligibility    │
+│                   │                │       │ must be confirmed with the      │
+│                   │                │       │ Anthropic partner team.         │
+│ Extended thinking │  37 ████░░░░░░ │  100% │ Lexicon Legal AI appears to run │
+│                   │                │       │ multi-step AI work (signals:    │
+│                   │                │       │ orchestration chains in         │
+│                   │                │       │ LangChain or LangGraph; quality │
+│                   │                │       │ measured with evals; reasoning  │
+│                   │                │       │ over long documents). Extended  │
+│                   │                │       │ thinking lets one call plan,    │
+│                   │                │       │ check and revise, which can     │
+│                   │                │       │ replace brittle chains of       │
+│                   │                │       │ calls.                          │
+╰───────────────────┴────────────────┴───────┴─────────────────────────────────╯
+PURSUE · Tier B · MEDDPICC 55/100 · 62% known · fit 82
+╭─ Outbound brief ─────────────────────────────────────────────────────────────╮
+│ Lexicon Legal AI: cut the cost of repeated context with Claude prompt        │
+│ caching                                                                      │
+│ Why now                                                                      │
+│ - Raised a Series B round in Mar 2026 ($48M raised to date).                 │
+│ - Hiring for 4 AI/ML roles out of 18 openings, including 'Senior ML          │
+│ Engineer, Retrieval'.                                                        │
+│ - Building with the OpenAI API and LangChain today.                          │
+│ Call opener                                                                  │
+│ Saw Lexicon Legal AI is hiring a Senior ML Engineer, Retrieval. Teams that   │
+│ send the same long context on every call (retrieved documents, system        │
+│ prompts, tool definitions) can cache it with Claude, so repeat reads bill at │
+│ a fraction of the input price. Is that on your radar this quarter?           │
+│ Sequence  day 0 email → day 2 linkedin → day 5 call → day 9 email            │
+╰──────────────────────────────────────────────────────────────────────────────╯
+Signals are inferred from public data and may be incomplete or out of date. 
+Verify them before outreach.

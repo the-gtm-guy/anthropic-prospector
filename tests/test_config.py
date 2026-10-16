@@ -12,8 +12,6 @@ def test_defaults_need_no_configuration() -> None:
     settings = Settings()
     assert not settings.has_anthropic_key
     assert settings.anthropic_api_key is None
-    assert settings.builtwith_api_key is None
-    assert settings.github_token is None
     assert settings.anthropic_model == DEFAULT_MODEL == "claude-sonnet-5-5"
     assert settings.http_concurrency == 5
     assert settings.cache_dir == default_cache_dir()
@@ -22,13 +20,11 @@ def test_defaults_need_no_configuration() -> None:
 def test_reads_third_party_names_verbatim(monkeypatch: pytest.MonkeyPatch) -> None:
     monkeypatch.setenv("ANTHROPIC_API_KEY", "sk-ant-test-123")
     monkeypatch.setenv("ANTHROPIC_MODEL", "claude-opus-5-5")
-    monkeypatch.setenv("GITHUB_TOKEN", "ghp_test")
     settings = Settings()
     assert settings.has_anthropic_key
     assert settings.anthropic_api_key is not None
     assert settings.anthropic_api_key.get_secret_value() == "sk-ant-test-123"
     assert settings.anthropic_model == "claude-opus-5-5"
-    assert settings.github_token is not None
 
 
 def test_prefix_does_not_apply_to_third_party_names(monkeypatch: pytest.MonkeyPatch) -> None:

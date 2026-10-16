@@ -1,0 +1,18 @@
+DATA MOCK (illustrative data) · LLM mock ($0, rules-based) · mode offline
+Ranked accounts: 10 shown of 26                                                 
+╭────┬─────────────────────────────────┬────┬────────┬────────┬──────────┬─────╮
+│  # │ Company                         │ ST │ Rec.   │ Tier   │ MEDDPICC │ Fit │
+├────┼─────────────────────────────────┼────┼────────┼────────┼──────────┼─────┤
+│  1 │ Lexicon Legal AI                │ CA │ PURSUE │ Tier C │       52 │  82 │
+│  2 │ Arroyo Finance                  │ CA │ PURSUE │ Tier C │       52 │  81 │
+│  3 │ Quartz DevTools                 │ CA │ PURSUE │ Tier C │       52 │  81 │
+│  4 │ Bluefin Robotics                │ CA │ PURSUE │ Tier B │       55 │  76 │
+│  5 │ Tidewater Analytics             │ WA │ PURSUE │ Tier C │       49 │  76 │
+│  6 │ Ridgeline Health AI             │ OR │ PURSUE │ Tier C │       52 │  73 │
+│  7 │ Cascade Compliance              │ WA │ PURSUE │ Tier C │       51 │  73 │
+│  8 │ Rainier Retail AI               │ WA │ PURSUE │ Tier C │       51 │  67 │
+│  9 │ Marigold HR                     │ CA │ PURSUE │ Tier C │       52 │  65 │
+│ 10 │ Mesa InsureTech                 │ AZ │ PURSUE │ Tier C │       46 │  64 │
+╰────┴─────────────────────────────────┴────┴────────┴────────┴──────────┴─────╯
+LLM mock: no tokens, $0.00
+Data 26 mock
